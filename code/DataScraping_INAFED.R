@@ -3,10 +3,10 @@
 pathCamila <- "~/Desktop/Magar/"                 
 pathEric <- "/home/eric/Desktop/MXelsCalendGovt/"
 # elegir uno u otro
-path <- pathEric
+path <- pathCamila
 
 dat.vot<- if (path==pathCamila){
-              read.csv(paste0(path, "elecRetrns/data/aymu1977-present.csv"), stringsAsFactors = FALSE, encoding = "UTF-8", local= TRUE)
+              read.csv(paste0(path, "elecRetrns/data/aymu1977-present.csv"), stringsAsFactors = FALSE, encoding = "UTF-8")
           } else {
               read.csv(paste0(path, "elecReturns/data/aymu1977-present.csv"), stringsAsFactors = FALSE)
           }
@@ -15,7 +15,7 @@ View(dat.vot)
 dat.vot[1,]
 
 # selecciona qué estado procesará el código
-edon <- 1
+edon <- 2
 estado <- c("aguascalientes", "bajacalifornia", "bajacaliforniasur", "campeche", "coahuila", "colima", "chiapas", "chihuahua", "DF", "durango", "guanajuato", "guerrero", "hidalgo", "jalisco", "mexico", "michoacan", "morelos", "nayarit", "nuevoleon", "oaxaca", "puebla", "queretaro", "quintanaroo", "sanluispotosi", "sinaloa", "sonora", "tabasco", "tamaulipas", "tlaxcala", "veracruz", "yucatan", "zacatecas")[edon]
 edo <- c("ags", "bc", "bcs", "cam", "coa", "col", "cps", "cua", "df", "dgo", "gua", "gue", "hgo", "jal", "mex", "mic", "mor", "nay", "nl", "oax", "pue", "que", "qui", "san", "sin", "son", "tab", "tam", "tla", "ver", "yuc", "zac")[edon]
 
