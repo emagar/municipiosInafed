@@ -48,4 +48,3 @@ for(i in 1:length(webpaths)) {
 }
 
 rm(filename, url.temp, txt.temp) # limpieza
-
