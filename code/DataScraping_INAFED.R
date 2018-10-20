@@ -43,7 +43,7 @@ for(i in 1:length(webpaths)) {
     filename <- as.character(edon*1000 + munn[i])
     url.temp <- file(webpaths[i], encoding = "UTF-8")
     txt.temp <-  readLines(url.temp, encoding = "UTF-8")
-    write.csv(txt.temp, paste0(filename, ".csv") , row.names = FALSE)
+    write.csv(txt.temp, paste0(filename, ".html") , row.names = FALSE)
     close(url.temp)
 }
 
