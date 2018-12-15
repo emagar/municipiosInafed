@@ -3,10 +3,10 @@
 pathCamila <- "~/Desktop/Magar/"                 
 pathEric <- "/home/eric/Desktop/MXelsCalendGovt/"
 # elegir uno u otro
-path <- pathEric
+path <- pathCamila
 
 dat.vot<- if (path==pathCamila){
-              read.csv(paste0(path, "elecRetrns/data/aymu1977-present.csv"), stringsAsFactors = FALSE, encoding = "UTF-8", local= TRUE)
+              read.csv(paste0(path, "elecRetrns/data/aymu1977-present.csv"), stringsAsFactors = FALSE, encoding = "UTF-8")
           } else {
               read.csv(paste0(path, "elecReturns/data/aymu1977-present.csv"), stringsAsFactors = FALSE)
           }
@@ -29,7 +29,7 @@ inegi <- tmp$inegi
 munn <- inegi - edon*1000
 mun  <- tmp$mun
 rm(tmp)
-
+inegi
 webpaths <- if (edon<10){
            paste0('http://www.inafed.gob.mx/work/enciclopedia/EMM0', edon, estado, "/municipios/0", inegi, "a.html")
        } else {
