@@ -1,17 +1,20 @@
 rm(list=ls())
+edon <- 15
+estado <- c("aguascalientes", "bajacalifornia", "bajacaliforniasur", "campeche", "coahuila", "colima", "chiapas", "chihuahua", "DF", "durango", "guanajuato", "guerrero", "hidalgo", "jalisco", "mexico", "michoacan", "morelos", "nayarit", "nuevoleon", "oaxaca", "puebla", "queretaro", "quintanaroo", "sanluispotosi", "sinaloa", "sonora", "tabasco", "tamaulipas", "tlaxcala", "veracruz", "yucatan", "zacatecas")[edon]
+edo <- c("ags", "bc", "bcs", "cam", "coa", "col", "cps", "cua", "df", "dgo", "gua", "gue", "hgo", "jal", "mex", "mic", "mor", "nay", "nl", "oax", "pue", "que", "qui", "san", "sin", "son", "tab", "tam", "tla", "ver", "yuc", "zac")[edon]
+estado
 
-setwd("~/Documents/CPI/Magar/municipiosInafed/codigoFuente/cps/")
+setdwd("~/Documents/CPI/Magar/municipiosInafed/codigoFuente/mex/")
 files<- list.files()
-files
-length(list.files())
-ssData<- readLines(files[119], encoding = "UTF-8")
+ssData<- readLines(files[74], encoding = "UTF-8")
 text<- grep(x= ssData, pattern = "img", perl = TRUE, value = TRUE)
-img<- gsub(x= text, pattern = ".*img[ ]src[=].*[\"\"](.*[.](jpg|png)).*", perl = TRUE, replacement = "\\1")
+text
+img<- gsub(x= text, pattern = ".*img[ ].*[=].*[\"\"](.*[.](jpg|png)).*", perl = TRUE, replacement = "\\1")
 
-
-setwd("~/Documents/CPI/Magar/municipiosInafed/pics/cps/7119/")
+setwd("~/Documents/CPI/Magar/municipiosInafed/pics/mex/15074/")
+path<- paste0("http://www.inafed.gob.mx/work/enciclopedia/EMM",edon,estado)
 for(i in 1:length(img)){
-  url<- paste0("http://www.inafed.gob.mx/work/enciclopedia/EMM07chiapas/municipios/",img)
+  url<- paste0(path,"/municipios/",img)
 }
 
 destinations<- paste0(c(1:length(url)),".jpg")
