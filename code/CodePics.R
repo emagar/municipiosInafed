@@ -2,7 +2,7 @@ dat.vot<- read.csv("~/Documents/CPI/Magar/elecRetrns/data/aymu1977-present.csv")
 dat.vot[1,]
 
 # selecciona qué estado procesará el código
-edon <- 1
+edon <- 15
 estado <- c("aguascalientes", "bajacalifornia", "bajacaliforniasur", "campeche", "coahuila", "colima", "chiapas", "chihuahua", "DF", "durango", "guanajuato", "guerrero", "hidalgo", "jalisco", "mexico", "michoacan", "morelos", "nayarit", "nuevoleon", "oaxaca", "puebla", "queretaro", "quintanaroo", "sanluispotosi", "sinaloa", "sonora", "tabasco", "tamaulipas", "tlaxcala", "veracruz", "yucatan", "zacatecas")[edon]
 edo <- c("ags", "bc", "bcs", "cam", "coa", "col", "cps", "cua", "df", "dgo", "gua", "gue", "hgo", "jal", "mex", "mic", "mor", "nay", "nl", "oax", "pue", "que", "qui", "san", "sin", "son", "tab", "tam", "tla", "ver", "yuc", "zac")[edon]
 estado
@@ -23,9 +23,9 @@ inegi
 
 ## Crear las carpetas de los municipios en cada Estado
 for(i in 1:length(inegi)){
-  dir.create(paste0("~/Documents/CPI/Magar/municipiosInafed/pics/zac/",inegi[i]))
+  dir.create(paste0("~/Documents/CPI/Magar/municipiosInafed/pics/ags/",inegi[i]))
 }
-
+warnings()
 path<- paste0("~/Documents/CPI/Magar/municipiosInafed/codigoFuente/",edo)
 path2<- paste0("http://www.inafed.gob.mx/work/enciclopedia/EMM0",edon,estado,"/municipios/")
 
