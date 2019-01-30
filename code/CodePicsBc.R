@@ -3,9 +3,8 @@ rm(list=ls())
 setwd("~/Documents/CPI/Magar/municipiosInafed/codigoFuente/bc/")
 ssData<- readLines("2005.html", encoding = "UTF-8")
 ssData
-text<- grep(x= ssData, pattern = "img", perl = TRUE, value = TRUE)
+text<- grep(x= readLines("2005.html", encoding = "UTF-8"), pattern = "img", perl = TRUE, value = TRUE)
 img<- gsub(x= text, pattern = ".*img[ ]src[=].*[\"\"](.*[.](jpg|png)).*", perl = TRUE, replacement = "\\1")
-img
 
 setwd("~/Documents/CPI/Magar/municipiosInafed/pics/bc/2005/")
 for(i in 1:length(img)){

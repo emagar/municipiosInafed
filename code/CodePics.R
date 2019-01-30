@@ -2,13 +2,14 @@ dat.vot<- read.csv("~/Documents/CPI/Magar/elecRetrns/data/aymu1977-present.csv")
 dat.vot[1,]
 
 # selecciona qué estado procesará el código
-edon <- 15
+edon <- 8
 estado <- c("aguascalientes", "bajacalifornia", "bajacaliforniasur", "campeche", "coahuila", "colima", "chiapas", "chihuahua", "DF", "durango", "guanajuato", "guerrero", "hidalgo", "jalisco", "mexico", "michoacan", "morelos", "nayarit", "nuevoleon", "oaxaca", "puebla", "queretaro", "quintanaroo", "sanluispotosi", "sinaloa", "sonora", "tabasco", "tamaulipas", "tlaxcala", "veracruz", "yucatan", "zacatecas")[edon]
 edo <- c("ags", "bc", "bcs", "cam", "coa", "col", "cps", "cua", "df", "dgo", "gua", "gue", "hgo", "jal", "mex", "mic", "mor", "nay", "nl", "oax", "pue", "que", "qui", "san", "sin", "son", "tab", "tam", "tla", "ver", "yuc", "zac")[edon]
 estado
 
+
 path<- "~/Documents/CPI/Magar/"
-setwd(paste0(path, "municipiosInafed/codigoFuente/", edo)) # ruta para guardar los datos
+setwd(paste0(path, "municipiosInafed/codigoFuente/", edo))
 dat.vot<- read.csv("~/Documents/CPI/Magar/elecRetrns/data/aymu1977-present.csv")
 dat.vot[1,]
 tmp <- dat.vot[which(dat.vot$edon==edon), c("inegi", "mun")]
@@ -21,18 +22,30 @@ mun  <- tmp$mun
 rm(tmp)
 inegi
 
+summary(img)
+
+path<- paste0("~/Documents/CPI/Magar/municipiosInafed/codigoFuente/",edo)
+setwd(path)
+for(i in 1:length(inegi)){
+  txt<- grep(x=readLines(paste0(inegi[1],".html")), pattern = "img", perl = TRUE, value = TRUE)
+  img<- gsub(x= txt, pattern =  ".*src[=].*[\"\"](.*[.](jpg|png)).*",perl = TRUE, replacement = "\\1")
+  as.data.frame(img)
+  save(img, file = "~/Documents/CPI/Magar/municipiosInafed/pics/cua/001/img")
+}
+
+
 ## Crear las carpetas de los municipios en cada Estado
 for(i in 1:length(inegi)){
-  dir.create(paste0("~/Documents/CPI/Magar/municipiosInafed/pics/ags/",inegi[i]))
+  dir.create(paste0("~/Documents/CPI/Magar/municipiosInafed/pics/","/",edo,inegi[i]))
 }
-warnings()
+
 path<- paste0("~/Documents/CPI/Magar/municipiosInafed/codigoFuente/",edo)
 path2<- paste0("http://www.inafed.gob.mx/work/enciclopedia/EMM0",edon,estado,"/municipios/")
 
 
 for(i in 1:length(inegi)){
   setwd(path)
-  ssData.temp<- readLines(paste0(inegi[i],".html"))
+  ssData.temp<- readLines(paste0(inegi[1],".html"))
   text<- grep(x= ssData, pattern = "img", perl = TRUE, value = TRUE)
   img<- gsub(x= text, pattern = ".*src[=].*[\"\"](.*[.](jpg|png)).*", perl = TRUE, replacement = "\\1")
   urls<- paste0(path2,img)
