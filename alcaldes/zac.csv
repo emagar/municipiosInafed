@@ -1,0 +1,14257 @@
+Un-htmlized alcaldes from inafed
+Used R and Python's BeatifulSoup sequentially
+EMM 14/4/2019
+
+32 zac
+
+
+32001.html
+Zacatecas - Apozol
+
+   
+  
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+  
+  
+    C. Abraham Cortes Ulloa
+    
+    1949-1953
+    
+    
+    PRI
+    
+  
+  
+    C. Ignacio Cortes Ulloa
+    
+1953
+    
+    
+    PRI
+    
+  
+  
+    C. Jose Robles.
+    
+    1954-1956
+    
+    
+    PRI
+    
+  
+  
+    C. Nicolas Mercado Galarza
+    
+    1956-1959
+    
+    
+    PRI
+    
+  
+  
+    C. Benjamin Luna
+    
+    1959-1962
+    
+    
+    PRI
+    
+  
+  
+    C. Ignacio Cortes Ulloa
+    
+1962
+    
+    
+    PRI
+    
+  
+  
+    C. Gonzalo Robles
+    
+    1963-1965
+    
+    
+    PRI
+    
+  
+  
+    C. Jesus Robles Flores
+    
+    1965-1968
+    
+    
+    PRI
+    
+  
+  
+    C. Pedro Mercado Vazquez
+    
+    1968-1971
+    
+    
+    PRI
+    
+  
+  
+    C. Rigoberto Sandoval
+    
+    1971-1974
+    
+    
+    PRI
+    
+  
+  
+    C. Agustin Macias
+    Ibarra
+    
+    1974-1977
+    
+    
+    PRI
+    
+  
+  
+    C. Enrique Mercado  Sandoval
+    
+    1977-1980
+    
+    
+    PRI
+    
+  
+  
+    C. Napoleon Gonzalez
+    Hdez.
+    
+    1980-1983
+    
+    
+    PRI
+    
+  
+  
+    C. Alberto Bañuelos Flores
+    
+    1983-1986
+    
+    
+    PRI
+    
+  
+  
+    C. Arturo Viramontes Jurado
+    
+    1986-1989
+    
+    
+    PRI
+    
+  
+  
+    C. Alberto Bañuelos Flores
+    
+    1989-1992
+    
+    
+    PRI
+    
+  
+  
+    C. Abraham Cortes Vallejo
+    
+    1992-1995
+    
+    
+    PRI
+    
+  
+  
+    C. Sergio Vazquez Jauregui
+    
+    1995-1998
+    
+    
+    PRI
+    
+  
+  
+    C. Profr. Francisco Jauregui
+    Serrano
+    
+    1998-2001
+    
+    
+    PAN
+    
+  
+  
+    C. J. Jesus Estrada Mercado
+    
+    2001-2004
+    
+    
+    PRD
+    
+  
+  
+    C. Joaquin Robles Gonzalez
+    
+    2004-2007
+    
+    
+    PRI
+    
+  
+  
+    Miguel Sandoval Bañuelos 
+    2007-2010
+    PRI
+  
+  
+    Agustin Garay Villalpando 
+    2010-2013
+    PRI
+  
+  
+    Matias Evelio Saucedo Arteaga
+    2013-2016
+    PRI
+  
+  
+
+   
+
+32002.html
+Zacatecas - Apulco
+
+   
+  
+    
+    
+      Presidente Muncipal
+    
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+  
+  
+    Marciano Ulloa
+    
+1941
+    
+    
+    PRI
+    
+  
+  
+    Nicolas Becerra
+    
+    1942-1943
+    
+    
+    PRI
+    
+  
+  
+    Marciano Ulloa
+    
+1944
+    
+    
+    PRI
+    
+  
+  
+    Alfonso Avelar
+    
+1944
+    
+    
+    PRI
+    
+  
+  
+    Eleuterio Yañez
+    
+    1944-1945
+    
+    
+    PRI
+    
+  
+  
+    Sixto Ulloa Rodriguez
+    
+    1945-1946
+    
+    
+    PRI
+    
+  
+  
+    Juan S. Sepulveda
+    
+1946
+    
+    
+    PRI
+    
+  
+  
+    Lucio Rodriguez Mora
+    
+    1946-1949
+    
+    
+    PRI
+    
+  
+  
+    Hilario Mora Garcia
+    
+    1950-1951
+    
+    
+    PRI
+    
+  
+  
+    Carlos Fuentes Andrade 
+    
+    1951-1952
+    
+    
+    PRI
+    
+  
+  
+    Anselmo Aguirre Jimenez
+    
+    1953-1955
+    
+    
+    PRI
+    
+  
+  
+    Emigdio Mora Rodriguez
+    
+    1956-1958
+    
+    
+    PRI
+    
+  
+  
+    Anselmo Aguirre Jimenez
+    
+    1959-1961
+    
+    
+    PRI
+    
+  
+  
+    Pedro Marin Lechuga
+    
+    1962-1964
+    
+    
+    PRI
+    
+  
+  
+     Porfirio Sepulveda Cruz
+    
+    1965-1967
+    
+    
+    PRI
+    
+  
+  
+    J. Guadalupe Alcala S. 
+    
+    1968-1970
+    
+    
+    PRI
+    
+  
+  
+    Liborio Lopez Nolasco
+    
+    1971-1973
+    
+    
+    PRI
+    
+  
+  
+    Bartolo Jauregui Cervera
+    
+    1974-1976
+    
+    
+    PRI
+    
+  
+  
+    Oswaldo Ruvalcaba 
+    
+    1977-1979
+    
+    
+    PRI
+    
+  
+  
+    Bonifacio Marin Lopez
+    
+    1980-1982
+    
+    
+    PRI
+    
+  
+  
+    J. Leon Vidaurri Mora
+    
+    1983-1985
+    
+    
+    PRI
+    
+  
+  
+    Armando Valdivia Jauregui
+    
+    1986-1988
+    
+    
+    PRI
+    
+  
+  
+    Amado Alcala Villegas
+    
+    1989-1990
+    
+    
+    PRI
+    
+  
+  
+    Efren Rodriguez Valdivia
+    
+    1990-1992
+    
+    
+    PRI
+    
+  
+  
+    Jeronimo Torres Lechuga
+    
+    1992-1995
+    
+    
+    PRI
+    
+  
+  
+    Efren Rodriguez Valdivia
+    
+    1995-1998
+    
+    
+    PRI
+    
+  
+  
+    Raul  Ibarra Ramirez
+    
+    1998-2001
+    
+    
+    PRI
+    
+  
+  
+    Ramon Garcia Guizar
+    
+    2001-2004
+    
+    
+    PRI
+    
+  
+  
+    Martin Carvajal Martinez
+    2004-2007 
+    
+    PRD
+    
+  
+  
+    Fidel Rodriguez Ledezma 
+    2007-2010
+    PRI
+  
+  
+    Jose Socorro Ramirez Hernandez
+    2010-2013
+    ND
+  
+  
+    Daniel Donoso Rincon
+    2013-2016
+    PVEM
+  
+
+  
+
+32003.html
+Zacatecas-atolinga
+
+  
+  
+  
+    
+    Presidente Municipal
+    
+    
+    Año de Inicio 
+    de Gobierno
+    
+    
+    Partido 
+    Politico
+    
+  
+  
+    Braulio Rivera Covarrubias
+    
+1950
+    
+    
+    PRI
+    
+  
+  
+    Elias Rosales Castañeda
+    
+1951
+    
+    
+    PRI
+    
+  
+  
+    Salvador E. Sanchez
+    
+1953
+    
+    
+    PRI
+    
+  
+  
+    Manuel Rosales y Esteban Bugarin
+    
+     
+    -
+    
+    
+    PRI
+    
+  
+  
+    Esteban Bugarin
+    
+1954
+    
+    
+    PRI
+    
+  
+  
+    Estanislao Salinas Avila
+    
+     
+    -
+    
+    
+    PRI
+    
+  
+  
+    Estanislao Salinas Avila
+    
+1955
+    
+    
+    PRI
+    
+  
+  
+    Genaro Bugarin
+    
+1956
+    
+    
+    PRI
+    
+  
+  
+    Fidencio Castro Tejeda
+    
+1959
+    
+    
+    PRI
+    
+  
+  
+    Amador Bugarin Gonzalez
+    
+1962
+    
+    
+    PRI
+    
+  
+  
+    Estanislao Salinas Avila
+    
+1965
+    
+    
+    PRI
+    
+  
+  
+    Rafael Arteaga Bugarin
+    
+1968
+    
+    
+    PRI
+    
+  
+  
+    Rafael Arteaga Bugarin
+    
+1969
+    
+    
+    PRI
+    
+  
+  
+    Adolfo del Real
+    
+     
+    -
+    
+    
+    PRI
+    
+  
+  
+    Adolfo del Real
+    
+1970
+    
+    
+    PRI
+    
+  
+  
+    Ricardo Bugarin Gonzalez
+    
+1971
+    
+    
+    PRI
+    
+  
+  
+    Teofilo Bugarin Serrano
+    
+1974
+    
+    
+    PRI
+    
+  
+  
+    Guadalupe Rosales Gonzalez
+    
+1977
+    
+    
+    PRI
+    
+  
+  
+    Jesus Castañeda Valdez
+    
+1980
+    
+    
+    PRI
+    
+  
+  
+    Amador Bugarin Gonzalez
+    
+1983
+    
+    
+    PRI
+    
+  
+  
+    Fidencio Castro Tejeda
+    
+1986
+    
+    
+    PRI
+    
+  
+  
+    Ing. J. Isabel Lopez Miramontes
+    
+1989
+    
+    
+    PRI
+    
+  
+  
+    Ruben Rosales Paredes
+    
+1993
+    
+    
+    PRI
+    
+  
+  
+    Rutilio Castañeda Casas
+    
+1995
+    
+    
+    PRI
+    
+  
+  
+     Alejandro Castañeda Orozco
+    
+1998
+    
+    
+    PAN
+    
+  
+  
+    Pedro Jara Delgado
+    
+2001
+    
+    
+    PRD
+    
+  
+  
+    Rodolfo Castro Lopez
+    
+    2004-2007
+    
+    
+    PAN
+    
+  
+  
+    Camerina Bugain Rosales 
+    2007-2010
+    PRD
+  
+  
+    Elizabeth Cortes Sandoval 
+    2010-2013
+    ND
+  
+  
+    German Abel Castañeda Delgado
+    2013-2016
+    PRI
+  
+   
+
+32004.html
+Zacatecas-Benito Juarez
+
+   
+  
+    
+    Presidente Muncipal 
+    
+    Periodo de 
+    Gobierno 
+    
+    Partido 
+    Politico 
+  
+  
+    Jose Guadalupe  Arellano Cortes
+    
+    1941-1950    
+    
+    PRI    
+  
+  
+    Cenobio Cortes
+    
+    1951-1953    
+    
+    PRI    
+  
+  
+    Maximiliano Correa Sandoval
+    
+    1954-1956    
+    
+    PRI    
+  
+  
+    Maximiliano Correa Sandoval
+    
+1957
+    
+    PRI    
+  
+  
+    Feliciano Lamas Arellano  
+    (Interino)
+    
+1957
+    
+    PRI    
+  
+  
+    Santiago Campos
+    
+1958
+    
+    PRI    
+  
+  
+    Florentino Cortes Lamas
+    
+    1959-1960    
+    
+    PRI    
+  
+  
+    J. Guadalupe Arellano
+    
+1961
+    
+    PRI    
+  
+  
+    Jose Manuel Cortes  Correa
+    
+    1962-1964    
+    
+    PRI    
+  
+  
+    Pedro Lamas Sandoval
+    
+    1965-1967    
+    
+    PRI    
+  
+  
+    Salvador Cortes Correa
+    
+    1968-1970    
+    
+    PRI    
+  
+  
+    Salvador Cortes Correa
+    
+    1971-1973    
+    
+    PRI    
+  
+  
+    Fortino Cortes Correa
+    
+    1974-1976    
+    
+    PRI    
+  
+  
+    Salvador Cortes Arellano
+    
+1977
+    
+    PRI    
+  
+  
+    Prof.. Angel Ruiz  Cande las
+    
+    1977-1979    
+    
+    PRI    
+  
+  
+    Pedro Lamas Sandoval
+    
+    1980-1981    
+    
+    PRI    
+  
+  
+    Maximiliano Correa Sandoval  
+    (Interino)
+    
+1982
+    
+    PRI    
+  
+  
+    Guadalupe Campos Arellano
+    
+    1983-1985    
+    
+    PRI    
+  
+  
+    Jose Luis Miramontes  Gonzalez
+    
+    1986-1988    
+    
+    PRI    
+  
+  
+    Fortino Cortes Correa
+    
+1989
+    
+    PRI    
+  
+  
+    Prof.. Roberto Ramirez  Ramirez
+    
+    1989-1992    
+    
+    PRI    
+  
+  
+    Astroberto Lamas Arellano
+    
+    1992-1995    
+    
+    PRI    
+  
+  
+    Luis Arellano Gonzalez
+    
+    1995-1998    
+    
+    PRI    
+  
+  
+    Maximiliano Correa Correa
+    
+    1998-2001    
+    
+    PAN    
+  
+  
+    Ascension Correa  Alvarez
+    
+    2001-2004    
+    
+    PRI    
+  
+  
+    J. Refugio Covarrubias Avila
+    
+    2004-2007    
+    
+    PAN    
+  
+  
+    Victor Javier Campos Gonzalez 
+    2007-2010
+    PRI
+  
+  
+    Fortino Cortes Sandoval 
+    2010-2013
+    PRI
+  
+  
+    Jose Guadalupe Correa Valdez
+    2013-2016
+    PAN-PRD
+  
+  
+  
+   
+
+32005.html
+Zacatecas - Calera
+
+   
+  
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido
+    Politico
+    
+  
+  
+    Bernardino Mejia
+    
+    1950-1953
+    
+    
+    PRI
+    
+  
+  
+    Rosauro Vasquez del Mercado
+    
+    1953-1956
+    
+    
+    PRI
+    
+  
+  
+    Enrique Rojero Murillo
+    
+    1956-1959
+    
+    
+    PRI
+    
+  
+  
+    Esteban Carranza Ramos
+    
+    1959-1962
+    
+    
+    PRI
+    
+  
+  
+    Juan Peñalver Vazquez del Mercado
+    
+    1962-1964
+    
+    
+    PRI
+    
+  
+  
+    (Int.) Salvador Lozano Correa
+    
+    1964-1965
+    
+    
+    PRI
+    
+  
+  
+    Esteban Carranza Ramos
+    
+    1965-1968
+    
+    
+    PRI
+    
+  
+  
+    Salvador Lozano Correa
+    
+    1968-1971
+    
+    
+    PRI
+    
+  
+  
+    Carlos Perez Carrillo
+    
+    1971-1974
+    
+    
+    PRI
+    
+  
+  
+    Francisco Lara Ramirez
+    
+    1974-1977
+    
+    
+    PRI
+    
+  
+  
+    Ernesto Lozano Gutierrez
+    
+    1977-1980
+    
+    
+    PRI
+    
+  
+  
+    Netzahualcoyotl Gonzalez Bañuelos
+    
+    1980-1983
+    
+    
+    PRI
+    
+  
+  
+    (Int.) Heliodoro Hernandez Serrano
+    
+    1983-1983
+    
+    
+    PRI
+    
+  
+  
+    Jose Cruz Juarez Hernandez
+    
+    1983-1986
+    
+    
+    PRI
+    
+  
+  
+    (Int.) Francisco Torres Menchaca
+    
+    1986-1987
+    
+    
+    PRI
+    
+  
+  
+    Belia de Santiago Reyes
+    
+    1987-1990
+    
+    
+    PRI
+    
+  
+  
+    Carlos Perez Carrillo
+    
+    1990-1992
+    
+    
+    PRI
+    
+  
+  
+    Anselmo Tovar Navarro
+    
+    1992-1995
+    
+    
+    PRI
+    
+  
+  
+    Pedro Martinez Flores
+    
+    1995-1998
+    
+    
+    PAN
+    
+  
+  
+    Manuel Reveles Hernandez
+    
+    1998-2001
+    
+    
+    PRD
+    
+  
+  
+    Angel Gerardo Hernandez Vazquez
+    
+    2001-2004
+    
+    
+    PAN
+    
+  
+  
+    Jose Salome Martinez 
+    Martinez 
+    
+    2004-2007
+    
+    
+    COAL.
+    
+  
+  
+    Horacio Mejia Haro 
+    2007-2010
+    PRD
+  
+  
+    Rodrigo Saucedo Ramirez 
+    2010-2013
+    PRI
+  
+  
+    Ivanhoe Escobar Vazquez del Mercado
+    2013-2016
+    PRI
+  
+
+   
+
+32006.html
+Zacatecas -CAÑITAS DE FELIPE PESCADOR
+
+  
+  
+    
+    Presidente Municipal
+    
+    
+    Periodo de
+      Gobierno
+    
+    
+    Partido
+    Politico
+    
+  
+  
+    Heron  E Dominguez 
+    
+    1959-1961
+    
+    
+    PRI
+    
+  
+  
+    Anacleto Silva Beltran
+    
+    1962-1964
+    
+    
+    PRI
+    
+  
+  
+    Jose Manuel Rincon  Martinez
+    
+    1965-1967
+    
+    
+    PRI
+    
+  
+  
+    Juan Antonio Herrera  A. 
+    
+    1 mes 22 dias
+    
+    
+    PRI
+    
+  
+  
+    Pedro Gonzalez  Lopez
+    
+1970
+    
+    
+    PRI
+    
+  
+  
+    Salvador Regis Lujan
+    
+    1971-1973
+    
+    
+    PRI
+    
+  
+  
+    Maria  Barrios Sifuentes
+    
+    1974-1976
+    
+    
+    PRI
+    
+  
+  
+    Raymundo Herrera Muñiz
+    
+    1977-1979
+    
+    
+    PRI
+    
+  
+  
+    Otilio Gonzalez  Lopez
+    
+    1980-1982
+    
+    
+    PRI
+    
+  
+  
+    J. Ausencio de Leon  Gomez
+    
+    1983-1985
+    
+    
+    PRI
+    
+  
+  
+    Pablo Diaz Rocha
+    
+    1985-1988
+    
+    
+    PRI
+    
+  
+  
+    Juan Antonio Herrera  Aguilar
+    
+    1988-1990
+    
+    
+    PRI
+    
+  
+  
+    Prof. Lorenzo Moncada  Gonzalez
+    
+    1990-1991
+    
+    
+    PRI
+    
+  
+  
+    Maria E. Barrios Sifuentes
+    
+    1992-1995
+    
+    
+    PRI
+    
+  
+  
+    Lic. Manuel de Jesus  del Rio Ojeda
+    
+    1995-1998
+    
+    
+    PAN
+    
+  
+  
+    Lic. Francisco Javier  Carrillo Rincon
+    
+    1998-2001
+    
+    
+    PT
+    
+  
+  
+    Luis Mario Castruita  Quirino
+    
+    2001-2004
+    
+    
+    C. D.
+    
+  
+  
+    Rogelio Monreal Duron
+    
+    2004-2007
+    
+    
+    PRD
+    
+  
+  
+    Marco Antonio Regis Zuñiga 
+    2007-2010
+    PT
+  
+  
+    Oswaldo Sabag Hamilton 
+    2010-2013
+    COAL
+  
+  
+    Horacio Aguilar Torres
+    2013-2016
+    PRI
+  
+  
+  
+  
+
+32007.html
+Zacatecas - Concepcion del Oro
+
+  
+  
+    
+    Presidente Municipal
+    
+    
+    Periodo de
+      Gobierno
+    
+    
+    Partido
+    Politico
+    
+  
+  
+    Abundio  Monsivais Garcia 
+    1950-1952
+    PRI
+  
+  
+    Jesus  Moncada Garza
+    1953-1955
+    PRI
+  
+  
+    Abundio  Monsivais Garcia
+    1956-1958
+    PRI
+  
+  
+    J. Ines  Paez Marquez
+    1959-1961
+    PRI
+  
+  
+    J.  Santana Carrillo Cepeda
+    1962-1964
+    PRI
+  
+  
+    J.  Jesus Moncada Garza
+    1965-1967
+    PRI
+  
+  
+    Emilio  Rodriguez Flores
+    1968-1970
+    PRI
+  
+  
+    Domingo  Cuellar Ruiz
+    1971-1973
+    PRI
+  
+  
+    Francisco  Gamez Martinez
+    1974-1976
+    PRI
+  
+  
+    Bernardo  Martinez Arredondo
+    1977-1979
+    PRI
+  
+  
+    J.  Jesus Najera Martinez
+    1980-1982
+    PRI
+  
+  
+    Ramiro  Martinez Gaytan
+    1983-1985
+    PRI
+  
+  
+    Luis  Garcia Espinoza
+    1986-1988
+    PRI
+  
+  
+    Oscar  Pardo Limon
+    1989-1992
+    PRI
+  
+  
+    J.  Jesus Uresti Saucedo
+    1992-1995
+    PRI
+  
+  
+    Jesus  Martinez Horta
+    1995-1998
+    PRI
+  
+  
+    Arturo  Dominguez Alvarez
+    1998-2001
+    PRI
+  
+  
+    Juan  Claudio Esparza Castillo 
+    2001-2004
+    PRD
+  
+  
+    J.  Jesus Martinez Horta 
+    2004-2007 
+    PRI 
+  
+  
+    Anastacio  Maldonado Falcon 
+    2007-2010
+    PRI
+  
+  
+    Rosa Huerta Briones 
+    2010-2013
+    PRI
+  
+  
+    Ramon Montejano Zepeda
+    2013-2016
+    PAN-PRD
+  
+  
+  
+  
+
+32008.html
+Zacatecas- Cuauhtemoc
+
+  
+  
+  
+    
+    Presidente Municipal
+    
+    
+    Periodo de
+      Gobierno
+    
+    
+    Partido
+    Politico
+    
+  
+  
+    Jose  Garcia 
+    1940-1941
+    P.R.I.
+  
+  
+    Dagoberto  Estebanez Prieto
+    1942-1943
+    P.R.I.
+  
+  
+    J.  Guadalupe Gutierrez Reza
+    1944-1946
+    P.R.I.
+  
+  
+    Alfonso  Estebanez Prieto
+    1947-1949
+    P.R.I
+  
+  
+    Jose  Herrera Esquivel
+    1950-1951
+    P.R.I.
+  
+  
+    J.  Felix Velazquez 
+    1952-1953
+    P.R.I.
+  
+  
+    Agustin  Garcia Sagredo
+    1953-1954
+    P.R.I.
+  
+  
+    Jesus  Herrera Saucedo
+    1954-1955
+    P.R.I.
+  
+  
+    J.  Guadalupe Gutierrez Reza
+    1955-1956
+    P.R.I.
+  
+  
+    J.  Felix Velazquez 
+    1956-1957
+    P.R.I.
+  
+  
+    Manuel  Hernandez Sanchez 
+    1957-1958
+    P.R.I.
+  
+  
+    J.  Natividad Sanchez Torres
+    1959-1960
+    P.R.I.
+  
+  
+    Abel  Guzman Elias
+    1961-1962
+    P.R.I.
+  
+  
+    Ramon  Elias Esquivel
+    1962-1963
+    P.R.I.
+  
+  
+    Agustin  Rivas Huitron 
+    1963-1964
+    P.R.I.
+  
+  
+    Agustin  Garcia Sagredo
+    1965-1967
+    P.R.I.
+  
+  
+    Pedro  Herrera Delgado
+    1968-1968
+    P.R.I.
+  
+  
+    Roberto  Quintero Morales
+    1968-1970
+    P.R.I.
+  
+  
+    Leodegario  Noriega Gaytan
+    1971-1973
+    P.R.I.
+  
+  
+    Abel  Ortega Quiñones
+    1974-1976
+    P.R.I.
+  
+  
+    Profr. Jesus  Cervantes Garcia
+    1977-1979
+    P.R.I
+  
+  
+    Ruben  Herrera Saucedo
+    1980-1982
+    P.R.I.
+  
+  
+    Leodegario  Noriega Gaytan
+    1783-1985
+    P.R.I.
+  
+  
+    Lic.  Ernesto Herrera Herrera 
+    1986-1988
+    P.S.U.M.
+  
+  
+    M.V.Z.  Ruben Rodriguez A.
+    1989-1993
+    P.R.I.
+  
+  
+    Marcial  Montoya Pizaña
+    1993-1994
+    P.R.I.
+  
+  
+    Juan  Antonio Sanchez Mtz.
+    1994-1995
+    P.R.I.
+  
+  
+    L.A.E.  Jose Manuel Rdgz. Carreon.
+    1995-1998
+    P.R.D.
+  
+  
+    Sergio  Saenz Garcia
+    1998-2001
+    P.R.I.
+  
+  
+    Ing.  Ramon Elias Esquivel
+    2001- 2004 
+    P.A.N.
+  
+  
+    Angel Ruiz  Zapata
+    2004-2007 
+    P.R.D. 
+  
+  
+    Jose  Rodriguez Elias Acevedo
+    2007-2010
+    PRI
+  
+  
+    Eleazar Esparza Gonzalez  
+    2010-2013
+    PAN
+  
+  
+    Alfonso Alberto Zamarripa Sandoval
+    2013-2016
+    PVEM
+  
+   
+
+32009.html
+Zacatecas-Chalchihuites
+
+   
+  
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+  
+  
+    Eulogio Romero
+    
+    
+      1945-1946
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Miguel Perez Romero
+    
+    
+      1947-1949
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Gabriel Salcedo Espinosa
+    
+    
+      1950-1952
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Angel Gonzalo Perez
+    
+    
+      1953-1955
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Alfonso Perez Peña
+    
+    
+      1956-1958
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Jose Maria Montellano
+    
+    
+      1959-1960
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Miguel Nava Ruiz
+    
+    
+1961
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Dr. Gonzalo Gonzalez del Rio
+    
+    
+      1962-1964
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Miguel Nava Ruiz
+    
+    
+      1965-1967
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Angel Gonzalo Perez
+    
+    
+      1968-1970
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Humberto Nava Ruiz
+    
+    
+      1971-1973
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Manuel Rosales Salas
+    
+    
+      1974-1976
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Hector Brigido Hernandez 
+    
+    
+      1977-1979
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Maria del Consuelo Diaz Perez
+    
+    
+      1980-1982
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Jaime Rodriguez Mier
+    
+    
+      1983-1985
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Miguel Angel Rodarte Valles
+    
+    
+      1986-1988
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Jaime Rodriguez Mier
+    
+    
+      1989-1990
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Jose Gallegos Sanchez 
+    
+    
+      1990-1992
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Julio Haro Ramirez
+    
+    
+      1993-1995
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Gregorio Gallegos Sanchez
+    
+    
+      1996-1998
+    
+    
+    
+    
+      PAN
+    
+    
+  
+  
+    Dr. Juan Fernando Nava Peña
+    
+    
+      1998-2001
+    
+    
+    
+    
+      PRI
+    
+    
+  
+  
+    Federico Esparza Hernandez
+    
+    
+      2001-2004
+    
+    
+    
+    
+      PAN 
+    
+    
+  
+  
+    Jesus Perez Blanco
+    
+    
+      2004-2007
+    
+    
+    
+    
+      PRI 
+    
+    
+  
+  
+    Juan Fernando Nava Peña 
+    2007-2010
+    PRI
+  
+  
+    Alfonso Estrada Hernandez 
+    2010-2013
+    PAN
+  
+  
+    Pedro Miranda Morales
+    2013-2016
+    PRI
+  
+    
+
+32010.html
+Zacatecas-Fresnillo
+
+  
+  
+    
+    Presidente Municipal
+    
+    
+    Periodo de
+      Gobierno
+    
+    
+    Partido
+    Politico
+    
+  
+  
+    Pedro  Casas Torres
+    1950-1953
+    PRI
+  
+  
+    Dositeo  Sanchez Pulido
+1953
+    PRI
+  
+  
+    Santos  Alaniz
+    1953-1954
+    PRI
+  
+  
+    Edmundo  Lozano
+    1954-1955
+    PRI
+  
+  
+    David  V. Camacho
+    1955-1959
+    PRI
+  
+  
+    Guillermo  Errecalde
+    1959-1962
+    PRI
+  
+  
+    Luis  Acevedo Soto
+    1962-1965
+    PRI
+  
+  
+    Heriberto  Gonzalez
+    1965-1968
+    PRI
+  
+  
+    Angel  Macias Lopez
+    1968-1971
+    PRI
+  
+  
+    Carmelo  Piña Estrada
+    1971-1974
+    PRI
+  
+  
+    Dr.  Heron Rojas Sanchez
+    1974-1977
+    PRI
+  
+  
+    Dr.  Alberto Gonzalez Diaz
+    1977-1977
+    PRI
+  
+  
+    Jesus  Salas Trejo (Interino)
+    1977-1980
+    PRI
+  
+  
+    Jose  Bonilla Robles
+    1980-1983
+    PRI
+  
+  
+    Luis  Mccormick
+    1983-1985
+    PRI
+  
+  
+    Rosa  Ma. O de Castañeda (interino)
+    1985-1986
+    PRI
+  
+  
+    Jose  Chavez Sanchez
+    1986-1989
+    PRI
+  
+  
+    Lic.  Adolfo Yañez Rodriguez
+    1989-1992
+    PRI
+  
+  
+    Dr.  Heron Rojas Sanchez
+    1992-1995
+    PRI
+  
+  
+    Lic.  Crescencio Herrera
+    1995-1998
+    PRI
+  
+  
+    Jose  Chavez Sanchez
+    1998-2001
+    PRD
+  
+  
+    Gonzalo  Ledesma Bretado
+    2001-2004
+    PRD
+  
+  
+    Rodolfo  Monreal Avila
+    2004-2007 
+    PRD
+  
+  
+    David  Monrreal Avila 
+    2007-2010
+    PT
+  
+  
+    Juan Garcia Paes  
+    2010-2013
+    PT
+  
+  
+    Benjamin Medrano Quezada
+    2013-2016
+    PRI
+  
+  
+  
+
+32011.html
+Zacatecas -Trinidad Garcia de la Cadena. 
+
+  
+  
+    
+    Presidente Municipal
+    
+    
+    Periodo de
+      Gobierno
+    
+    
+    Partido
+    Politico
+    
+  
+  
+    Julian  Mariscal Larios
+1951
+    PRI
+  
+  
+    Don  Nato Guzman Nuñez
+1951
+    PRI
+  
+  
+    Indalecio  Castro
+1952
+    PRI
+  
+  
+    Ezequiel  Flores Contreras
+1952
+    PRI
+  
+  
+    Indalecio  Castro 
+1952
+    PRI
+  
+  
+    Ezequiel  Flores Contreras 
+1952
+    PRI
+  
+  
+    Esteban  Gonzalez
+1954
+    PRI
+  
+  
+    Profr.  J. Jesus Larios G.
+1955
+    PRI
+  
+  
+    Angel  Larios
+1955
+    PRI
+  
+  
+    Gabino  Castro Gonzalez
+1955
+    PRI
+  
+  
+    Profr.  J. Jesus Gonzalez G.
+1955
+    PRI
+  
+  
+    Bibiano  Rios Larios
+1955
+    PRI
+  
+  
+    Nemesio  Guzman Larios
+1956
+    PRI
+  
+  
+    J.  Jesus Larios Guzman
+1957
+    PRI
+  
+  
+    Toribio  Larios Robles
+1958
+    PRI
+  
+  
+    Doroteo  Guzman Robles
+1959
+    PRI
+  
+  
+    Idalecio  Nuñez Robles 
+1961
+    PRI
+  
+  
+    Samuel  Garcia Gonzalez
+1961
+    PRI
+  
+  
+    Meliton  Martinez Guzman
+1961
+    PRI
+  
+  
+    Victor  Manuel Martinez
+1962
+    PRI
+  
+  
+    Jesus  Guzman Castañeda
+1963
+    PRI
+  
+  
+    Profr.  Alfredo Cervantes G.
+1963
+    PRI
+  
+  
+    Victor  Manuel Martinez L.
+1964
+    PRI
+  
+  
+    Jose  Guzman Larios
+1964
+    PRI
+  
+  
+    Doroteo  Guzman Larios
+1967
+    PRI
+  
+  
+    Jose  Manuel Castro Robles
+1968
+    PRI
+  
+  
+    Macario  Robles Larios
+1968
+    PRI
+  
+  
+    Jose  Manuel Castro Robles
+1970
+    PRI
+  
+  
+    Esteban  Nuñez Flores
+1973
+    PRI
+  
+  
+    Juan  Larios Guzman
+1975
+    PRI
+  
+  
+    Profr.  Juan Manuel Rios M.
+1976
+    PRI
+  
+  
+    Juan  Larios Guzman
+1976
+    PRI
+  
+  
+    Eduardo  Guzman Cervantes
+1976
+    PRI
+  
+  
+    Donato  Guzman Robles
+1979
+    PRI
+  
+  
+    Pedro  Curiel Guzman
+1982
+    PRI
+  
+  
+    J.  Jesus Nuñez Gonzalez
+1985
+    PRI
+  
+  
+    Profr.  Taurino Avila Guzman
+1988
+    PRI
+  
+  
+    Profr.  J. Jesus Castro Castro
+1992
+    PRI
+  
+  
+    Profr.  Damian Guzman
+1995
+    PRI
+  
+  
+    Ezequiel  Martinez Robles
+1998
+    PRI
+  
+  
+    Sigilfredo  Cervantes Nuñez
+2001
+    PRI
+  
+  
+    J.  Jesus Gonzalez Nuñez 
+    2001-2004
+    PRI
+  
+  
+    Ruth  Icela Mena Guzman
+    2004-2007 
+    PRD 
+  
+  
+    Mario  Castro Guzman 
+    2007-2010
+    PRI
+  
+  
+    Arnulfo Guzman Guzman 
+    2010-2013
+    PRI
+  
+  
+    Rafael Martinez Perez 
+    2013-2016
+    PRI
+  
+  
+  
+
+32012.html
+Zacatecas - GENARO CODINA
+
+  
+  
+  
+    
+    Presidente Municipal
+    
+    
+    Periodo 
+    de Gobierno
+    
+    
+    Partido 
+    Politico
+    
+  
+  
+    Andres Saucedo E.
+    
+    1950-1952
+    
+    
+    PNR
+    
+  
+  
+    Asuncion Padilla L.
+    
+    1952-1953
+    
+    
+    PRI
+    
+  
+  
+    Nicolas Dominguez 
+    R.
+    
+    1953-1956
+    
+    
+    PRI
+    
+  
+  
+    Jose Muñoz Saucedo
+    
+    1956-1959
+    
+    
+    PRI
+    
+  
+  
+    Ernesto Herrera  D.
+    
+    1959-1962
+    
+    
+    PRI
+    
+  
+  
+    Francisco Dominguez H.
+    
+    1962-1963
+    
+    
+    PRI
+    
+  
+  
+    Antonio Arteaga S.
+    
+    1963-1965
+    
+    
+    PRI
+    
+  
+  
+    Apuleyo Arteaga M.
+    
+    1965-1968
+    
+    
+    PRI
+    
+  
+  
+    Jorge Reza Esquivel
+    
+    1968-1971
+    
+    
+    PRI
+    
+  
+  
+    Maclovio Arteaga C.
+    
+    1971-1974
+    
+    
+    PRI
+    
+  
+  
+    Marco Antonio Delgado
+    
+    1974-1975
+    
+    
+    PRI
+    
+  
+  
+    Conrado Morales E.
+    
+    1975-1977
+    
+    
+    PRI
+    
+  
+  
+    Gerardo Castro G.
+    
+    1977-1980
+    
+    
+    PRI
+    
+  
+  
+    Victor Manuel Morales
+    
+    1980-1983
+    
+    
+    PRI
+    
+  
+  
+    Manuel Garcia Garcia
+    
+    1983-1986
+    
+    
+    PRI
+    
+  
+  
+    Jaime Perea Delgado
+    
+    1986-1989
+    
+    
+    PRI
+    
+  
+  
+    Humberto Hernandez C.
+    
+    1989-1990
+    
+    
+    PRI
+    
+  
+  
+    Cecilio De La Cruz G.
+    
+    1990-1992
+    
+    
+    PRI
+    
+  
+  
+    Herminia Hernandez C.
+    
+    1992-1995
+    
+    
+    PRI
+    
+  
+  
+    Bernardo Hernandez H.
+    
+    1995-1998
+    
+    
+    PRI
+    
+  
+  
+    Antonio Arteaga H
+    
+    1998-2001
+    
+    
+    PRI
+    
+  
+  
+    Oliverio Muñoz Chavez
+    
+    2001-2004
+    
+    
+    PRD
+    
+  
+  
+    Jaime Arteaga Hernandez
+    
+    2004-2007
+    
+    
+    PRD
+    
+  
+  
+    Otoniel Chavez Norato
+    2007-2010
+    PAN
+  
+  
+    Daniel Hernandez Ortiz 
+    2010-2013
+    ND
+  
+  
+    Matias Evelio Saucedo Arteaga
+    2013-2016
+    PRI
+  
+   
+
+32013.html
+Zacatecas-General Enrique Estrada.
+
+  
+  
+    
+    Presidente Municipal
+    
+    
+    Periodo de
+      Gobierno
+    
+    
+    Partido
+    Politico
+    
+  
+  
+    Bernardino Mejia
+    
+    1950-1953
+    
+    
+    PRI
+    
+  
+  
+    Rosauro Vasquez del Mercado
+    
+    1953-1956
+    
+    
+    PRI
+    
+  
+  
+    Enrique Rojero Murillo
+    
+    1956-1959
+    
+    
+    PRI
+    
+  
+  
+    Esteban Carranza Ramos
+    
+    1959-1962
+    
+    
+    PRI
+    
+  
+  
+    Juan Peñalver Vazquez del Mercado
+    
+    1962-1964
+    
+    
+    PRI
+    
+  
+  
+    (Int.) Salvador Lozano Correa
+    
+    1964-1965
+    
+    
+    PRI
+    
+  
+  
+    Esteban Carranza Ramos
+    
+    1965-1968
+    
+    
+    PRI
+    
+  
+  
+    Salvador Lozano Correa
+    
+    1968-1971
+    
+    
+    PRI
+    
+  
+  
+    Carlos Perez Carrillo
+    
+    1971-1974
+    
+    
+    PRI
+    
+  
+  
+    Francisco Lara Ramirez
+    
+    1974-1977
+    
+    
+    PRI
+    
+  
+  
+    Ernesto Lozano Gutierrez
+    
+    1977-1980
+    
+    
+    PRI
+    
+  
+  
+    Netzahualcoyotl Gonzalez Bañuelos
+    
+    1980-1983
+    
+    
+    PRI
+    
+  
+  
+    (Int.) Heliodoro Hernandez Serrano
+    
+    1983-1983
+    
+    
+    PRI
+    
+  
+  
+    Jose Cruz Juarez Hernandez
+    
+    1983-1986
+    
+    
+    PRI
+    
+  
+  
+    (Int.) Francisco Torres Menchaca
+    
+    1986-1987
+    
+    
+    PRI
+    
+  
+  
+    Belia de Santiago Reyes
+    
+    1987-1990
+    
+    
+    PRI
+    
+  
+  
+    Carlos Perez Carrillo
+    
+    1990-1992
+    
+    
+    PRI
+    
+  
+  
+    Anselmo Tovar Navarro
+    
+    1992-1995
+    
+    
+    PRI
+    
+  
+  
+    Pedro Martinez Flores
+    
+    1995-1998
+    
+    
+    PAN
+    
+  
+  
+    Manuel Reveles Hernandez
+    
+    1998-2001
+    
+    
+    PRD
+    
+  
+  
+    Angel Gerardo Hernandez Vazquez
+    
+    2001-2004
+    
+    
+    PAN
+    
+  
+  
+    Jose Salome Martinez 
+    Martinez 
+    
+    2004-2007
+    
+    
+    COAL.
+    
+  
+  
+    Horacio Mejia Haro 
+    2007-2010
+    PRD
+  
+  
+    Jorge Luis Ortiz de Santiago 
+    2010-2013
+    PRI
+  
+  
+    Raul de Luna Tovar
+    2013-2016
+    PRI
+  
+  
+
+32014.html
+Zacatecas - General Francisco R. Murguia
+
+   
+  
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+  
+  
+    Leopoldo Hernandez Torres
+    
+    1951-1952
+    
+    
+    PRI
+    
+  
+  
+    Isidro Mendez Marrufo
+    
+    1952-1953
+    
+    
+    PRI
+    
+  
+  
+    Francisco Zapata Hernandez
+    
+    1953-1954
+    
+    
+    PRI
+    
+  
+  
+    Rafael Aguilera Aguilera
+    
+    1955-1956
+    
+    
+    PRI
+    
+  
+  
+    Victor Manuel del Real
+    Salazar
+    
+    1956-1959
+    
+    
+    PRI
+    
+  
+  
+    Severo Adame Balderas
+    
+    1959-1965
+    
+    
+    PRI
+    
+  
+  
+    Emilio Agüero
+    
+    1965-1966
+    
+    
+    PRI
+    
+  
+  
+    Alberto Videma Palacios 
+    
+    1966-1966
+    
+    
+    PRI
+    
+  
+  
+    Noberto Sanchez
+    
+    1966-1966
+    
+    
+    PRI
+    
+  
+  
+    Alfredo Esquivel
+    
+    1966-1967
+    
+    
+    PRI
+    
+  
+  
+    Jose Vicente Campa  
+    Natera
+    
+    1967-1968
+    
+    
+    PRI
+    
+  
+  
+    Justino Balderas Hernandez
+    
+    1968-1971
+    
+    
+    PRI
+    
+  
+  
+    Victor M. Salazar
+    
+    1971-1974
+    
+    
+    PRI
+    
+  
+  
+    Jesus Molina Mancinas 
+    
+    1974-1977
+    
+    
+    PRI
+    
+  
+  
+    Cesar Medina Campa
+    
+    1977-1979
+    
+    
+    PRI
+    
+  
+  
+    Jose D. Gallardo Hernandez
+    
+    1979-1980
+    
+    
+    PRI
+    
+  
+  
+    Arnulfo Ferreiro Arreola
+    
+    1980-1983
+    
+    
+    PRI
+    
+  
+  
+    Abel Rios del Real
+    
+    1983-1984
+    
+    
+    PRI
+    
+  
+  
+    Jaime Fabela Mares
+    
+    1984-1987
+    
+    
+    PRI
+    
+  
+  
+    Jose Limones Hernandez
+    
+    1987-1990
+    
+    
+    PRI
+    
+  
+  
+    Francisco Muñoz
+    
+    1990-1993
+    
+    
+    PRI
+    
+  
+  
+    Lorenzo Adame L.
+    
+    1993-1994
+    
+    
+    PRI
+    
+  
+  
+    Rafael Lira de la Rosa
+    
+    1994-1998
+    
+    
+    PRI
+    
+  
+  
+    Jose Manuel Balderas Hernandez
+    
+    1998-2001
+    
+    
+    PRI
+    
+  
+  
+    Manuel Lorenzo Campa Mares
+    
+    2001-2004
+    
+    
+    PRI
+    
+  
+  
+    Ulices Ferniza Montes
+    
+    2004-2007
+    
+    
+    PRD
+    
+  
+  
+    Blas Avalos Mireles 
+    2007-2010
+    PRI
+  
+  
+    Alfredo Ortiz del Rio
+    2010-2013
+    PRI
+  
+  
+    Manuel Benigno Gallardo Sandoval
+    2013-2016
+    PRI
+  
+32015.html
+Zacatecas- Plateado de Joaquin Amaro.
+
+  
+  
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de  
+    Gobierno
+    
+    
+    Partido  
+    Politico
+    
+    
+    
+    Severo Robles
+    
+1950
+    
+    
+    PRI
+    
+    
+    
+    Domingo Delgado
+    
+1951
+    
+    
+    PRI
+    
+    
+    
+    Jose Loera Romo
+    
+1952
+    
+    
+    PRI
+    
+    
+    
+    Antonio Marquez Salazar
+    
+    1953-1955
+    
+    
+    PRI
+    
+    
+    
+    Domingo Robles Avila
+    
+1956
+    
+    
+    PRI
+    
+    
+    
+    Pascual Flores Robles
+    
+    1957-1958
+    
+    
+    PRI
+    
+    
+    
+    J. Guadalupe Mares Avila
+    
+    1959-1961
+    
+    
+    PRI
+    
+    
+    
+    Profr. Enrique Hernandez E.
+    
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    Ramon Rodriguez Guardado
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    Juan Ortega Marquez
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Regino Loera Flores
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Samuel Vela Mota
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Adolfo Avila Raygoza
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Leonides Sandoval Ortega
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Ignacio Alvarez Avila
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    C.P. Victor Manuel Nuño Medrano
+    
+    1985-1987
+    
+    
+    PRI
+    
+    
+    
+    Mario Orozco Loera
+    
+    1988-1991
+    
+    
+    PRI
+    
+    
+    
+    Ing. Raymundo Rodriguez G.
+    
+    1992-1994
+    
+    
+    PRI
+    
+    
+    
+    MVZ Salvador Loera Solis
+    
+    1995-1997
+    
+    
+    PRI
+    
+    
+    
+    Ing. Nicolas Avila Alvarez
+    
+    1998-2001
+    
+    
+    PRI
+    
+    
+    
+    Luis Gerardo Mares Flores
+    
+    2001-2004
+    
+    
+    PRI
+    
+    
+    
+    Francisco Galvez Romero
+    
+    2004-2007
+    
+    
+    PRI
+    
+    
+    
+    Isidro Loera Solis 
+    2007-2010
+    PRD
+    
+    
+    Rafael Marquez Saldaña 
+    2010-2013
+    ND
+    
+    
+      Silvestre Ortega Solis
+      2013-2016
+      PRI
+    
+  
+
+32016.html
+Zacatecas - General Panfilo Natera
+
+  
+  
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+    
+    
+    Vicente Solis Lopez
+    
+    1950-1951
+    
+    
+     -
+    
+    
+    
+     Jose Lopez
+    de Nava 
+    
+    1951-1952
+    
+    
+    PRI
+    
+    
+    
+    J. Lucas Muñoz Perez
+    
+    1953-1955
+    
+    
+    PRI
+    
+    
+    
+    Gerardo Garcia Martinez
+    
+    1956-1958
+    
+    
+    PRI
+    
+    
+    
+    Jose Alvarez Lopez
+    
+    1959-1961
+    
+    
+    PRI
+    
+    
+    
+    Gerardo Garcia Martinez.
+    
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    Alvaro Aguilar Solis
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    Gerardo Garcia Martinez.
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Odiseo Becerra Lopez
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Elpidio Lopez Gonzalez
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Lidia Mendez Rangel
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Alberto Becerra A.
+    
+1980
+    
+    
+    PRI
+    
+    
+    
+    Margarito Alvarez Lopez
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Salvador Amaya Lopez
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    Odiseo Becerra Lopez
+    
+    1986-1988
+    
+    
+    PRI
+    
+    
+    
+    Gilberto Zamora Salas 
+    2010-2013
+    ZANUNE
+    
+    
+      Eliberto del Rio Pinales
+      2013-2016
+      PRI
+    
+  
+
+32017.html
+Zacatecas - Guadalupe de Rodriguez
+
+  
+  
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido
+    Politico
+    
+    
+    
+    Antonio Ruelas Cuevas
+    
+    1950-1953
+    
+    
+    PRI
+    
+    
+    
+    Celso Orduño Alvarez
+    
+    1953-1956
+    
+    
+    PRI
+    
+    
+    
+    Antonio Ruelas Cuevas
+    
+    1956-1959
+    
+    
+    PRI
+    
+    
+    
+    Jose Lopez Elias
+    
+    1959-1962
+    
+    
+    PRI
+    
+    
+    
+    Profr. Julian T. Medina
+    
+    1962-1965
+    
+    
+    PRI
+    
+    
+    
+    Ezequiel Diaz Herrera
+    
+    1965-1968
+    
+    
+    PRI
+    
+    
+    
+    Jose Alvarado Acosta
+    
+    1968-1971
+    
+    
+    PRI
+    
+    
+    
+    Profra. Maria Isabel Saucedo 
+    
+    1971-1972
+    
+    
+    PRI
+    
+    
+    
+    Carlos Salomon Alvarez
+    
+    1972-1974
+    
+    
+    PRI
+    
+    
+    
+    Roberto Espino Alferez
+    
+    1974-1977
+    
+    
+    PRI
+    
+    
+    
+    Profr. Carlos Rodarte Peralta
+    
+    1977-1980
+    
+    
+    PRI
+    
+    
+    
+    Profr. Hugo Humberto Huranday
+    
+    
+    1980-1981
+    
+    
+    PRI
+    
+    
+    
+    Lic. Rogelio Hernandez Quintero
+    
+    1981-1983
+    
+    
+    PRI
+    
+    
+    
+    Ing. J. Jesus Martinez Jasso
+    
+    1983-1986
+    
+    
+    PRI
+    
+    
+    
+    Profr. Gabriel Rodriguez R.
+    
+    1986-1987
+    
+    
+    PRI
+    
+    
+    
+    Hector Marquez Valerio
+    
+    1986-1989
+    
+    
+    PRI
+    
+    
+    
+    Carlos Chacon Quintana
+    
+    1989-1992
+    
+    
+    PRI
+    
+    
+    
+    J. Refugio Medina Hernandez
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Doroteo Mojarro Soto
+    
+    1995-1998
+    
+    
+    PRI
+    
+    
+    
+    Lic. Laura M. Garcia Medina
+    
+    1998-2000
+    
+    
+    PRD
+    
+    
+    
+    Renato Rodriguez Dominguez
+    
+    2000-2001
+    
+    
+    PRD
+    
+    
+    
+    Ing. Felipe Alvarez Calderon
+    
+    2001-2004
+    
+    
+    PRD
+    
+    
+    
+    Clemente Velazquez Medellin
+    
+    2004-2007
+    
+    
+    PRD
+    
+    
+    
+    Samuel Herrera Chavez 
+    2007-2010
+    PRD
+    
+    
+    Rafael Flores Mendoza 
+    2010-2013
+    ZANUNE
+    
+    
+      Roberto Luevano Ruiz
+      2013-2016
+      PRI
+    
+  
+
+32018.html
+Zacatecas-Huanusco
+
+  
+  
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    
+      Partido 
+      Politico
+     
+    
+    
+    Juan Ruiz Lara 
+    
+    1947-1949
+    
+    
+    PRI
+    
+    
+    
+    Albino Morales Marquez 
+    
+    1950- 1951
+    
+    
+    PRI
+    
+    
+    
+    Juan Macias Camacho
+    
+    1951-1952
+    
+    
+    PRI
+    
+    
+    
+    Jose Medina Medina
+    
+    1953-1955
+    
+    
+    PRI
+    
+    
+    
+    Pedro Saucedo Sandoval
+    
+    1956-1958
+    
+    
+    PRI
+    
+    
+    
+    Rosendo Ponce Soto
+    
+    1959-1961
+    
+    
+    PRI
+    
+    
+    
+    Pedro Flores Mendez
+    
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    Antelmo Vazquez
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    Jose Gallardo Gomez
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Ramon Figueroa Medina
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Humberto Vazquez Elizalde
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    J. Guadalupe Gonzalez
+    Glz
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Godofredo Medina Benitez
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Adulfo Frias Garcia 
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    Isidro Mendez Rodriguez
+    
+    1986-1988
+    
+    
+    PRI
+    
+    
+    
+    Efrain Medina Romero
+    
+    1986-1992
+    
+    
+    PRI
+    
+    
+    
+    Hugo Vazquez Elizalde
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Rosalina Rivera Lara
+    
+    1996-1998
+    
+    
+    PRI
+    
+    
+    
+    Jose Gonzalez Muñoz
+    
+    1998-2001
+    
+    
+    PRI
+    
+    
+    
+    Ing. Armando Medina Medina
+    
+    2001-2004
+    
+    
+    PRI
+    
+    
+    
+    Humberto Melchor Vazquez 
+    Guerrero 
+    
+    2004-2007
+    
+    
+    PRD
+    
+    
+    
+    Francisco Vazquez Sandoval 
+    2007-2010
+    PRI
+    
+    
+    Conrrado Hernandez Marquez  
+    2010-2013
+    PAN
+    
+    
+      Carlos Aurelio Peña Badillo
+      2013-2016
+      PRI
+    
+  
+
+32019.html
+Zacatecas - Jalpa
+
+  
+  
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+    
+    
+    Jose Ma. Tiscareño Valenzuela
+    
+    1940-1941 
+    
+    
+    PRI
+    
+    
+    
+    Miguel  Flores Flores
+    
+    1942-1943 
+    
+    
+    PRI
+    
+    
+    
+    Rogelio Luevano Garcia 
+    
+    1943-1944 
+    
+    
+    PRI
+    
+    
+    
+    Simeon Sandoval Salazar
+    
+    1944-1946 
+    
+    
+    PRI
+    
+    
+    
+    Jesus Viramontes Riestra 
+    
+    1946-1947 
+    
+    
+    PRI
+    
+    
+    
+    J. Guadalupe Alvarez Estrada
+    
+    1948-1949 
+    
+    
+    PRI
+    
+    
+    
+    Rogelio Gonzalez Serna
+    
+    1950-1952 
+    
+    
+    PRI
+    
+    
+    
+    Angel Nieves Muñoz
+    
+    1953-1955 
+    
+    
+    PRI
+    
+    
+    
+    Jesus Roman Flores
+    
+    1956-1958 
+    
+    
+    PRI
+    
+    
+    
+    Rutilo Sandoval
+    
+    1958-1958 
+    
+    
+    PRI
+    
+    
+    
+    Dr. Guillermo Sandoval
+    
+    1959-1959
+    
+    
+    PRI
+    
+    
+    
+    Cutberto Tiscareño Guerrero
+    
+    1959-1960 
+    
+    
+    PRI
+    
+    
+    
+    Ignacio Leyva Jimenez
+    
+    1960-1961 
+    
+    
+    PRI
+    
+    
+    
+    Rafael Arechiga Gonzalez
+    
+    1961-1962 
+    
+    
+    PRI
+    
+    
+    
+    Benjamin Medina Gomez
+    
+    1962-1964 
+    
+    
+    PRI
+    
+    
+    
+    Ramon Macias Aguilar
+    
+    1965-1967 
+    
+    
+    PRI
+    
+    
+    
+    Cosme Medina Sandoval 
+    
+    1968-1970 
+    
+    
+    PRI
+    
+    
+    
+    J. Jesus Medina Godoy
+    
+    1970-1971
+    
+    
+    PRI
+    
+    
+    
+    Anastasio Lopez Olmos
+    
+    1971-1972 
+    
+    
+    PRI
+    
+    
+    
+    Rutilo Sandoval
+    
+    1973-1974 
+    
+    
+    PRI
+    
+    
+    
+    J. Jesus Arechiga Contreras
+    
+    1974-1976 
+    
+    
+    PRI
+    
+    
+    
+    Jorge Diaz de Leon Macias
+    
+    1976-1977 
+    
+    
+    PRI
+    
+    
+    
+    MVZ  Gonzalo Arechiga Lira
+    
+    1977-1977 
+    
+    
+    PRI
+    
+    
+    
+    Nicolas Martinez Gladin 
+    
+    1977-1979 
+    
+    
+    PRI
+    
+    
+    
+    MVZ Carlos Medina Lara
+    
+    1980-1982 
+    
+    
+    PRI
+    
+    
+    
+    Ramon Sandoval Sandoval
+    
+    1983-1985 
+    
+    
+    PRI
+    
+    
+    
+    MVZ Gilberto A. Flores Sandoval
+    
+    1986-1988 
+    
+    
+    PRI
+    
+    
+    
+    Jose Gorgonio Macias Gonzalez
+    
+    1989-1992 
+    
+    
+    PRI
+    
+    
+    
+    Lic. Juan Manuel Sandoval Borja
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Ing. Francisco Sandoval Martinez
+    
+    1995-1998 
+    
+    
+    PAN
+    
+    
+    
+    Jaime Magallanes Acevedo
+    
+    1998-2001 
+    
+    
+    PAN
+    
+    
+    
+    Fernando Diaz Alonso
+    
+    2001-2004 
+    
+    
+    PRD
+    
+    
+    
+    Francisco Javier Figueroa Flores
+    
+    2004-2007 
+    
+    
+    PAN
+    
+    
+    
+    Jose Alfredo Bueno Martinez 
+    2007-2010
+    PAN
+    
+    
+    Efrain Chavez Lopez 
+    2010-2013
+    PRI
+    
+    
+       Edgar Viramontes Cardenas
+      2013-2016
+      PAN-PRD
+    
+  
+
+32020.html
+Zacatecas - Jerez
+
+  
+  
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+       
+    
+    
+    
+    Toribio Peralta Gomez
+    
+    1950 - 1953
+    
+    
+    PRI
+    
+    
+    
+    Jesus Vela Ruiz
+    
+    1953 - 1956
+    
+    
+    PRI
+    
+    
+    
+    Domingo Dorado
+    
+    1956 - 1959
+    
+    
+    PRI
+    
+    
+    
+    Salvador Carlos Gonzalez
+    
+    1959 - 1962
+    
+    
+    PRI
+    
+    
+    
+    Anastasio Avila Avila
+    
+    1962 -  1965
+    
+    
+    PRI
+    
+    
+    
+    Rafael Argüelles Robles
+    
+    1965 - 1968
+    
+    
+    PRI
+    
+    
+    
+    Fernando Robles Cepeda
+    
+    1968 - 1971
+    
+    
+    PRI
+    
+    
+    
+    Ignacio Herrera Mendoza
+    
+    1971 - 1973
+    
+    
+    PRI
+    
+    
+    
+    Manuel Carrillo Martinez
+    
+    1973 - 1974
+    
+    
+    PRI
+    
+    
+    
+    Joaquin Escobedo
+    
+    1974 - 1977
+    
+    
+    PRI
+    
+    
+    
+    Benito Juarez Garcia
+    
+    1977 - 1980
+    
+    
+    PRI
+    
+    
+    
+    Jesus Sanchez Garcia
+    
+    1980 - 1983
+    
+    
+    PRI
+    
+    
+    
+    Gonzalo Gonzalez Del Rio
+    
+    1983 - 1986
+    
+    
+    PRI
+    
+    
+    
+    Juan de Santiago Silva
+    
+    1986 - 1987
+    
+    
+    PRI
+    
+    
+    
+    Jose Manuel Escobedo del
+    Real
+    
+    1987 - 1989
+    
+    
+    PRI
+    
+    
+    
+    Bertha Torres Valdez
+    
+    1989 - 1992
+    
+    
+    PRI
+    
+    
+    
+    Jesus Sanchez Garcia
+    
+    1992 - 1995
+    
+    
+    PRI
+    
+    
+    
+    Maria Esther de la Torre
+    
+    1995 - 1995
+    
+    
+    PRI
+    
+    
+    
+    Arturo Villarreal Avila
+    
+    1995 -1998
+    
+    
+    PRI
+    
+    
+    
+    Benito Juarez Garcia
+    
+    1998 - 2001
+    
+    
+    PRI
+    
+    
+    
+    Ismael Solis Mares
+    
+    2001 - 2004
+    
+    
+    PRD
+    
+    
+    
+    Andres Bermudez 
+    Viramontes 
+    
+    2004 - 2007
+    
+    
+    PAN
+    
+    
+    
+    Alma Araceli Avila Cortez 
+    2007-2010
+    PRD
+    
+    
+    Eduardo Lopez Mireles  
+    2010-2013
+    PRI
+    
+    
+      Jose Manuel de Jesus Viramontes Rodarte
+      2013-2016
+      pan-prd
+    
+  
+
+32021.html
+Zacatecas - Jimenez del Teul
+
+  
+  
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+    
+    
+    Rogelio Valdez Pasillas
+    
+    1940 - 1941
+    
+    
+    PRI
+    
+    
+    
+    Rogelio Lazaro Ramos
+    
+    1942 - 1943
+    
+    
+    PRI
+    
+    
+    
+    Alfredo Martinez Tellez
+    
+    1944 - 1946
+    
+    
+    PRI
+    
+    
+    
+    Gonzalo Duarte Valdez
+    
+    1947 - 1949
+    
+    
+    PRI
+    
+    
+    
+    Roberto Fernandez Perez
+    
+    1950 - 1952
+    
+    
+    PRI
+    
+    
+    
+    Buenaventura Villa Montes
+    
+    1953 - 1955
+    
+    
+    PRI
+    
+    
+    
+    Gustavo Veloz Piña
+    
+    1956 - 1958
+    
+    
+    PRI
+    
+    
+    
+    Paulino Hernandez Martinez
+    
+    1959 - 1961
+    
+    
+    PRI
+    
+    
+    
+    Gustavo Veloz Piña
+    
+    1962 - 1964
+    
+    
+    PRI
+    
+    
+    
+    Rodolfo Perez Perez
+    
+    1965 - 1967
+    
+    
+    PRI
+    
+    
+    
+    Paulino Hernandez Martinez
+    
+1968
+    
+    
+    PRI
+    
+    
+    
+    Rafael Estrella Robles
+    
+    1969 - 1970
+    
+    
+    PRI
+    
+    
+    
+    Gustavo Veloz Piña
+    
+    1971 - 1973
+    
+    
+    PRI
+    
+    
+    
+    Abel Sanchez Valles
+    
+    1974 - 1976
+    
+    
+    PRI
+    
+    
+    
+    Alfredo Martinez Tellez
+    
+    1977 - 1979
+    
+    
+    PRI
+    
+    
+    
+    Baldomero Guzman Martinez
+    
+1980
+    
+    
+    PRI
+    
+    
+    
+    Jose Angel Valdez
+    Guevara
+    
+    1981 - 1982
+    
+    
+    PRI
+    
+    
+    
+    Rogelio Duarte Veloz
+    
+    1983 - 1985
+    
+    
+    PRI
+    
+    
+    
+    Jesus Veloz Valdez
+    
+    1986 - 1988
+    
+    
+    PRI
+    
+    
+    
+    Angel Esparza Guzman
+    
+    1989 - 1992
+    
+    
+    PRI
+    
+    
+    
+    Antonio Veloz Perez
+    
+    1992 - 1995
+    
+    
+    PRI
+    
+    
+    
+    Raul Martinez Caldera
+    
+    1995 - 1998
+    
+    
+    PRI
+    
+    
+    
+    Rogelio Duarte Veloz
+    
+    1998 - 2001
+    
+    
+    PRI
+    
+    
+    
+    Tolentino Guevara Perez
+    
+    2001 - 2004
+    
+    
+    PRI
+    
+    
+    
+    Raul Martinez 
+    Caldera 
+    
+    2004 - 2007
+    
+    
+    PRI
+    
+    
+    
+    Ramon Ramirez de los Santos
+    2007-2010
+    PRD
+    
+    
+    Margarita Duarte Veloz 
+    2010-2013
+    PRI
+    
+    
+      Enrique Valdez Rivera
+      2013-2016
+      PAN-PRD
+    
+  
+
+32022.html
+Zacatecas-Juan Aldama
+
+  
+  
+  
+ 
+  
+  Cronologia de los Presidentes Municipales 
+  
+  
+    
+    Presidente Municipal
+    
+    
+    Periodo de
+      Gobierno
+    
+    
+    Partido
+    Politico
+    
+  
+  
+    Tte.  Coronel Ramon Rojas Estrada
+1942
+    P.R.I.
+  
+  
+    C.  Tomas Sandoval Favela
+    1942-1943
+    P.R.I.
+  
+  
+    C.  Manuel J. Garcia Martinez
+    1944-1946
+    P.R.I.
+  
+  
+    C.  Pedro Perez Mendieta
+    1947-1949
+    P.R.I.
+  
+  
+    C. Juan  Antonio Casas Gaona
+    1950-1952
+    P.R.I.
+  
+  
+    Dr.  Juan Carlos Casas Gaona 
+    C.  Jesus Gaona Rios
+    1953-1955
+    P.R.I.
+  
+  
+    Prof.  Anselmo Alvarez C.
+    1956-1958
+    P.R.I.
+  
+  
+    C.  Rodolfo Guzman Sandoval
+    1959-1961
+    P.R.I.
+  
+  
+    C.  Genaro Casas Hernandez
+    1962-1964
+    P.R.I.
+  
+  
+    C.  Jesus Gaona Rios
+    1965-1967
+    P.R.I.
+  
+  
+    Dra.  Maria Luisa Juarez de Tovar
+    1968-1970
+    P.R.I.
+  
+  
+    C.  Jesus Perez Hernandez
+    1971-1973
+    P.R.I.
+  
+  
+    Prof.  Mario Cruz Castillo
+    1974-1976
+    P.R.I.
+  
+  
+    C. Jose  Carlos Salas Galvan
+    1977-1979
+    P.R.I.
+  
+  
+    C. Jose  Carlos Martinez Martinez
+    1980-1982
+    P.R.I.
+  
+  
+    Prof.  Silverio Espinoza Perez 
+    C.  Bernardino Perez Galvan
+    1983-1985
+    P.R.I.
+  
+  
+    Lic.  Felix Honorio Sosa A.
+    1986-1988
+    P.R.I.
+  
+  
+    Prof.  Jose Mauricio Alvarado
+    1989-1992
+    P.R.I.
+  
+  
+    Prof.  Santiago Guzman Alba
+    1992-1995
+    P.R.I.
+  
+  
+    C. Alan  Antonio Martinez P.
+    1995-1998
+    P.A.N.
+  
+  
+    C. Ing.  Jose Luis Maldonado A.
+    1998-2001
+    P.R.I.
+  
+  
+    C. Alan  Antonio Martinez P.
+    2001-2004
+    P.A.N.
+  
+  
+    C.  Elmer Mauricio Perez
+    2004-2004 
+    P.R.D. 
+  
+  
+    Ricardo  Valles Rios 
+    2007-2010
+    P.A.N.
+  
+  
+    Jose Serrano Alba 
+    2010-2013
+    P.A.N
+  
+  
+    Mario Garduño Galvan
+    2013-2016
+    PRI
+  
+  
+  
+
+32023.html
+Zacatecas - Juchipila
+
+  
+  
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+    
+    
+    Filemon Ortiz Gonzalez
+    
+1950
+    
+    
+    PRI
+    
+    
+    
+    Heliodoro Robles Hurtado
+    
+    1951-1952
+    
+    
+    PRI
+    
+    
+    
+    Yucundo Paz Haro
+    
+    1953-1955
+    
+    
+    PRI
+    
+    
+    
+    Francisco Rodriguez Haro
+    
+    1956-1958
+    
+    
+    PRI
+    
+    
+    
+    J. Jesus Haro Luna
+    
+    1959-1960
+    
+    
+    PRI
+    
+    
+    
+    Pedro Rodriguez Haro
+    
+1961
+    
+    
+    PRI
+    
+    
+    
+    Elpidio Torres Bañuelos
+    
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    Luis Roman Yanez
+    
+1965
+    
+    
+    PRI
+    
+    
+    
+    Fausto Reynoso Estrada
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    Ramiro Quezada Luna
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Gonzalo Robles Bañuelos
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Salvador Enriquez Cid 
+    Placido Reynoso Ramirez
+    
+1974
+    
+    
+    PRI
+    
+    
+    
+    J. Angelo Iñiguez Lomeli
+    
+1975
+    
+    
+    PRI
+    
+    
+    
+    Salvador Enriquez Cid
+    
+    1975-1976
+    
+    
+    PRI
+    
+    
+    
+    Profr. Samuel Esparza Esparza
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Isaias Hurtado Salazar
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Ing. Alvaro Eduardo Esparza Vargas
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    Ing. Juan Manuel Robles Estrada
+    
+1986
+    
+    
+    PRI
+    
+    
+    
+    Isaias Hurtado Salazar
+    
+    1987-1988
+    
+    
+    PRI
+    
+    
+    
+    J. Jesus Bañuelos
+    Rodriguez
+    
+    1989-1992
+    
+    
+    PRI
+    
+    
+    
+    Ing. Mauro Quezada Reynoso
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Hector Haro Mercado
+    
+    1995-1998
+    
+    
+    PRI
+    
+    
+    
+    Profr. Julio Cesar Flemate
+    Ramirez
+    
+    1998-2001
+    
+    
+    PRI
+    
+    
+    
+    Profr. J. Sandoval Villavicencio
+    Santos
+    
+    2001-2004
+    
+    
+    PRD
+    
+    
+    
+    Rafael Jimenez Nuñez
+    
+    2004-2007
+    
+    
+    PAN
+    
+    
+    
+    Julio Cesar Flemate Ramirez 
+    2007-2010
+    PRI
+    
+    
+    Ernesto Rodriguez Rodriges
+    2010-2013
+    PAN
+    
+    
+      Felipe Ibarra Enriquez
+      2013-2016
+      PRI
+    
+  
+
+32024.html
+Zacatecas - Loreto
+
+  
+  
+    
+    
+      
+      Presidente Municipal
+      
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+    
+    
+    Porfirio R. Frausto
+    
+    1951-1952
+    
+    
+    PRI
+    
+    
+    
+    J. Petronilo Villalobos
+    
+    1953-1955
+    
+    
+    PRI
+    
+    
+    
+    J. Guadalupe Carrillo Parada
+    
+    1956-1958
+    
+    
+    PRI
+    
+    
+    
+    Benjamin Herrada Bermudez
+    
+1959
+    
+    
+    PRI
+    
+    
+    
+    Juan Duran Vera
+    
+    1959-1961
+    
+    
+    PRI
+    
+    
+    
+    Porfirio R. Frausto
+    
+1962
+    
+    
+    PRI
+    
+    
+    
+    Ade la Sandoval Carrillo
+    
+    1962-1963
+    
+    
+    PRI
+    
+    
+    
+    Juan B. Gallegos
+    
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    Manuel Montoya Salazar
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    Francisco Ruiz Flores Vazquez
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Sergio Flores Gonzalez
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Antonio Rosales Davila
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Jose Gregorio Soto D. de Leon
+    
+     1976-1977
+    
+    
+    PRI
+    
+    
+    
+    Leobardo Martinez Gallegos
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Sergio Flores Gonzalez
+    
+     1977-1980
+    
+    
+    PRI
+    
+    
+    
+    Alberto Davila Martinez
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Rodolfo Ortiz Arechar
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    J. Gpe. Teodomiro Gallegos Olvera
+    
+    1986-1988
+    
+    
+    PRI
+    
+    
+    
+    Aquiles Montoya Macias
+    
+    1989-1992
+    
+    
+    PRI
+    
+    
+    
+    Victoriano Trinidad Chavarria
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Eliseo Diosdado Dueñas
+    
+    1995-1997
+    
+    
+    PRD
+    
+    
+    
+    Flavio Davila Herrada
+    
+    1997-1998
+    
+    
+    PRD
+    
+    
+    
+    Ruben Martinez Castillo
+    
+    1998-2001
+    
+    
+    PRI
+    
+    
+    
+    Juan Montoya Herrada
+    
+2001
+    
+    
+    PRI
+    
+    
+    
+    Eduardo Flores Silva
+    
+    2001-2004
+    
+    
+    PRI
+    
+    
+    
+    Jose de Jesus Macias 
+    Esparza 
+    
+    2004-2007
+    
+    
+    PAN
+    
+    
+    
+      Jorge Baldemar Gutierrez Montoya
+      2007-2007
+      PAN
+    
+    
+    Octavio Monrreal Martinez 
+    2007-2010
+    Convergencia
+    
+    
+    Jose Luis Figueroa Rangel 
+    2010-2013
+    PT
+    
+    
+      Ramiro Martinez Ezquivel
+      2013-2013
+      PT
+    
+    
+      Eduardo Flores Silva
+      2013-2016
+      PRI
+    
+  
+
+32025.html
+Zacatecas - Luis Moya
+
+  
+  
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+    
+    
+    Severo Martinez
+    
+      
+      1950-1952
+      
+    
+    
+    PRI
+    
+    
+    
+    Moises Arenas 
+    
+      
+      1953-1955
+      
+    
+    
+    PRI
+    
+    
+    
+    Jose Valdez 
+    
+      
+      1956-1958
+      
+    
+    
+    PRI
+    
+    
+    
+    Antonio Lopez 
+    
+      
+1958
+      
+    
+    
+    PRI
+    
+    
+    
+    Luis Cadena
+    
+      
+      1959-1961
+      
+    
+    
+    PRI
+    
+    
+    
+    Manuel Martinez
+    
+      
+      1962-1964
+      
+    
+    
+    PRI
+    
+    
+    
+    Aureliano Ruiz 
+    
+      
+      1965-1967
+      
+    
+    
+    PRI
+    
+    
+    
+    Armando Diaz de Leon
+    
+      
+      1968-1969
+      
+    
+    
+    PRI
+    
+    
+    
+    Isaias Arteaga
+    
+      
+      1969-1970
+      
+    
+    
+    PRI
+    
+    
+    
+    Aureliano Ruiz
+    
+      
+      1971-1973
+      
+    
+    
+    PRI
+    
+    
+    
+    Hector Ruiz Lopez
+    
+      
+      1974-1976
+      
+    
+    
+    PRI
+    
+    
+    
+    Ing. Roberto Luevano S.
+    
+      
+      1977-1979
+      
+    
+    
+    PRI
+    
+    
+    
+    Profr. Sergio Ruiz 
+    
+      
+      1980-1981
+      
+    
+    
+    PRI
+    
+    
+    
+    Profr. Armando Medina A.
+    
+      
+      1981-1982
+      
+    
+    
+    PRI
+    
+    
+    
+    Profr. Javier Ovalle E.
+    
+      
+      1983-1985
+      
+    
+    
+    PRI
+    
+    
+    
+    Profr. Armando Medina Arteaga
+    
+      
+      1986-1988
+      
+    
+    
+    PRI
+    
+    
+    
+    Tec. Agr. Ruben Delgado 
+    
+      
+      1988-1992
+      
+    
+    
+    PRI
+    
+    
+    
+    Arturo aCuña Prince
+    
+      
+      1992-1995
+      
+    
+    
+    PRI
+    
+    
+    
+    Ing. Bercely Romo Ortiz
+    
+      
+      1995-1998
+      
+    
+    
+    PRI
+    
+    
+    
+    Jorge Ortiz Luevano
+    
+      
+      1998-2001
+      
+    
+    
+    PRD
+    
+    
+    
+    Profr. Alejandro Herrera Verdin
+    
+      
+      2001-2004
+      
+    
+    
+    PRD
+    
+    
+    
+    Gustavo Ortiz Luevano
+    
+      
+      2004-2007
+      
+    
+    
+    PRD
+    
+    
+    
+    Alejandro Herrera Verdin 
+    2007-2010
+    PRD
+    
+    
+    Jose Manuel Jaime Delgadillo 
+    2010-2013
+    PAN
+    
+    
+      Adan Martinez Lamas
+      2013-2016
+      PVEM
+    
+  
+
+32026.html
+Zacatecas - Mazapil
+
+  
+  
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+    
+    
+    J. Jesus Ortega Hernandez
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Ulises Hernandez Juarez
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Honorio Perez Marin
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Fernando Varela Baez
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Celestino Tobanche Alonso
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Guillermo Rosales Santos
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    Jacobo Rivera Esquivel
+    
+    1986-1989
+    
+    
+    PRI
+    
+    
+    
+    Ing. Servando Briones Coronado
+    
+    1989-1992
+    
+    
+    PRI
+    
+    
+    
+    Ing. Ranulfo Huerta Briones
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    MVZ Vicente Perez Esquivel
+    
+    1995-1998
+    
+    
+    PRI
+    
+    
+    
+    Profr. Gregorio Macias Zuñiga
+    
+    1998-2001
+    
+    
+    PRI
+    
+    
+    
+    Gelasio Briones Huerta
+    
+    2001-2004
+    
+    
+    PRI
+    
+    
+    
+    Francisco Javier Hernandez Santos
+    
+    2004-2007
+    
+    
+    PRD
+    
+    
+    
+    Gregorio Macias Zuñiga 
+    2007-2010
+    PRI
+    
+    
+    Mario Macias Zuñiga 
+    2010-2013
+    PRI
+    
+    
+      Vicente Perez ESquivel
+      2013-2016
+      PRI
+    
+  
+
+32027.html
+Zacatecas - Melchor Ocampo
+
+  
+
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+    
+    
+    Magdaleno Castillo
+    
+1949
+    
+    
+    PRI
+    
+    
+    
+    J. Inocencio Palacios
+    
+1950
+    
+    
+    PRI
+    
+    
+    
+    J. Salvador Ramirez Negrete
+    
+    1951-1952
+    
+    
+    PRI
+    
+    
+    
+    Egmidio Montoya Mendoza
+    
+    1956-1958
+    
+    
+    PRI
+    
+    
+    
+    Esteban Hernandez Martinez
+    
+    1956-1958
+    
+    
+    PRI
+    
+    
+    
+    Macario Quiroz Garcia
+    
+    1559-1961
+    
+    
+    PRI
+    
+    
+    
+    Carlos Lopez Agüero
+    
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    Raul Lopez Esquivel
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    Jesus Hernandez
+    Quiroz
+    
+    1969-1970
+    
+    
+    PRI
+    
+    
+    
+    Domingo Lopez Salas
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Marin Reyes Zuñiga
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Nieves Espinoza Rodriguez
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Emilio Perez Zuñiga
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    J. Ascension Martinez
+    Gamez
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    J. Ascension Vallejo Rodriguez
+    
+    1985-1987
+    
+    
+    PRI
+    
+    
+    
+    Francisco Trejo Quiroz
+    
+    1987-1991
+    
+    
+    PRI
+    
+    
+    
+    J. Ascension Martinez
+    Gamez
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Armando Orejon Treviño
+    
+1998
+    (Tres meses)
+    
+    
+    PRI
+    
+    
+    
+    Mauro Montoya Aviles 
+    
+    1998-2001
+    
+    
+    PRI
+    
+    
+    
+    Roberto Castillo Orejon
+    
+    2001-2004
+    
+    
+    PRI
+    
+    
+    
+    Roberto Hernandez Gonzalez
+    
+    2004-2007
+    
+    
+    PRI
+    
+    
+    
+    Mauro Montoya Aviles 
+    2007-2010
+    PRI
+    
+    
+    Armando Vazquez Ramos 
+    2010-2013
+     
+    
+    
+      Damian Gaytan Quiroz
+      2013-2016
+      PAN-PRD
+    
+  
+
+32028.html
+Zacatecas -Mezquital del Oro
+
+  
+  
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+    
+    
+    Jose Lopez Gonzalez
+    
+    1950-1950
+    
+    
+    PRI
+    
+    
+    
+    Guillermo Rodriguez  (Interino)
+    
+    1951-1952
+    
+    
+    PRI
+    
+    
+    
+    Jose Lopez Gonzalez
+    
+1952
+    
+    
+    PRI
+    
+    
+    
+    J. Encarnacion Figueroa (Interino)
+    
+1952
+    
+    
+    PRI
+    
+    
+    
+    Serafin Soto Lopez 
+    (Interino)
+    
+1952
+    
+    
+    PRI
+    
+    
+    
+    Jose Lopez Gonzalez
+    
+    1952-1953
+    
+    
+    PRI
+    
+    
+    
+    J. Jesus Gonzalez
+    
+1954
+    
+    
+    PRI
+    
+    
+    
+    Secundino Castañeda
+    
+1954
+    
+    
+    PRI
+    
+    
+    
+    Pedro Figueroa Haro  (Interino)
+    
+1954
+    
+    
+    PRI
+    
+    
+    
+    Secundino Castañeda
+    
+1954
+    
+    
+    PRI
+    
+    
+    
+    Fortunato Muro  (Interino)
+    
+1955
+    
+    
+    PRI
+    
+    
+    
+    J. Jesus Gonzalez  (Interino)
+    
+1955
+    
+    
+    PRI
+    
+    
+    
+    Jose Castro Cuellar (Interino)
+    
+1955
+    
+    
+    PRI
+    
+    
+    
+    Fortunato Muro (Interino)
+    
+1955
+    
+    
+    PRI
+    
+    
+    
+    Efren Muro Muro
+    
+1956
+    
+    
+    PRI
+    
+    
+    
+    Alfredo Correa Nungaray   (Interino)
+    
+1957
+    
+    
+    PRI
+    
+    
+    
+    Jose Felix Cruz  (Interino)
+    
+1957
+    
+    
+    PRI
+    
+    
+    
+    Alfredo Correa Nungaray  (Interino)
+    
+1957
+    
+    
+    PRI
+    
+    
+    
+    Gonzalo Gamez Quintero  (Interino)
+    
+1957
+    
+    
+    PRI
+    
+    
+    
+    Felimon Fregoso  (Interino)
+    
+    1957-1958
+    
+    
+    PRI
+    
+    
+    
+    Efren Muro Muro )Interino)
+    
+1958
+    
+    
+    PRI
+    
+    
+    
+    Alfredo Salas Garcia  (Interino)I
+    
+1958
+    
+    
+    PRI
+    
+    
+    
+    Francisco Nuñez Flores
+    
+    1959-1961
+    
+    
+    PRI
+    
+    
+    
+    Gonzalo Alvarez Ponce
+    
+1962
+    
+    
+    PRI
+    
+    
+    
+    Guillermo Haro Castro
+    
+    1962-1963
+    
+    
+    PRI
+    
+    
+    
+    Miguel Gallardo Davalos  (Interino)
+    
+1964
+    
+    
+    PRI
+    
+    
+    
+    Guillermo Haro Castro
+    
+1964
+    
+    
+    PRI
+    
+    
+    
+    Herminio Castro Sahagun 
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    Ezequiel Cida Rodriguez 
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Salvador Romero Reynoso
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Tomas Guzman Castro
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Ramiro Luna Serrano
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Jose Avila Raygoza
+    
+    1979-1980
+    
+    
+    PRI
+    
+    
+    
+    Pascual Jimenez Flores
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Jose Quintero Vidaurri
+    
+    1982-1985
+    
+    
+    PRI
+    
+    
+    
+    Jose de Jesus Bañuelos
+    Frias
+    
+    1986-1989
+    
+    
+    PRI
+    
+    
+    
+    Ramiro Rodriguez Magallanes
+    
+    1989-1992
+    
+    
+    PRI
+    
+    
+    
+    Francisco Escobedo
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    M.V.Z. Oscar Pablo Castañeda
+    
+    1995-1998
+    
+    
+    PRI
+    
+    
+    
+    Roberto Jimenez Avila
+    
+    1998-2001
+    
+    
+    PAN
+    
+    
+    
+    Humberto Salas Castro
+    
+    2001-2004
+    
+    
+    PRI
+    
+    
+    
+    J. Jesus Rojas Rodriguez
+    
+    2004-2007
+    
+    
+    PRD
+    
+    
+    
+    Francisco Javier Jimenez Espita 
+    2007-2010
+    PRI
+    
+    
+    Ramon Moreno Castro 
+    2010-2013
+    ZANUNE
+    
+    
+
+32029.html
+Zacatecas - Miguel Auza
+
+  
+ 
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+    
+    
+    Ramon Perez
+    
+    1940 - 1941
+    
+    
+    P R I 
+    
+    
+    
+    Eliseo Avila Ruelas
+    
+    1942 - 1943
+    
+    
+    P R I
+    
+    
+    
+    Francisco Hernandez
+    
+    1944 - 1945 - 1946
+    
+    
+    P R I 
+    
+    
+    
+    Agustin Vitela
+    
+    1947 - 1948 - 1949
+    
+    
+    P R I 
+    
+    
+    
+    Silvestre Salas
+    
+    1950 - 1951 - 1952
+    
+    
+    P R I 
+    
+    
+    
+    Antonio Canales Ruelas
+    
+    1953 - 1954 - 1955
+    
+    
+    P R I 
+    
+    
+    
+    Tobias Sanchez
+    Guzman
+    
+    1956 - 1957 - 1958
+    
+    
+    P R I 
+    
+    
+    
+    Pablo Talamantes S.
+    
+    1959 - 1960 - 1961
+    
+    
+    P R I 
+    
+    
+    
+    Alfredo Morales M.
+    
+    1962 - 1963 - 1964
+    
+    
+    P R I 
+    
+    
+    
+    Pedro Bocardo C.
+    
+    1965 - 1966 - 1967
+    
+    
+    P R I 
+    
+    
+    
+    Manuel Gonzalez F.
+    
+    1968 - 1969 - 1970
+    
+    
+    P R I 
+    
+    
+    
+    Arturo Gonzalez Villa
+    
+    1971 - 1972 - 1973
+    
+    
+    P R I 
+    
+    
+    
+    Antonio Herrera Bocardo
+    
+    1974 - 1975 - 1976
+    
+    
+    P R I 
+    
+    
+    
+    J. Jesus Ruelas Fraire
+    
+    1977 - 1978 - 1979
+    
+    
+    P R I 
+    
+    
+    
+    Jesus Padilla Estrada
+    
+    1980 - 1981 - 1982
+    
+    
+    P R I 
+    
+    
+    
+    Gerardo Gamon R.
+    
+    1983 - 1984 - 1985
+    
+    
+    P R I 
+    
+    
+    
+    Hector Giacoman
+    P.
+    
+    1986 - 1987 - 1988
+    
+    
+    P R I 
+    
+    
+    
+    A. Mario Avalos G.
+    
+    1989 - 1990 - 1991 - 1992
+    
+    
+    P R I 
+    
+    
+    
+    Pablo Sanchez Montelongo
+    
+    1993 - 1994 - 1995
+    
+    
+    P R I 
+    
+    
+    
+    Jose Angel Morales
+    G.
+    
+    1996 - 1997 - 1998
+    
+    
+    P R I 
+    
+    
+    
+    Gerardo Rodriguez Andrade
+    
+    1999 - 2000 - 2001 
+    
+    
+    P R I 
+    
+    
+    
+    Ing. Ruben E. Norman Ruiz
+    
+    2002 - 2003 - 2004
+    
+    
+    P A N 
+    
+    
+    
+    Claudio Lopez Simental
+    
+    2004 - 2007
+    
+    
+    P R D 
+    
+    
+    
+    Armando Perales Gandara 
+    2007-2010
+    PRD
+    
+    
+    Carlos Alberto Pedroza Morales 
+    2010-2013
+    PAN
+    
+    
+      Armando Perales Gandara 
+      203-2016
+      PT
+    
+  
+
+32030.html
+Zacatecas - Momax
+
+  
+  
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+    
+    
+    Rodrigo Mota
+    
+    1950-1952
+    
+    
+    PRI
+    
+    
+    
+    Ramon Campos
+    
+    1952-1953
+    
+    
+    PRI
+    
+    
+    
+    Carlos Mayorga
+    
+    1953-195
+    
+    
+    PRI
+    
+    
+    
+    Ramon Ramirez
+    
+1955
+    
+    
+    PRI
+    
+    
+    
+    Nicolas Anaya
+    
+1956
+    
+    
+    PRI
+    
+    
+    
+    Salvador Haro
+    
+1958
+    
+    
+    PRI
+    
+    
+    
+    Rosendo Miramontes
+    
+1960
+    
+    
+    PRI
+    
+    
+    
+    Carlos Mayorga
+    
+1960
+    
+    
+    PRI
+    
+    
+    
+    Juan Maria Mota
+    
+1961
+    
+    
+    PRI
+    
+    
+    
+    Enrique Leyva
+    
+1962
+    
+    
+    PRI
+    
+    
+    
+    Juan Fco. Miramontes
+    
+    1962-1965
+    
+    
+    PRI
+    
+    
+    
+    Juan Antonio Alvarez
+    
+    1966-1968
+    
+    
+    PRI
+    
+    
+    
+    Atanasio Alvarez
+    
+1969
+    
+    
+    PRI
+    
+    
+    
+    Jose Alvarez
+    
+    1969-1970
+    
+    
+    PRI
+    
+    
+    
+    Antioco Ramirez
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Salvador Mota
+    
+    1973-1976
+    
+    
+    PRI
+    
+    
+    
+    Juan Fco. Miramontes
+    
+    1976-1979
+    
+    
+    PRI
+    
+    
+    
+    Gilberto Mota
+    
+    1979-1980
+    
+    
+    PRI
+    
+    
+    
+    Jose Alvarez
+    
+    1980-1983
+    
+    
+    PRI
+    
+    
+    
+    Juan P. Miramontes
+    
+    1983-1986
+    
+    
+    PRI
+    
+    
+    
+    Jose Hector Salas
+    
+    1986-1989
+    
+    
+    PRI
+    
+    
+    
+    Juan Carlos Haro A.
+    
+    1989-1992
+    
+    
+    PRI
+    
+    
+    
+    Inocencia Valdes S.
+    
+1992
+    
+    
+    PRI
+    
+    
+    
+    Luis Manuel Campos
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Federico Haro Mota
+    
+    1995-1998
+    
+    
+    PAN
+    
+    
+    
+    Juan Daniel Alvarez
+    
+    998-2001
+    
+    
+    PAN
+    
+    
+    
+    Luis E. Alvarez
+    
+    2001-2004
+    
+    
+    PAN
+    
+    
+    
+    Joel Miramontes Luna
+    
+    2004-2007
+    
+    
+    PRI
+    
+    
+    
+    J. Refugio Murillo Mayorga 
+    2010-2013
+    PAN
+    
+    
+      Salvador Cabral Mota
+      2013-2016
+      PRI
+    
+  
+
+32031.html
+Zacatecas - Monte Escobedo
+
+  
+  
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+    
+    
+    Tomas Marquez Suarez
+    
+1950
+    
+    
+    P.R.I
+    
+    
+    
+    Buenaventura Alvarez
+    
+    1950-1952
+    
+    
+    P.R.I
+    
+    
+    
+    Eliseo Sanchez Berumen
+    
+    1952-1953
+    
+    
+    P.R.I
+    
+    
+    
+    Francisco Arellano Sanchez
+    
+1953
+    
+    
+    P.R.I
+    
+    
+    
+    J.Guadalupe Bañuelos Sanchez
+    
+    1953-1955
+    
+    
+    P.R.I
+    
+    
+    
+    Maurilio Sanchez Valenzuela
+    
+    1956-1958
+    
+    
+    P.R.I
+    
+    
+    
+    Jorge Barragan Acosta
+    
+    1959-1961
+    
+    
+    P.R.I
+    
+    
+    
+    J. Refugio Arguelles Sanchez
+    
+1962
+    
+    
+    P.R.I
+    
+    
+    
+    Jesus Ma. Lopez Avila 
+    
+    1962-1964
+    
+    
+    P.R.I
+    
+    
+    
+    Alejandro Arguelles Sanchez
+    
+    1965-1967
+    
+    
+    P.R.I
+    
+    
+    
+    Tomas Marquez de la Rosa 
+    
+    1968-1970
+    
+    
+    P.R.I
+    
+    
+    
+    Luis Alfonso Barragan Robles
+    
+    1971-1973
+    
+    
+    P.R.I
+    
+    
+    
+    Antonio Barragan Reyes
+    
+    1974-1976
+    
+    
+    P.R.I
+    
+    
+    
+    Luis Rivera Vega
+    
+    1977-1979
+    
+    
+    P.R.I
+    
+    
+    
+    Luis Albertano Delgado Arellano
+    
+    1980-1982
+    
+    
+    P.R.I
+    
+    
+    
+    Alejandro Arguelles Rivera
+    
+    1983-1985
+    
+    
+    P.R.I
+    
+    
+    
+    J. Jesus Blanco Barragan
+    
+1985
+    
+    
+    P.R.I
+    
+    
+    
+    Jose de Jesus Sanchez
+    Bermudez
+    
+    1986-1988
+    
+    
+    P.R.I
+    
+    
+    
+    Daniel Ulloa Valenzuela
+    
+    1989-1992
+    
+    
+    P.R.I
+    
+    
+    
+    J. Jesus Blanco Barragan
+    
+    1992-1995
+    
+    
+    P.R.I
+    
+    
+    
+    J. Jesus Del Real Sanchez
+    
+    1995-1998
+    
+    
+    P.R.I
+    
+    
+    
+    Servando Lopez  Monsivais
+    
+    1998-2001
+    
+    
+    P.A.N
+    
+    
+    
+    Erick Marcos Ortega Valdes
+    
+2001
+    
+    
+    P.R.I
+    
+    
+    
+    Sergio Bernardo Villarreal Sanchez
+    
+    2004-2007
+    
+    
+    P.R.D
+    
+    
+    
+    Jose de Jesus del Real Sanchez 
+    2007-2010
+    PRI
+    
+    
+    Raul Ixta Serrano 
+    2010-2013
+    ZANUNE
+    
+    
+      Martha Leticia Ulloa Hermosillo
+      2013-2016
+      PRI
+    
+  
+
+32032.html
+Zacatecas - Morelos
+
+  
+  
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido Politico
+    
+    
+    
+    Miguel Enriquez
+    
+    1940 - 1941
+    
+    
+    PRI
+    
+    
+    
+    Jose I. Sandoval
+    
+    1942-1942
+    
+    
+    PRI
+    
+    
+    
+    Francisco Trejo Garcia
+    
+    1942-1943
+    
+    
+    PRI
+    
+    
+    
+    Jose Menchaca Aguirre
+    
+    1943-1943
+    
+    
+    PRI
+    
+    
+    
+    Francisco Macias
+    Perez
+    
+    1944-1944
+    
+    
+    PRI
+    
+    
+    
+    Juan Ortiz Enriquez
+    
+    1944-1945
+    
+    
+    PRI
+    
+    
+    
+    Francisco Macias
+    Perez
+    
+    1945-1946
+    
+    
+    PRI
+    
+    
+    
+    Hilario Trejo Garcia
+    
+    1947-1949
+    
+    
+    PRI
+    
+    
+    
+    Jose Menchaca Aguirre
+    
+    1950-1950
+    
+    
+    PRI
+    
+    
+    
+    Manuel Hernandez
+    Campos
+    
+    1950-1950
+    
+    
+    PRI
+    
+    
+    
+    Jose Menchaca Aguirre
+    
+    1950-1951
+    
+    
+    PRI
+    
+    
+    
+    Pascual Baez
+    
+    1951-1951
+    
+    
+    PRI
+    
+    
+    
+    Jose Menchaca Aguirre
+    
+    1951-1952
+    
+    
+    PRI
+    
+    
+    
+    Manuel Hernandez
+    Campos
+    
+    1952-1952
+    
+    
+    PRI
+    
+    
+    
+    Alberto Delgado
+    
+    1952-1952
+    
+    
+    PRI
+    
+    
+    
+    Jose Acuña
+    Avila
+    
+    1953-1955
+    
+    
+    PRI
+    
+    
+    
+    Manuel Hernandez
+    Campos
+    
+    1956-1956
+    
+    
+    PRI
+    
+    
+    
+    Jose Perez
+    Vargas
+    
+    1956-1956
+    
+    
+    PRI
+    
+    
+    
+    Manuel Hernandez
+    Campos
+    
+    1956-1956
+    
+    
+    PRI
+    
+    
+    
+    Jose Perez
+    Vargas
+    
+    1956-1958
+    
+    
+    PRI
+    
+    
+    
+    Manuel Hernandez
+    Campos
+    
+    1958-1958
+    
+    
+    PRI
+    
+    
+    
+    Jose Acuña
+    Avila
+    
+    1959-1961
+    
+    
+    PRI
+    
+    
+    
+    Jose Menchaca Viramontes
+    
+    1962-31-1964
+    
+    
+    PRI
+    
+    
+    
+    Jose Acuña
+    Avila
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    Manuel Carrillo Bañuelos
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Vicente Enriquez
+    Reza (interino)
+    
+    1970-1970
+    
+    
+    PRI
+    
+    
+    
+    Gilberto Menchaca Muñoz
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Rafael Carrillo Chavez
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Miguel Trejo Reyes
+    
+    1977- 1979
+    
+    
+    PRI
+    
+    
+    
+    Nicolas Trejo Cid
+    
+    1980- 1982
+    
+    
+    PRI
+    
+    
+    
+    Margarita Fajardo Guerrero
+    
+    1983- 1985
+    
+    
+    PRI
+    
+    
+    
+    Jose Hugo Acuña
+    Acuña
+    
+    1986- 1988
+    
+    
+    PRI
+    
+    
+    
+    J. Guadalupe Reyes Ortiz
+    
+    1989- 1992
+    
+    
+    PRI
+    
+    
+    
+    Miguel Angel Trejo
+    Reyes
+    
+    1992 -1998
+    
+    
+    PAN
+    
+    
+    
+        Ciriaco de la Rosa Mercado
+    
+    (interino)
+    
+    1998- 1998
+    
+    
+    PAN
+    
+    
+    
+    Sergio Vazquez
+    Lujan
+    
+    1998- 1901
+    
+    
+    PT
+    
+    
+    
+    Jose Luis Perez
+    Lamas
+    
+2001
+    
+    
+    PT
+    
+    
+    
+    Juan Carlos Macias Miranda
+    
+    2004-2007
+    
+    
+    PRD
+    
+    
+    
+    Rafael Trejo Perez 
+    2007-2010
+    PT
+    
+    
+    Raul Veyna Lamas 
+    2010-2013
+    ZANUNE
+    
+    
+      Horacio Franco
+      2013-2016
+      PRI
+    
+  
+
+32033.html
+Zacatecas - Moyahua de Estrada
+
+  
+  
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+    
+    
+    Miguel Haro Haro
+    
+    1950-
+    
+    
+    PRI
+    
+    
+    
+    Lucio Reynoso Llamas
+    
+    1951-1952
+    
+    
+    PRI
+    
+    
+    
+    Reyes Reynoso Llamas
+    
+    1953-1954
+    
+    
+    PRI
+    
+    
+    
+    Leopoldo Gonzalez Lopez
+    
+1955
+    
+    
+    PRI
+    
+    
+    
+    Guadalupe Estrada Reynoso
+    
+    1956-1957
+    
+    
+    PRI
+    
+    
+    
+    Angel Estrada Gonzalez
+    
+1958
+    
+    
+    PRI
+    
+    
+    
+    J. Guadalupe Ocampo Reynoso
+    
+1959
+    
+    
+    PRI
+    
+    
+    
+    Jose Luna Arellano
+    
+1960
+    
+    
+    PRI
+    
+    
+    
+    Andres Ocampo Lopez
+    
+1961
+    
+    
+    PRI
+    
+    
+    
+    Leopoldo Gonzalez Lopez
+    
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    Jose Estrada Alvarado
+    
+    1965-1966
+    
+    
+    PRI
+    
+    
+    
+    Jesus Haro Ruvalcaba
+    
+    1966-1967
+    
+    
+    PRI
+    
+    
+    
+    Secundino Estrada Gonzalez
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Raul Ocampo Ponce
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Guadalupe Lara Garcia 
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Ezequiel Reynoso Gonzalez
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Hector Ruiz Reynoso
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Jaime Ledesma Placencia
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    Alvaro Humberto Gonzalez
+    Haro
+    
+    1986-1988
+    
+    
+    PRI
+    
+    
+    
+    Jose de Jesus Jimenez
+    Garcia
+    
+    1989-1992
+    
+    
+    PRI
+    
+    
+    
+    Bonifacio Garcia Placencia
+    
+    1992-1994
+    
+    
+    PRI
+    
+    
+    
+    Isaias Gonzalez Bañuelos
+    
+    1995-1998
+    
+    
+    PRI
+    
+    
+    
+    Carlos Enrique Estrada Esparza
+    
+    1998-2001
+    
+    
+    PAN
+    
+    
+    
+    Raul Tello Alvarado
+    
+    2001-2004
+    
+    
+    PAN
+    
+    
+    
+    Pedro Haro Tello
+    
+    2004-2007
+    
+    
+    PRI
+    
+    
+    
+    Jose Luis Delgadillo Hernandez 
+    2007-2010
+    PRI
+    
+    
+    Jose Manuel Ledezma Haro 
+    2010-2013
+    ZANUNE
+    
+    
+      Octavio Perez Vazquez
+      2013-2016
+      PRI
+    
+  
+
+32034.html
+Zacatecas - Nochistlan de Mejia
+
+  
+  
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+    
+    
+    Jose Jauregui Sanchez
+    
+    1950-1952
+    
+    
+    PRI
+    
+    
+    
+    Espiridion Frias
+    Valdez
+    
+    1953-1955
+    
+    
+    PRI
+    
+    
+    
+    Carlos Guzman Yañez
+    
+    1956-1958
+    
+    
+    PRI
+    
+    
+    
+    Oton Solis Villegas 
+    (Interino)
+     
+     
+    
+    
+    Marcos Tachiquin Avelar
+    
+    1959-1961
+    
+    
+    PRI
+    
+    
+    
+    J. Jesus Perez 
+    (Interino)
+     
+     
+    
+    
+    Salvador Duran Sigala
+    
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    Jose Solis Ponce
+    (Interino)
+     
+     
+    
+    
+    Margarito Gonzalez Jaurequi
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    J. Jesus Bautista Legaspi
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Luis Rodriguez Jauregui
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    J. Jesus Quezada Roque
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Maria Guadalupe Cervantes
+    Mejia
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Elias Muñoz Valdez
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    J. Isabel Frias Rodriguez
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    Francisco Blanco Dueñas
+    
+    1986-1988
+    
+    
+    PRI
+    
+    
+    
+    Profr. J. Isabel Frias
+    
+    1988-1992
+    
+    
+    PRI
+    
+    
+    
+    Moises Ornelas
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Dr. Gerardo Oliva
+    
+    1995-1998
+    
+    
+    PAN
+    
+    
+    
+    Hector Gonzalez
+    
+    1998-2001
+    
+    
+    PAN
+    
+    
+    
+    Moises Ornelas
+    
+    2001-2004
+    
+    
+    PRI
+    
+    
+    
+    Ramon Jimenez 
+    Fuentes 
+    
+    2004-2007
+    
+    
+    PRD
+    
+    
+    
+    Moises Ornelas Aguayo 
+    2010-2013
+    PAN
+    
+    
+      Fernando Gonzalez Sanchez
+      2013-2016
+      PRI
+    
+  
+
+32035.html
+Zacatecas -Noria de Angeles
+
+  
+  
+  
+  
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+      Gobierno
+    
+    
+    Partido
+      Politico
+    
+  
+  
+    Manuel  Silva Davila 
+    1950 - 1952
+    PRI
+  
+  
+    Alfonso  Davalos Esparza 
+    1953 - 1953
+    PRI
+  
+  
+    Fernando  Esparza Gomez 
+    1956 - 1956
+    PRI
+  
+  
+    Genaro de  Lira Diaz
+    1959 - 1961
+    PRI
+  
+  
+    Manuel  H. Guerreo
+1962
+    PRI
+  
+  
+    Jesus  Cervantes Cavaria 
+    1963 - 1964
+    PRI
+  
+  
+    Santiago  Guerrero Galavis 
+    1963 - 1967
+    PRI
+  
+  
+    Jose  Antonio Garcia Garcia 
+    1968 - 1970
+    PRI
+  
+  
+    Jesus  de la Rosa Ramirez
+    1971 - 1973
+    PRI
+  
+  
+    Pedro  Garza Barcenas 
+    1974 - 1976
+    PRI
+  
+  
+    Adalberto  Reyes Villanueva 
+    1977 - 1979
+    PRI
+  
+  
+    Ramon  Ramirez Sauceda 
+    1980 - 1982
+    PRI
+  
+  
+    Fidencio  Hernandez Lozano 
+    1983- 1985
+    PRI
+  
+  
+    Jose  Matilde Cervantes Soto 
+    1986 - 1988
+    PRI
+  
+  
+    Prof.  Jose de Jesus Zuñiga Guerrero 
+    1989 - 1992
+    PRI
+  
+  
+    Ing.  Hector Reyes Herrada 
+    1992 - 1995
+    PRI
+  
+  
+    Prof.  Hermenegildo Diaz Saucedo 
+    1995 - 1998
+    PRI
+  
+  
+    Ing.  Biliulfo Rodriguez Esparza 
+    1998 - 2001
+    PRI
+  
+  
+    Lic. J.  Jesus Guerrero Montoya 
+    2001 - 2004
+    PRI
+  
+  
+    Mauro  Bernal Martinez
+    2004- 2007 
+    PRD 
+  
+  
+    Biliulfo  Rodriguez Esparza 
+    2007-2010
+    PRI
+  
+  
+    Eleazar Alonzo Hernandez 
+    2010-2013
+    PRIZAC
+  
+  
+    Hector ESparsa Frausto
+    2013-2016
+    PRI
+  
+  
+
+32036.html
+Zacatecas - Ojocaliente
+
+  
+  
+    
+    
+    Presidente municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+    
+    
+    Jose Davila Diaz
+    
+    1940-1941
+    
+    
+    PRI
+    
+    
+    
+    Leonardo Guerrero
+    
+    1942-1943
+    
+    
+    PRI
+    
+    
+    
+    Leon R. Cuevano
+    
+    1944-1945
+    
+    
+    PRI
+    
+    
+    
+    Antonio Perea
+    
+    1946-1947
+    
+    
+    PRI
+    
+    
+    
+    Agustin Hernandez
+    
+1950
+    
+    
+    PRI
+    
+    
+    
+    Marcelo Sandoval
+    
+    1051-1952
+    
+    
+    PRI
+    
+    
+    
+    Antonio Perea
+    
+    1953-1955
+    
+    
+    PRI
+    
+    
+    
+    J. Jesus Nuñez
+    
+    1956-1958
+    
+    
+    PRI
+    
+    
+    
+    Elias Valdez Garcia
+    
+    1959-1961
+    
+    
+    PRI
+    
+    
+    
+    Dr. Raul Cardona Rodriguez
+    
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    Rafael Olmos Aranda
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    Rito Muro Gonzalez
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Profr. J. Jesus Soto Diaz
+    de Leon
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Leopoldo Sagrado Acosta
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Armando Elias Cazares
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Gamaliel Garcia Garcia
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Dr. Jaime Bernal Gomez
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    Ing. Miguel Razo Hernandez
+    
+    1986-1988
+    
+    
+    PRI
+    
+    
+    
+    Profr. Miguel Diaz De
+    Leon
+    
+    1989-1992
+    
+    
+    PRI
+    
+    
+    
+    Miguel Garcia Aguilar
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Eloy Diaz Juarez
+    
+    1995-1998
+    
+    
+    PRI
+    
+    
+    
+    Profr. Elizardo Navarro Cande las
+    
+    1999-2001
+    
+    
+    PRI
+    
+    
+    
+    Efrain Perez Ibarra
+    
+    2002-2004 
+    
+    
+    PAN
+    
+    
+    
+    Rafael Calzada Vazquez
+    
+    2004-2007 
+    
+    
+    PRD
+    
+    
+    
+    Jose Luis Ortiz Martinez 
+    2007-2010
+    PRD
+    
+    
+    Hector Arturo Bernal Gallegos 
+    2010-2013
+    PRIZAC
+    
+    
+      Ivan Husain Vitar Soto
+      2013-2016
+      PAN-PRD
+    
+  
+
+32037.html
+Zacatecas - Panuco
+
+  
+
+    
+    
+      Presidente Municipal
+    
+    
+      Periodo de 
+      Gobierno
+    
+    
+      Partido 
+      Politico
+    
+    
+    
+    Fidel 
+    Cuevas Perez
+    
+    1941 - 1941
+    
+    
+    PRM
+    
+    
+    
+    Agustin 
+    Lopez
+    
+    1941 -1944
+    
+    
+    PRM
+    
+    
+    
+    Antonio 
+    Cuevas Perez
+    
+    1944 - 1944
+    
+    
+    PRM
+    
+    
+    
+    Victoriano 
+    Rodriguez
+    
+    1944 - 1945
+    
+    
+    PRM
+    
+    
+    
+    Vicente 
+    de la Rosa Lopez
+    
+    1946 - 1947
+    
+    
+    PRI
+    
+    
+    
+    Pablo 
+    Giron Baez
+    
+    1947 - 1947
+    
+    
+    PRI
+    
+    
+    
+    Calixto 
+    Gonzalez Luna
+    
+    1947 - 1949
+    
+    
+    PRI
+    
+    
+    
+    Filiberto 
+    Maldonado Lopez
+    
+    1950 - 1952
+    
+    
+    PRI
+    
+    
+    
+    Agustin 
+    Lopez Cerros
+    
+    1953 - 1954
+    
+    
+    PRI
+    
+    
+    
+    Crecencio 
+    Quiñones Silva
+    
+    1955 - 1956
+    
+    
+    PRI
+    
+    
+    
+    Luis 
+    Maldonado Rodriguez
+    
+    1956 - 1958
+    
+    
+    PRI
+    
+    
+    
+    Manuel 
+    Jara Carrillo
+    
+    1959 - 1961
+    
+    
+    PRI
+    
+    
+    
+    Luis 
+    Maldonado Rodriguez
+    
+    1962 - 1964
+    
+    
+    PRI
+    
+    
+    
+    Daniel 
+    Ezquivel Torres
+    
+    1965 - 1967
+    
+    
+    PRI
+    
+    
+    
+    J. 
+    Jesus Parga Lara
+    
+    1968 - 1970
+    
+    
+    PRI
+    
+    
+    
+    Daniel 
+    Ezquivel Torres
+    
+    1971 - 1973
+    
+    
+    PRI
+    
+    
+    
+    Jose 
+    Perez Palacios
+    
+    1974 - 1976
+    
+    
+    PRI
+    
+    
+    
+    Ismael 
+    Giron Gonzalez
+    
+    1977 - 1979
+    
+    
+    PRI
+    
+    
+    
+    Isidro 
+    Aguilera Giron
+    
+    1980 - 1982
+    
+    
+    PRI
+    
+    
+    
+    Juan 
+    Ma. Hernandez Carreon
+    
+    1983 - 1985
+    
+    
+    PRI
+    
+    
+    
+    Lic. 
+    Roberto Lara Lopez
+    
+    1986 - 1987
+    
+    
+    PRI
+    
+    
+    
+    Manuel 
+    de Jesus Perez Palacios
+    
+    1987 - 1988
+    
+    
+    PRI
+    
+    
+    
+    Prof. 
+    Rodolfo Lopez Gallegos
+    
+    1989 - 1992
+    
+    
+    PRI
+    
+    
+    
+    Ing. 
+    Edilberto Solis Saldivar
+    
+    1992 - 1995
+    
+    
+    PRI
+    
+    
+    
+    Albino 
+    Castillo Garcia
+    
+    1995 - 1998
+    
+    
+    PAN
+    
+    
+    
+    Federico 
+    Guzman Silva
+    
+    1998 - 1998
+    
+    
+    PRI
+    
+    
+    
+    Ing. Juan Torres Esparza
+    1998 - 2001
+    PRI
+    
+    
+    Albino 
+    Castillo Garcia 
+    
+    2001 - 2004
+    
+    
+    PAN
+    
+    
+    
+    Isaias 
+    Castro Trejo
+    
+    2004 - 2007
+    
+    
+    PT
+    
+    
+    
+    Benjamin Nuñez Cazares 
+    2007-2010
+    PRD
+    
+    
+    Hugo Dominguez Ramirez
+    2010-2013
+    PAN
+    
+    
+      Juan Rodriguez Valdez
+      2013-2016
+      PRI
+    
+  
+
+32038.html
+Zacatecas - Pinos
+
+  
+  
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+      Gobierno
+    
+    
+    Partido
+      Politico
+    
+  
+  
+    Ing.  Jose de Jesus Robledo
+1950
+    PRI
+  
+  
+    Profr.  Narciso Ramirez Quevedo  (Interino )
+1951
+    PRI
+  
+  
+    Daniel  Medina Gonzalez
+1952
+    PRI
+  
+  
+    J.  Jesus R. Davila
+    1953 -1954
+    PRI
+  
+  
+    Victor  Ontiveros
+1955
+    PRI
+  
+  
+    Alfonso  Flores
+    1956-1958
+    PRI
+  
+  
+    Rosalio  Morquecho Guerrero
+    1959-1961
+    PRI
+  
+  
+    Jose  Rosso Martinez
+    1962-1964
+    PRI
+  
+  
+    Hilario  Morales Almaguer ( Interino)
+1964
+    PRI
+  
+  
+    Miguel  Davila Guerrero
+    1965-1967
+    PRI
+  
+  
+    Profr.  Jonas Medina Juarez
+1968
+    PRI
+  
+  
+    Severino  Buendia Castañeda
+    1969-1970
+    PRI
+  
+  
+    Miguel  Cisneros Rodriguez
+    1971-1973
+    PRI
+  
+  
+    Felipe  Sanchez Sandate
+1974
+    PRI
+  
+  
+    Jesus  Davila Salazar
+    1974-1976
+    PRI
+  
+  
+    Roberto  Gonzalez Rangel
+    1977-1979
+    PRI
+  
+  
+    Roberto  Navarro Diaz
+    1980-1982
+    PRI
+  
+  
+    Profr.  Catarino Martinez Diaz
+    1983-1985
+    PRI
+  
+  
+    Profr.  Jose Antonio Garcia Leyva
+    1986-1988
+    PRI
+  
+  
+    Profr.  Catarino Martinez Diaz
+    1989-1992
+    PRI
+  
+  
+    Profr.  Margarito Contreras Garcia Rojas. 
+    (Interino)
+1992
+    PRI
+  
+  
+    Tomas  Reyes Macias
+    1992-1995
+    PRI
+  
+  
+    Profr.  Jose Antonio Garcia Leyva.
+    1995-1998
+    PRI
+  
+  
+    Profr.  Carlos Contreras Nieto
+    1998-2001
+    PRI
+  
+  
+    Profr.  Juan Antonio Gomez Lopez
+    2001-2004
+    PRI
+  
+  
+    Jose  Luis Garcia Hernandez
+    2004-2007 
+    Coalicion 
+  
+  
+    Alfonzo  Contreras Hernandez 
+    2007-2010
+    PRI
+  
+  
+    Gustavo Uribe Gongora 
+    2010-2013
+    PRIZAC
+  
+  
+    Herminio Brionea Olivia
+    2013-2016
+    PRI
+  
+  
+  
+
+32039.html
+Zacatecas-Rio Grande
+
+  
+  
+    
+    
+      Presidente Municipal
+    
+    
+    
+      Periodo de 
+      Gobierno
+       
+    
+    
+      Partido 
+      Politico
+       
+    
+    
+    Jose 
+    Ma. Gallardo I
+    
+    1944- 1946.
+    
+    
+    PRI
+    
+    
+    
+    Heron 
+    Molina Moya
+    
+    1947-1949
+    
+    
+    PRI
+    
+    
+    
+    Jesus 
+    Salas y Salas
+    
+    1950-1952
+    
+    
+    PRI
+    
+    
+    
+    Luis 
+    Carrillo Cazares
+    
+    1953-1955
+    
+    
+    PRI
+    
+    
+    
+    Ramon 
+    Badillo Hiriart
+    
+    1959-1961
+    
+    
+    PRI
+    
+    
+    
+    Jesus 
+    Ramirez Medina
+    
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    Macedonio  
+    Herrera Longoria
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    Miguel 
+    Rodriguez Molina.
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Miguel 
+    Salcedo Ramirez
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Raul 
+    Gallardo Jimenez.
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Adolfo 
+    Rodarte Vazquez
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Profr. 
+    Alejandro Hernandez Bautista
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Dr. 
+    Gumaro Elias Hernandez. Zuñiga.
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    Lic. 
+    Hugo Calderon Gallardo
+    
+    1986-1986
+    
+    
+    PRI
+    
+    
+    
+    Dr. 
+    Hector  Ugarte Villa
+    
+    1986-1988
+    
+    
+    PRI
+    
+    
+    
+    C.P. 
+    Cipriano Molina Ramirez
+    
+    1989-1992
+    
+    
+    PRI
+    
+    
+    
+    Lic. 
+    Wilfrido Hinojosa Herrera
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Ing. 
+    Rodolfo Chairez Martinez
+    
+    1995-1995
+    
+    
+    PRI
+    
+    
+    
+    Carlos 
+    Calderon Badillo
+    
+    1995-1998
+    
+    
+    PRI
+    
+    
+    
+    Dr. 
+    Gumaro Elias Hernandez
+    
+    1998-2001
+    
+    
+    PRI
+    
+    
+    
+    Lic. Manuel Peña Badillo
+    2001-2004
+    PRI
+    
+    
+    Felipe 
+    de Jesus Badillo Ramirez
+    
+    2004-2007
+    
+    
+    PRD
+    
+    
+    
+    Genaro Hernandez Olgin 
+    2007-2010
+    PRI
+    
+    
+    Mario Alberto Ramirez Rodriguez 
+    2010-2013
+    ZANUNE
+    
+    
+      Constantino acastañeda Muñoz
+      2013-2016
+      PRI
+    
+  
+
+32040.html
+Zacatecas - Sain Alto
+
+  
+  
+    
+    
+      Presidente Municipal
+    
+    
+      Periodo de 
+      Gobierno
+    
+    
+      Partido 
+      Politico
+    
+    
+    
+    Eduardo Menchaca
+    
+    1940 -1940  
+    (enero a Julio)
+    
+    
+     -
+    
+    
+    
+    Julio Lozano
+    
+    1940 - 1940  
+    (Julio a Diciembre)
+    
+    
+     -
+    
+    
+    
+    Ernesto Castrejon
+    
+    1940 - 1940  
+    (Enero a Diciembre)
+    
+    
+     -
+    
+    
+    
+    Tomas Lazade
+    
+    1942 - 1942  
+    (Enero a Diciembre)
+    
+    
+     -
+    
+    
+    
+    Jose Muro Saldivar
+    
+    1943 - 1946
+    
+    
+     -
+    
+    
+    
+    Rafael Muro Saldivar
+    
+    1947 - 1947 
+    (Enero a Enero 27)
+    
+    
+    - 
+    
+    
+    
+    Pablo Mendez Torres
+    
+    1947 - 1947 
+    (Enero a Mayo)
+    
+    
+     -
+    
+    
+    
+    C. Roberto Rayas Castañeda
+    
+    1947 - 1949
+    
+    
+      PRI
+    
+    
+    
+    C.Salvador Zamora Sanchez
+    
+    1950 - 1951
+    
+    
+      PRI
+    
+    
+    
+    C. Rosendo Rayas Muro
+    
+    1953 -  1955 
+    Y 1965 - 1967
+    
+    
+      PRI
+    
+    
+    
+    C. Francisco Magallanes Garcia
+    
+    1956 - 1959
+    
+    
+      PRI
+    
+    
+    
+    C. Leopoldo Santos Marentes
+    
+    1959 - 1961
+    
+    
+      PRI
+    
+    
+    
+    C. Alfonso Santos Marentes
+    
+    1968 - 1970 
+    y 1974 - 1976
+    
+    
+       PRI
+    
+    
+    
+    C. Sebastian Sanchez Rivera
+    
+    1970 - 1973
+    
+    
+      PRI
+    
+    
+    
+    C. Arturo Zamora Maldonado
+    
+    1973 - 1975
+    
+    
+      PRI
+    
+    
+    
+    C. Francisco Roman Canales
+    
+    1980 - 1982
+    
+    
+      PRI
+    
+    
+    
+    C. Roberto Rayas Alamos
+    
+    1983 - 1985
+    
+    
+      PRI
+    
+    
+    
+    C. Francisco Javier Rayas Casas
+    
+    1986 - 1989
+    
+    
+      PRI
+    
+    
+    
+    Ing. Ismael Garcia Conde
+    
+    1989 - 1992
+    
+    
+      PRI
+    
+    
+    
+    Ing. Juan Espinoza Barron
+    
+    1992 - 1995
+    
+    
+      PRI
+    
+    
+    
+    Dr. Gabriel Ruiz Cordero
+    
+    1995 - 1998
+    
+    
+      PRI
+    
+    
+    
+    Ing. Alejandro Barron Castruita
+    
+    1998 - 2001
+    
+    
+      PRI
+    
+    
+    
+    Profr. Jose Ramirez Roman
+    2001 - 2004
+    PRI
+    
+    
+    Fausto Goytia Avila
+    
+    2004-2007
+    
+    
+    PRI 
+    
+    
+    
+    Jose Angel Zamora Flores 
+    2007-2010
+    PRD
+    
+    
+    Adolfo Trejo Partida 
+    2010-2013
+    PRI
+    
+    
+      Martin Arturo Zamora Ramirez
+      2013-2016
+      PRI
+    
+  
+
+32041.html
+Zacatecas - El Salvador
+
+  
+  
+    
+    
+      Presidente Municipal
+    
+    
+      Periodo de 
+      Gobierno 
+      
+    
+      Partido
+      Politico 
+      
+    
+    
+    Juan 
+    Jose Rodriguez Cardona
+    
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    Aaron 
+    Alvarado Velasquez
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    Ruben 
+    Alvarado Martinez
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Antonio 
+    de Leon Gutierrez
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Margarito 
+    Perez Macias
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Guadalupe 
+    Rodriguez Cruz
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Ramon 
+    Sanchez Pacheco
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Luciano 
+    Macias Ramos
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    Rosalio 
+    Reynoso Alonso
+    
+    1986-1988
+    
+    
+    PRI
+    
+    
+    
+    Pablo 
+    Ochoa Lucio
+    
+    1989-1992
+    
+    
+    PRI
+    
+    
+    
+    Ismael 
+    Maldonado Valerio
+    
+    1993-1995
+    
+    
+    PRI
+    
+    
+    
+    Jose 
+    Luis Rodriguez Hernandez
+    
+    1995-1998
+    
+    
+    PRI
+    
+    
+    
+    Horacio 
+    Alvarado Perez
+    
+    1998-2001
+    
+    
+    PRI
+    
+    
+    
+    Natalia Gomez Ochoa
+    2001-2004
+    PRI
+    
+    
+    Armando Alvarado Perez
+    
+    2004-2007
+    
+    
+    PRD
+    
+    
+    
+    Plutarco Zavala Torres 
+    2007-2010
+    PRD
+    
+    
+    Javier Escobedo Avila 
+    2010-2013
+    ZANUNE
+    
+    
+      Miguel Coronado Games
+      2013-2016
+      PVEM
+    
+  
+
+32042.html
+Zacatecas - Sombrerete
+
+  
+    
+    
+    
+    Presidente Municipal
+    
+    
+    Periodo de 
+    Gobierno
+    
+    
+    Partido 
+    Politico
+    
+    
+    
+    Emeterio Talavera
+    
+1940
+    
+    
+    PRI
+    
+    
+    
+    Pablo Mendez Torres
+    
+1941
+    
+    
+    PRI
+    
+    
+    
+    Modesto Balderas
+    
+    1942-1943
+    
+    
+    PRI
+    
+    
+    
+    Gregorio Martinez
+    
+    1944-1946
+    
+    
+    PRI
+    
+    
+    
+    Norberto Mena Cervantes
+    
+1947
+    
+    
+    PRI
+    
+    
+    
+    Florentino Contreras
+    
+    1948-1949
+    
+    
+    PRI
+    
+    
+    
+    Alberto Saldivar
+    
+    1950-1951
+    
+    
+    PRI
+    
+    
+    
+    Marciano Jacquez Orozco
+    
+    1952-1953
+    
+    
+    PRI
+    
+    
+    
+    Jose Muro Saldivar
+    
+    1953-1955
+    
+    
+    PRI
+    
+    
+    
+    Rene Maximiliano Lazalde
+    
+1956
+    
+    
+    PRI
+    
+    
+    
+    Nicandro Andrade
+    
+    1957-1958
+    
+    
+    PRI
+    
+    
+    
+    Victoriano Arredondo
+    
+1959
+    
+    
+    PRI
+    
+    
+    
+    Pompeyo Saldivar Soria
+    
+    1959-1961
+    
+    
+    PRI
+    
+    
+    
+    Gerardo Garay Contreras
+    
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    Natividad Morales
+    
+1964
+    
+    
+    PRI
+    
+    
+    
+    Francisco Olvera Peralta
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    Pascual Mier
+    
+1965
+    
+    
+    PRI
+    
+    
+    
+    Alfonso Perez Peña
+    
+1965
+    
+    
+    PRI
+    
+    
+    
+    Fernando Luevanos Sanchez
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Gabino Diaz Diaz
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Jorge Santos Marentes
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Alberto Marquez Olguin
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Jose Marco Antonio Olvera Acevedo
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    Ricardo Rios Rojero
+    
+    1986-1988
+    
+    
+    PRI
+    
+    
+    
+    Leopoldo Enrique Santos Perez
+    
+    1989-1992
+    
+    
+    PRI
+    
+    
+    
+    Jesus Gomez Monreal
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Sergio Gabriel Olvera Acevedo
+    
+    1995-1998
+    
+    
+    PAN
+    
+    
+    
+    Ismael Murillo Murillo
+    1998-2001
+    PRI
+    
+    
+    Manuel Esparza Perez
+    
+    2001-2004
+    
+    
+    PAN
+    
+    
+    
+    Juan Quiroz Garcia
+    
+    2004-2007
+    
+    
+    PRD
+    
+    
+    
+    Vicente Marquez Sanchez 
+    2007-2010
+    PRI
+    
+    
+    Daniel Solis Ibarra 
+    2010-2013
+    PRIZAC
+    
+    
+      Juan Angel Castañeda Lizardo
+      2013-2016
+      PAN-PRD
+    
+   
+  
+
+32043.html
+Zacatecas - Susticacan
+
+  
+  
+    
+    
+      Presidente Municipal
+    
+    
+      Periodo de 
+      Gobierno
+    
+    
+      Partido 
+      Politico
+    
+    
+    
+    Sotero 
+    Reveles y Cleofas de la Rosa
+    
+1940
+    
+    
+    PARM
+    
+    
+    
+    Eligio 
+    de los Santos
+    
+1941
+    
+    
+    PRI
+    
+    
+    
+    J. 
+    Guadalupe Vazquez y Leopoldo Diaz
+    
+1942
+    
+    
+    PRI
+    
+    
+    
+    Diego 
+    Marcial
+    
+1943
+    
+    
+    PRI
+    
+    
+    
+    Juan 
+"    Diaz, Luis Gonzalez y Jose Felix Gonzalez"
+    
+1944
+    
+    
+    PRI
+    
+    
+    
+    Juan 
+    Diaz
+    
+    1945-1946
+    
+    
+    PRI
+    
+    
+    
+    Juan 
+    de la Rosa
+    
+1947
+    
+    
+    PRI
+    
+    
+    
+    Canuto 
+"    Perez, Jose Pinedo"
+    
+1948
+    
+    
+    PRI
+    
+    
+    
+    Antonio 
+    de la Rosa
+    
+1949
+    
+    
+    PRI
+    
+    
+    
+    Manuel 
+    Marin Reveles
+    
+    1950-1952 
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    J. 
+    Jesus Hernandez Avila 
+    
+    1953-1955
+    
+    
+    PRI
+    
+    
+    
+    Francisco 
+    Vazquez
+    
+1956
+    
+    
+    PRI
+    
+    
+    
+    Pedro 
+    Hernandez
+    
+    1957-1958
+    
+    
+    PRI
+    
+    
+    
+    Jose 
+    Nipotito Vazquez Rivera
+    
+1959
+    
+    
+    PRI
+    
+    
+    
+    Antonio 
+    Marin Sanabrais
+    
+1959
+    
+    
+    PRI
+    
+    
+    
+    Aurelia 
+    Vazquez
+    
+    1959-1961
+    
+    
+    PRI
+    
+    
+    
+    J. 
+    Belen Loera
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    Jose 
+    de Santiago Rodriguez
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Carlos 
+    Olague Rodriguez
+    
+    1921-1970
+    
+    
+    PRI
+    
+    
+    
+    Ruben 
+    Marin Juarez
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Roberto 
+    Vazquez Rivera
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Jose 
+    Manuel de Santiago Diaz
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Leonardo 
+    Rodriguez Padilla
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    J. 
+    Refugio Nava Miranda
+    
+    1989-1992
+    
+    
+    PRI
+    
+    
+    
+    Jose 
+    Carmona Lozano
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Gustavo 
+    Javier Vazquez Diaz
+    
+    1995-1998
+    
+    
+    PRI
+    
+    
+    
+    Victoriano Diaz Felix
+    1998-2001
+    PRI
+    
+    
+    Roberto 
+    Marin Rosales
+    
+    2001-2004
+    
+    
+    PRI
+    
+    
+    
+    Gustavo 
+    de Santiago Sanchez
+    
+    2004-2007
+    
+    
+    PT
+    
+    
+    
+    Jose de Santiago Diaz 
+    2008-2010
+    PRI
+    
+    
+    Matias Gutierrez Guerrero 
+    2010-2013
+    PRI
+    
+    
+      Jose Gustavo Vazquez Carrillo
+      2013-2016
+      PRI
+    
+  
+
+32044.html
+Zacatecas - Tabasco
+
+  
+  
+    
+    
+      Presidente Municipal
+    
+    
+      Periodo de 
+      Gobierno
+    
+    
+      Partido 
+      Politico
+    
+    
+    
+    Joaquin 
+    Martinez
+    
+1944
+    
+    
+    PRI
+    
+    
+    
+    Salvador 
+    Sanchez
+    
+1945
+    
+    
+    PRI
+    
+    
+    
+    Sebastian 
+    R. Uribe
+    
+1946
+    
+    
+    PRI
+    
+    
+    
+    Ignacio 
+    Lopez de Nava
+    
+    1947-1948
+    
+    
+    PRI
+    
+    
+    
+    Antonio 
+    Avila
+    
+1950
+    
+    
+    PRI
+    
+    
+    
+    Anastasio 
+    Rodriguez 
+    
+    1951-1952
+    
+    
+    PRI
+    
+    
+    
+    Manuel 
+    Avila
+    
+    1953-1955
+    
+    
+    PRI
+    
+    
+    
+    Heriberto 
+    Martinez Lara
+    
+    1956-1958
+    
+    
+    PRI
+    
+    
+    
+    Arnulfo 
+    Ruiz Cobarrubias 
+    
+    1959-1961
+    
+    
+    PRI
+    
+    
+    
+    Baudelio 
+    Sandoval
+    
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    Jesus 
+    Verdoza Lopez
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    Jose 
+    Saldaña Avila
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Jose 
+    Sandoval Martinez
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Javier 
+    Camacho Avila
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Jesus 
+    Rodriguez Garcia
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Miguel 
+    Escobedo Arroyo
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Jaime 
+    Gladin Ortega
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    Jesus 
+    Rodriguez Garcia
+    
+    1986-1988
+    
+    
+    PRI
+    
+    
+    
+    Elias 
+    Barajas Romo
+    
+    1988-1992
+    
+    
+    PRI
+    
+    
+    
+    Prof. 
+    Salvador Santana Hernandez
+    
+    11 meses
+    
+    
+    PRI
+    
+    
+    
+    Prof. 
+    Jaime Limon Perez
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Juan 
+    Carlos Lozano Martinez
+    
+    4 meses
+    
+    
+    PRI
+    
+    
+    
+    Edmundo 
+    Ruvira Saldaña
+    
+    1995-1998
+    
+    
+    PRI
+    
+    
+    
+    Federico 
+    Bernal Frausto
+    
+    1998-2001
+    
+    
+    PAN
+    
+    
+    
+    Juan Carlos Lozano Martinez
+    2001-2004
+    PRI
+    
+    
+    Luis 
+    Humberto Medina Jimenez
+    
+    2004-2007
+    
+    
+    PRD
+    
+    
+    
+    Sergio Arturo Camacho Lara 
+    2007-2010
+    PRI
+    
+    
+    Ernesto Silva Esqueda 
+    2010-2013
+    PAN
+    
+    
+      Tereso Guerrero Martinez
+      2013-2016
+      PAN-PRD
+    
+  
+
+32045.html
+Zacatecas - Tepechitlan. 
+
+  
+  
+    
+    
+      
+      Presidente Municipal
+       
+    
+      Periodo de 
+      Gobierno
+    
+    
+      Partido 
+      Politico
+    
+    
+    
+    Juan 
+    Antonio Herrera 
+    
+1956
+    
+    
+    PRI
+    
+    
+    
+    Alberto 
+    Davila Pasillas 
+    
+1959
+    
+    
+    PRI
+    
+    
+    
+    Refugio 
+    Davila Ayala 
+    
+1959
+    
+    
+    PRI
+    
+    
+    
+    Enrique 
+    Berumen Castañeda
+    
+1965
+    
+    
+    PRI
+    
+    
+    
+    J. 
+    Refugio Ayala Espinosa
+    
+1968
+    
+    
+    PRI
+    
+    
+    
+    Fidencio 
+    Torres Ayala 
+    
+1971
+    
+    
+    PRI
+    
+    
+    
+    Profr. 
+    Salome de Leon Salcedo 
+    
+1974
+    
+    
+    PRI
+    
+    
+    
+    Adrian 
+    Hernandez Berumen 
+    
+1977
+    
+    
+    PRI
+    
+    
+    
+    Profr. 
+    J. Dolores Correa Salcedo 
+    
+1980
+    
+    
+    PRI
+    
+    
+    
+    Profr. 
+    Antonio M. Luna Ayala 
+    
+1983
+    
+    
+    PRI
+    
+    
+    
+    Profr. 
+    Salome de Leon Salcedo (Interino)
+    
+1984
+    
+    
+    PRI
+    
+    
+    
+    Profr. 
+    Manuel Hernandez Berumen 
+    
+1989
+    
+    
+    PRI
+    
+    
+    
+    Profr. 
+    J. Dolores Correa Salcedo
+    
+1986
+    
+    
+    PRI
+    
+    
+    
+    J. 
+    Manuel Luna Renteria 
+    
+1992
+    
+    
+    PRI
+    
+    
+    
+    Ing. 
+    Leodegario Varela Gonzalez 
+    
+1995
+    
+    
+    PRI
+    
+    
+    
+    Raul 
+    Salcedo Miramontes 
+    
+1998
+    
+    
+    PRI
+    
+    
+    
+    Tec. Heriberto Pallares Avila
+2001
+    PRI
+    
+    
+    Moctezuma Salcedo Madera
+    2004-2007
+    PRI
+    
+    
+    Mariano Salas Gonzalez 
+    2007-2010
+    PRD
+    
+    
+    Manuel Castro Romero
+    2010-2013
+    PRI
+    
+    
+      Ramon Vazquez Estrada
+      2013-2016
+      PRI
+    
+  
+
+32046.html
+Zacatecas - Tepetongo
+
+  
+  
+    
+    
+      Presidente Municipal
+    
+    
+      Periodo de 
+      Gobierno
+    
+    
+      Partido 
+      Politico
+    
+    
+    
+    Marcelo 
+    Lugo Miranda
+    
+    1947-1949
+    
+    
+    PRI
+    
+    
+    
+    Jose 
+    Reveles Rodarte
+    
+    1950-1952
+    
+    
+    PRI
+    
+    
+    
+    Serafin 
+    Carlos 
+    
+    1953-1955
+    
+    
+    PRI
+    
+    
+    
+    Jose 
+    Reveles Rodarte
+    
+    1956-1958
+    
+    
+    PRI
+    
+    
+    
+    Pedro 
+    Contreras Ibarra
+    
+    1959-1961
+    
+    
+    PRI
+    
+    
+    
+    Miguel 
+    Garcia Escanuela
+    
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    Jose 
+    Manuel Sandoval Gurrola
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    Jesus 
+    de la Torre Oria
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Gabino 
+    Lugo Gutierrez
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Jose 
+    Dones Almanza
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Raul 
+    Flores Muro
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Jose 
+    Cupertino Gonzalez Muro
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Jose 
+    Avila Gonzalez 
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    Florencio 
+    Carlos Diaz
+    
+    1986-1988
+    
+    
+    PRI
+    
+    
+    
+    Jose 
+    Cupertino Gonzalez Muro
+    
+    1989-1992
+    
+    
+    PRI
+    
+    
+    
+    Ramon 
+    Bañuelos Graciano
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Jose 
+    Dones Almanza
+    
+    1995-1998
+    
+    
+    PRI
+    
+    
+    
+    Armando 
+    Chavez Escobedo
+    
+    1998-2001
+    
+    
+    PRI
+    
+    
+    
+    Jaime Avila Salas
+    2001-2004
+    PRI
+    
+    
+    Armando 
+    Chavez Escobedo
+    
+    2004-2007
+    
+    
+    PRI
+    
+    
+    
+    Cuauhtemoc de la Torre Flores 
+    2007-2010
+    PRI
+    
+    
+    Miguel Diaz Horta  
+    2010-2013
+    PRI
+    
+    
+      Filimon Carlos Robles
+      2013-2016
+      PRI
+    
+  
+
+32047.html
+Zacatecas - Teul de Gonzalez Ortega
+
+  
+  
+
+    
+    
+      Presidente 
+      Municipal
+    
+    
+      Periodo de 
+      Gobierno
+    
+    
+      Partido 
+      Politico
+    
+    
+    
+    David 
+    Cortes
+    
+    1950-1951
+    
+    
+    PRI
+    
+    
+    
+    Alfonso 
+    Alatorre
+    
+    1951-1953
+    
+    
+    PRI
+    
+    
+    
+    Antonio 
+    Quintero 
+    
+    1953-1954
+    
+    
+    PRI
+    
+    
+    
+    J 
+    Guadalupe Carrillo
+    
+    1954-1955
+    
+    
+    PRI
+    
+    
+    
+    Amado 
+    Castañeda
+    
+    1955-1956
+    
+    
+    PRI
+    
+    
+    
+    Lorenzo 
+    Cervantes
+    
+    1956-1958
+    
+    
+    PRI
+    
+    
+    
+    Nicandro 
+    Rivas
+    
+    1958-1959
+    
+    
+    PRI
+    
+    
+    
+    Antonio 
+    Castañeda
+    
+    1959-1960
+    
+    
+    PRI
+    
+    
+    
+    Manuel 
+    Correa Alatorre
+    
+    1960-1961
+    
+    
+    PRI
+    
+    
+    
+    Otilio 
+    Martinez Chavez
+    
+    1961-1962
+    
+    
+    PRI
+    
+    
+    
+    Adalberto 
+    Larios Lamas
+    
+    1962-1963
+    
+    
+    PRI
+    
+    
+    
+    Fernando 
+    Lopez  Ramirez
+    
+    1963-1964
+    
+    
+    PRI
+    
+    
+    
+    Leopoldo 
+    Castro
+    
+    1965-1968
+    
+    
+    PRI
+    
+    
+    
+    Raul 
+    Espinosa Garcia
+    
+    1968-1971
+    
+    
+    PRI
+    
+    
+    
+    Roberto 
+    Gonzalez Godoy
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Ramiro 
+    Muro Gonzalez
+    
+    1974-1977
+    
+    
+    PRI
+    
+    
+    
+    Efren 
+    Gody Luna
+    
+    1974-1977
+    
+    
+    PRI
+    
+    
+    
+    Profa. 
+    Ma. Refugio Rios Magallanes
+    
+    1977-1980
+    
+    
+    PRI
+    
+    
+    
+    Daniel 
+    Rivas Mendez
+    
+    1980-1983
+    
+    
+    PRI
+    
+    
+    
+    Juan 
+    Manuel Cervantes Rivas
+    
+    1983-1986
+    
+    
+    PRI
+    
+    
+    
+    Rigoberto 
+    Rivas Luna
+    
+    1986 -1989
+    
+    
+    PRI
+    
+    
+    
+    Pablo 
+    Rivas Cornejo
+    
+    1989 -1992
+    
+    
+    PRI
+    
+    
+    
+    Luis 
+    Gonzalez Nuñez
+    
+    1992 -1995
+    
+    
+    PRI
+    
+    
+    
+    Rodolfo 
+    Gonzalez
+    
+    1995 -1998
+    
+    
+    PRI
+    
+    
+    
+    Felipe 
+    Ramirez Chavez
+    
+    1998 -2001
+    
+    
+    PRI
+    
+    
+    
+    Francisco Escobedo Villegas
+    2001-2004
+    PRI
+    
+    
+    Aurelio 
+    Lamas Luna
+    
+    2004-2007
+    
+    
+    PRD
+    
+    
+    
+    Enrique Larios Arellano 
+    2007-2010
+    PRD
+    
+    
+    Marco Aurelio Rivas Flores 
+    2010-2013
+    PRI
+    
+    
+      Jose Humberto Muro Cortes
+      2013-2016
+      PAN-PRD
+    
+  
+
+32048.html
+Zacatecas - Tlaltenango de Sanchez Roman
+
+  
+   
+    
+    
+      Presidente Municipal
+    
+    
+      Periodo de 
+      Gobierno
+    
+    
+      Partido 
+      Politico
+    
+    
+    
+    Benigno 
+    Llamas
+    
+1937
+    
+    
+    PRI
+    
+    
+    
+    Jesus 
+    Velasquez
+    
+1940
+    
+    
+    PRI
+    
+    
+    
+    Fernando 
+    Gomina
+    
+1940
+    
+    
+    PRI
+    
+    
+    
+    Jesus 
+    Velasquez
+    
+1940
+    
+    
+    PRI
+    
+    
+    
+    Alejandro 
+    Delgado
+    
+1941
+    
+    
+    PRI
+    
+    
+    
+    Jesus 
+    Velasquez
+    
+1941
+    
+    
+    PRI
+    
+    
+    
+    Arturo 
+    Maldonado
+    
+1942
+    
+    
+    PRI
+    
+    
+    
+    Benigno 
+    Llamas
+    
+1943
+    
+    
+    PRI
+    
+    
+    
+    Jesus 
+    Sandoval
+    
+    1944-1945
+    
+    
+    PRI
+    
+    
+    
+    Alfredo 
+    V. Vazquez
+    
+1945
+    
+    
+    PRI
+    
+    
+    
+    J. 
+    Jesus de Leon L.
+    
+1946
+    
+    
+    PRI
+    
+    
+    
+    J. 
+    Ines Ortega
+    
+1947
+    
+    
+    PRI
+    
+    
+    
+    Antonio 
+    Salinas
+    
+1947
+    
+    
+    PRI
+    
+    
+    
+    Bernardo 
+    del Real
+    
+1947
+    
+    
+    PRI
+    
+    
+    
+    Trinidad 
+    Salinas
+    
+1950
+    
+    
+    PRI
+    
+    
+    
+    Jose 
+    Luis Maldonado
+    
+    1950-1952
+    
+    
+    PRI
+    
+    
+    
+    J. 
+    Jesus de Leon
+    
+    1953-1955
+    
+    
+    PRI
+    
+    
+    
+    Antonio 
+    Salinas
+    
+    1956-1958
+    
+    
+    PRI
+    
+    
+    
+    Bernardo 
+    del Real
+    
+    1959-1961
+    
+    
+    PRI
+    
+    
+    
+    J. 
+    Jesus de Leon
+    
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    Jesus 
+    Montero Alcala
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    Salvador 
+    Correa
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    J. 
+    Jesus de Leon l.
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Lic. 
+    J. Ines Carrillo Castro
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Victor  
+    M. Salinas
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Alberto 
+    Romero V.
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Raul 
+    Garcia (interino)
+    
+1982
+    
+    
+    PRI
+    
+    
+    
+    Romeo 
+    Perez Torres
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    Lic. 
+    Pedro de Leon Sanchez
+    
+    1985-1986
+    
+    
+    PRI
+    
+    
+    
+    Jaime 
+    Haro Rodriguez
+    
+    1986-1988
+    
+    
+    PRI
+    
+    
+    
+    Ing. 
+    Miguel Angel Casas M.
+    
+    1989-1992
+    
+    
+    PRI
+    
+    
+    
+    Prof.. 
+    Miguel Angel Gonzalez
+    
+1922
+    
+    
+    PRI
+    
+    
+    
+    Salvador 
+    Acuña Salazar
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Dr. 
+    Francisco Mojarro Davila
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Dr. 
+    Jose Pinto Robles
+    
+    1998-2001
+    
+    
+    PRI
+    
+    
+    
+    Dr. Miguel Angel Diaz Montaño
+    2001-2004
+    PRI
+    
+    
+    Dr. 
+    Jose Pinto Robles
+    
+    2004-2007
+    
+    
+    PRD
+    
+    
+    
+    Mauricio Martin del Real del Rio 
+    2007-2010
+    PAN
+    
+    
+    Marco Antonio Lopez Martinez 
+    2010-2013
+    PAN
+    
+    
+      Mauricio Martin del Real del Rio
+      2013-2016
+      PRI
+    
+  
+
+32049.html
+Zacatecas - Valparaiso
+
+  
+  
+    
+    
+      Presidente Municipal
+    
+    
+      Periodo de 
+      Gobierno
+    
+    
+      Partido 
+      Politico
+    
+    
+    
+    Crescencio Herrera Hernandez
+    
+    1938-1940
+    
+    
+    PRI
+    
+    
+    
+    Remigio Avila
+    
+1940
+    
+    
+    PRI
+    
+    
+    
+    Maximino Hurtado
+    
+1940
+    
+    
+    PRI
+    
+    
+    
+    J. Ascension Haro
+    
+1941
+    
+    
+    PRI
+    
+    
+    
+    Antonio Herrera
+    
+1941
+    
+    
+    PRI
+    
+    
+    
+    J. Jesus Guerrero
+    
+    1942-1943
+    
+    
+    PRI
+    
+    
+    
+    J. Felix Moreno
+    
+    1944-1945
+    
+    
+    PRI
+    
+    
+    
+    Exiquio de la O.
+    
+    1946-1947
+    
+    
+    PRI
+    
+    
+    
+    Ramon Mesa Rueda
+    
+    1948-1949
+    
+    
+    PRI
+    
+    
+    
+    Crescencio Herrera Hernandez
+    
+    1950-1951
+    
+    
+    PRI
+    
+    
+    
+    Francisco Argomaniz
+    
+1952
+    
+    
+    PRI
+    
+    
+    
+    Fidencio Ramirez Burciaga
+    
+    1953-1955
+    
+    
+    PRI
+    
+    
+    
+    Antonio Bañuelos Rivas
+    
+    1956-1958
+    
+    
+    PRI
+    
+    
+    
+    Epigmenio Talamantes Hernandez
+    
+    1959-1961
+    
+    
+    PRI
+    
+    
+    
+    Ing. Manel Hernandez Landa
+    
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    Roberto Hernandez Escobedo
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    Eliseo Bañuelos Delgado
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    Dr. Pedro Ruiz Chavez
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Antonio Bañuelos Rivas
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Felipe Ortiz
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Roberto Herrera
+    
+    1977-1980
+    
+    
+    PRI
+    
+    
+    
+    Moises Gallegos Cosio
+    
+    1970-1980
+    
+    
+    PRI
+    
+    
+    
+    Mauro Talamantes Caldera
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Javier Flores Reyes
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Jesus Lopez Chaires
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    Secundino Talamantes Caldera
+    
+    1986-1988
+    
+    
+    PRI
+    
+    
+    
+    Javier Flores Reyes
+    
+    1988-1991
+    
+    
+    PRI
+    
+    
+    
+    Lic. Pedro Antonio Argomaniz R.
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Lic. Ubaldo Montoya Lopez
+    
+    1995-1997
+    
+    
+    PRI
+    
+    
+    
+    Profr. Manuel Alvarez Rojo
+    
+    1998-2001
+    
+    
+    PRI
+    
+    
+    
+    Lic. Ubaldo Montoya Lopez
+    2001-2004
+    PRI
+    
+    
+    Alberto Ruiz Flores Delgadillo
+    
+    2004-2007
+    
+    
+    PRI
+    
+    
+    
+    Laura Isela Ruiz Gonzalez 
+    2007-2010
+    PRD
+    
+    
+    Jorge Torres Mercado 
+    2010-2013
+    PRI
+    
+    
+      Eleuterio Ramos Leal
+      2013-2016
+      PAN-PRD
+    
+  
+
+32050.html
+Zacatecas - Vetagrande
+
+  
+  
+    
+    
+      Presidente Municipal
+    
+    
+      Periodo de 
+      Gobierno
+    
+    
+      Partido 
+      Politico
+    
+    
+    
+    Jose 
+    Torres Basurto
+    
+    1947-1950
+    
+    
+    PRI
+    
+    
+    
+    Sabino 
+    del Rio B.
+    
+    1950-1953
+    
+    
+    PRI
+    
+    
+    
+    J. 
+    Cleofas Alvarado B.
+    
+    1953-1956
+    
+    
+    PRI
+    
+    
+    
+    Manuel 
+    Lugo Escobar
+    
+    1956-1959
+    
+    
+    PRI
+    
+    
+    
+    Jose 
+    Torres Basurto 
+    
+    1959-1962
+    
+    
+    PRI
+    
+    
+    
+    Mauro 
+    Hernandez Alvarado
+    
+    1962-1965
+    
+    
+    PRI
+    
+    
+    
+    Manuel 
+    Lopez Luna
+    
+    1965-1968
+    
+    
+    PRI
+    
+    
+    
+    Ramiro 
+    Gutierrez Zamarripa
+    
+    1968-1971
+    
+    
+    PRI
+    
+    
+    
+    Tomas 
+    Esparza Rodriguez
+    
+    1971-1974
+    
+    
+    PRI
+    
+    
+    
+    Francisco 
+    Gutierrez Castorena
+    
+    1974-1977
+    
+    
+    PRI
+    
+    
+    
+    Francisco 
+    Alavarado Gutierrez
+    
+    1977-1980
+    
+    
+    PRI
+    
+    
+    
+    Pablo 
+    Sanchez Rodriguez
+    
+    1980-1983
+    
+    
+    PRI
+    
+    
+    
+    Vicente 
+    Lopez Lopez
+    
+    1983-1986
+    
+    
+    PRI
+    
+    
+    
+    Refugio 
+    Quiroz Vazquez
+    
+    1986-1990
+    
+    
+    PRI
+    
+    
+    
+    David 
+    Gutierrez Sanchez
+    
+    1990-1992
+    
+    
+    PRI
+    
+    
+    
+    Adan 
+    Gonzalez Acosta
+    
+    1992-1995 
+    
+    
+    P.T.
+    
+    
+    
+    Federico 
+    Martinez Ramos
+    
+    1995-1998
+    
+    
+    PRI
+    
+    
+    
+    Teodoro 
+    Campos Mireles
+    
+    1998-2001 
+    
+    
+    P.T.
+    
+    
+    
+    Rafael Gutierrez Martinez
+    2001-2004
+    P.T.
+    
+    
+    Jose 
+    de Jesus Gonzalez Palacios
+    
+    2004-2007
+    
+    
+    PRD
+    
+    
+    
+    Manuel de Jesus Gonzalez Acosta 
+    2007-2010
+    PT
+    
+    
+    Roque Puente Reyes 
+    2010-2013
+    PAN
+    
+    
+      Valente Cabrera Hernandez
+      2013-2016
+      PRI
+    
+  
+
+32051.html
+Zacatecas - Villa de Cos
+
+  
+  
+  
+ 
+  
+  Cronologia de los Presidentes Municipales 
+  
+ 
+ 
+  
+    
+    Presidente Municipal
+    
+    
+    Periodo de Gobierno
+    
+  
+  
+    Juan  Palomo Cos
+    1850 - 1857
+  
+  
+    Prudencio  Aguilar
+    1857 - 1861
+  
+  
+    Juan  Amador (Dejo la Presidencia por no estar de acuerdo con Maximiliano)
+    1861 - 1868
+  
+  
+    Mario  Sosa
+    1868 - 1869
+  
+  
+    J. Cruz  de Chavez
+    1869 - 1870
+  
+  
+    Marco  Asuncion Perez y L. de la Cruz
+    1870 - 1871
+  
+  
+    Jesus Delgadillo
+    1871 - 1872
+  
+  
+    Andres  Lopez del Castillo y Manuel Gallegos
+    1872 - 1873
+  
+  
+    Francisco  Ortiz
+    1873 - 1874
+  
+  
+    Ceferino  Ruiz de Chavez
+    1874 - 1875
+  
+  
+    Jose de  los Rios
+    1875 - 1876
+  
+  
+    Gabino  M. Martinez
+    1876 - 1878
+  
+  
+    Elias  Amador
+    1878 - 1880
+  
+  
+    Elias  Amador y Ceferino Ruiz de Chavez
+    1880 - 1882
+  
+  
+    Pedro  Sandoval y E. Mireles
+    1882 - 1883
+  
+  
+    Ceferino  Ruiz de Chavez
+    1883 - 1884
+  
+  
+    Juan  Jauregui
+    1884 - 1885
+  
+  
+    C.  Arellano
+    1885 - 1886
+  
+  
+    Sostenes  Rodriguez
+    1886 - 1887
+  
+  
+    Casimiro  Luevano
+    1887 - 1890
+  
+  
+    Eduardo  Arellano
+    1890 - 1891
+  
+  
+    Antonio  Garcia de la Cadena
+    1891 - 1892
+  
+  
+    Dionisio  Alcala
+    1892 - 1895
+  
+  
+    Alfredo  Ysaussi
+    1895 - 1898
+  
+  
+    Justino  Carlos
+    1898 - 1899
+  
+  
+    Pedro  Canales
+    1899 - 1905
+  
+  
+    Catarino  Flores
+    1905 - 1907
+  
+  
+    J. Diaz
+    1907 - 1912
+  
+  
+    Victorio  Chavez
+    1912 - 1912
+  
+  
+    Eliseo  Diaz
+    1912 - 1913
+  
+  
+    Pedro  Canales
+    1913 - 1915
+  
+  
+    Ezequiel  Osuna
+    1915 - 1917
+  
+  
+    Eliseo  Diaz Aguilar
+    1917 - 1920
+  
+  
+    Julian  de la Cruz.
+    1920 - 1921
+  
+  
+    Gabriel  Martinez
+    1921 - 1922
+  
+  
+    Eliseo  Diaz Aguilar
+    1922 - 1923
+  
+  
+    Simon  Moran
+    1923 - 1924
+  
+  
+    Pascual  Martinez
+    1924 - 1925
+  
+  
+    Benigno  Garcia Voquera
+    1925 - 1928
+  
+  
+    Simon  Moran
+    1928 - 1931
+  
+  
+    Juan  Aguilera
+    1931 - 1934
+  
+  
+    Manuel  Juarez
+    1937 - 1940
+  
+  
+    Ines  Balderas
+    1940 - 1943
+  
+  
+    Jose  Rodriguez
+    1943 - 1946
+  
+  
+    Salvador  de la Rosa
+    1946 - 1949
+  
+  
+    Juan  Aguilera (Segundo Periodo)
+    1949 - 1952
+  
+  
+    Juan  Muñoz
+    1952 - 1955
+  
+  
+    Gilberto  Lopez
+    1955 - 1958
+  
+  
+    Arnulfo  Chairez
+    1958 - 1961
+  
+  
+    Celerino  Moran
+    1961 - 1964
+  
+  
+    Manuel  Pinales
+    1964 - 1967
+  
+  
+    Heriberto  Perez Escareño
+    1967 - 1970
+  
+  
+    Guadalupe  Alvarez
+    1970 - 1973
+  
+  
+    Jose  Ma. Cande las Villalba
+    1973 - 1976
+  
+  
+    Jesus  Gaytan Rivas
+    1976 - 1979
+  
+  
+    Juan  Gonzalez
+    1979 - 1982
+  
+  
+    Geludiel  Aguilera (Interino)
+    1983 - 1985
+  
+  
+    Flavio  Rodriguez Tapia
+    1985 - 1988
+  
+  
+    J.  Jesus Vega Esparza
+    1988 - 1992
+  
+  
+    Camerino  Solis Hernandez
+    1992 - 1995
+  
+  
+    Joel  Alonso Perez (Interino)
+    1995 - 1995
+  
+  
+    Jesus  Manuel Rios Mendoza
+    1995 - 1998
+  
+  
+    J. Jesus  Uribe Rodriguez
+    1999 - 2001
+  
+  
+    Arturo  Alvarado     (Interino)
+    2001 - 2001
+  
+  
+    Francisco  Javier Lopez Garcia 
+    2001 - 2004 
+  
+  
+    Jose  Maria Gonzalez Nava
+    2004-2007 
+  
+  
+    Juan  Carlos Regis Adame 
+    2007-2010
+  
+  
+    J.Jesus Ruiz Cortes 
+    2010-2013
+  
+  
+    Francisco Antonio Sifuentes Nava
+    2013-2016
+  
+   
+
+32052.html
+Zacatecas - Villa Garcia
+
+  
+   
+    
+    
+      Presidente municipal
+    
+    
+      Periodo de 
+      Gobierno
+    
+    
+      Partido 
+      Politico
+    
+    
+    
+    Pedro 
+    Hurtado Moran
+    
+    1940-1941
+    
+    
+    PRM
+    
+    
+    
+    Carlos 
+    Rodriguez Vargas
+    
+    1942-1943
+    
+    
+    PRM
+    
+    
+    
+    Ignacio 
+    Santos Macias
+    
+    1944-1946
+    
+    
+    PRM
+    
+    
+    
+    Jose 
+    Guerrero Campos 
+    
+    1947-1949
+    
+    
+    PRI
+    
+    
+    
+    Adalberto 
+    Eusebio Yañez Delgado
+    
+    1950-1952
+    
+    
+    PRI
+    
+    
+    
+    Rodolfo 
+    Martinez Ruiz
+    
+    1953-1955
+    
+    
+    PRI
+    
+    
+    
+    J. Patrocinio 
+    Esquivel Reyes
+    
+    1956-1958
+    
+    
+    PRI
+    
+    
+    
+    J. Jesus 
+    Herrera Jimenez
+    
+    1959-1961
+    
+    
+    PRI
+    
+    
+    
+    J. Jesus 
+    Esquivel Rodriguez
+    
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    Antonio 
+    Castañeda Chacon
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+    J. Jesus 
+    Ortiz Saucedo
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Eulalio 
+    Guzman Lopez
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Aureliano 
+    Jimenez Guillen
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Salvador 
+    Chavarria Santos
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Manuel 
+    Aguilar Hernandez
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Profr. 
+    Hector Arteaga Diaz de Leon
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    Antonio 
+    Ojeda Santos
+    
+    1986-1988
+    
+    
+    PRI
+    
+    
+    
+    Profr. 
+    Baudelio Guerrero Briano
+    
+    1989-1992
+    
+    
+    PRI
+    
+    
+    
+    Profra. 
+    Araceli Guerrero Esquivel
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Profr 
+    y Lic. Enrique Sanchez Esparza
+    
+    1995-1998
+    
+    
+    PRI
+    
+    
+    
+    Ing. 
+    Rogelio Guzman Guerrero
+    
+    1998-2001
+    
+    
+    PRI
+    
+    
+    
+    Profr. Efren Monreal Cruz
+    2001-2004
+    PRD
+    
+    
+    Jorge 
+    Luis Rincon Gomez
+    
+    2004-2007
+    
+    
+    PRD
+    
+    
+    
+    Juan Francisco Cuevas Arredondo 
+    2007-2010
+    PRI
+    
+    
+    Abel Vazquez Salas 
+    2010-2013
+    PRI
+    
+    
+      Gildardo Cruz Arteaga
+      2013-2015
+      PRI
+    
+  
+
+32053.html
+Zacatecas - Villa Gonzalez Ortega
+
+  
+  
+    
+    
+      Presidente municipal
+    
+    
+      Periodo de 
+      Gobierno
+    
+    
+      Partido 
+      Politico
+    
+    
+    
+    Gualterio 
+    Esparza
+    
+1950
+    
+    
+    PRI
+    
+    
+    
+    Claudio 
+    Segovia
+    
+    1950-1952
+    
+    
+    PRI
+    
+    
+    
+    J. Reyes 
+    Delgado
+    
+    1953-1955
+    
+    
+    PRI
+    
+    
+    
+    Gualterio 
+    Esparza
+    
+    1956-1958
+    
+    
+    PRI
+    
+    
+    
+    J. Jesus 
+    Montoya Rodriguez
+    
+    1959-1961
+    
+    
+    PRI
+    
+    
+    
+    Carlos 
+    Guerrero Rodriguez
+    
+    1962-1964
+    
+    
+    PRI
+    
+    
+    
+    Miguel 
+    Arellano
+    
+    1965-1967
+    
+    
+    PRI
+    
+    
+    
+     Antonio 
+    Davila Reyes
+    
+    1968-1970
+    
+    
+    PRI
+    
+    
+    
+    Bartolo 
+    Castillo Hurtado
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Edmundo 
+    Garcia De la Rosa
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Cande lario 
+    Mauricio Escobedo
+    
+    1977-1978
+    
+    
+    PRI
+    
+    
+    
+    Sergio 
+    Guzman Esparza
+    
+    1978-1979
+    
+    
+    PRI
+    
+    
+    
+    Rosalio 
+    Esparza Montoya
+    
+    1980-1982
+    
+    
+    PRI
+    
+    
+    
+    Alejandro 
+    Mauricio Baez
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    Nahum 
+    Davila Gonzalez 
+    
+    1986-1988
+    
+    
+    PRI
+    
+    
+    
+    Alejandro 
+    Frausto Castillo
+    
+    1989-1992
+    
+    
+    PRI
+    
+    
+    
+    Salvador 
+    Hernandez Castillo
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Jorge 
+    Esparza Soto
+    
+    1995-1998
+    
+    
+    PRI
+    
+    
+    
+    Juan 
+    Antonio Esparza Frausto
+    
+    1998-2001
+    
+    
+    PRI
+    
+    
+    
+    Alberto Rodriguez Baez 
+    2001-2004
+     
+    
+    
+    Imelda 
+    Mauricio Esparza
+    2004-2007 
+    PRD
+    
+    
+    Mario Alberto Ponce Esparza 
+    2007-2010
+    PRI
+    
+    
+    Jose Angel Facio Vazquez 
+    2010-2013
+    PAN
+    
+    
+      Vidal Frausto Ezparza
+      2013-2016
+      PRI
+    
+  
+
+32054.html
+Zacatecas - Villa Hidalgo
+
+  
+  
+    
+    
+      Presidente Municipal
+    
+    
+      Periodo de 
+      Gobierno
+    
+    
+      Partido 
+      Politico
+    
+    
+    
+    Sixto 
+    Marin Renovato 
+    
+    1950-1952
+    
+    
+    P.R.I.
+    
+    
+    
+    Ladislao 
+    Beltran Perez 
+    
+    1953-1955
+    
+    
+    P.R.I
+    
+    
+    
+    Profr. 
+    Ismael Sanchez Sanchez 
+    
+    1956-1958
+    
+    
+    P.R.I.
+    
+    
+    
+    Jose 
+    Maria Perez  Diaz 
+    
+    1959-1961
+    
+    
+    P.R.I.
+    
+    
+    
+    Profr. 
+    Ismael Sanchez Sanchez 
+    
+    1962-1964
+    
+    
+    P.R.I.
+    
+    
+    
+    Sixto 
+    Marin Renovato 
+    
+    1965-1967
+    
+    
+    P.R.I.
+    
+    
+    
+    Profr. 
+    Everardo Salas Marin 
+    
+    1968-1970
+    
+    
+    P.R.I.
+    
+    
+    
+    Profr. 
+    Carlos Saucedo Morales 
+    
+    1971-1973
+    
+    
+    P.R.I.
+    
+    
+    
+    Angel 
+    Muñoz Aranda 
+    
+    1974-1976
+    
+    
+    P.R.I.
+    
+    
+    
+    Antonio 
+    Escobedo Marin 
+    
+    1977-1979
+    
+    
+    P.R.I.
+    
+    
+    
+    J. 
+    Jesus Salas Delgado 
+    
+    1980-1982
+    
+    
+    P.R.I.
+    
+    
+    
+    Rogelio 
+    Morales Acosta 
+    
+    1983-1985
+    
+    
+    P.R.I.
+    
+    
+    
+    Lic. 
+    Carlos Marin Campos 
+    
+    1986-1988
+    
+    
+    P.R.I.
+    
+    
+    
+    Profr. 
+    Cristobal  Lozano Escobedo 
+    
+    1989-1992
+    
+    
+    P.R.I.
+    
+    
+    
+    Luis 
+    Gaytan Muñoz 
+    
+    1992-1995
+    
+    
+    P.R.I.
+    
+    
+    
+    Humberto 
+    Martinez Gallegos 
+    
+    1995-1998
+    
+    
+    P.R.I.
+    
+    
+    
+    Lauro 
+    Perez  Marin 
+    
+    1998-2001
+    
+    
+    P.R.D.
+    
+    
+    
+    Martin Morales Chavez
+    2001-2004
+    P.R.D.
+    
+    
+     Juan 
+    Carlos Saucedo Sanchez
+    
+    2004-2007
+    
+    
+    P.R.I.
+    
+    
+    
+    Juan Delgado Martinez 
+    2007-2010
+    PRD
+    
+    
+    Victor Manuel Yañez Torres  
+    2010-2013
+    PRI
+    
+    
+      Javier Huerta Garza
+      2013-2016
+      PRD-PAN
+    
+  
+
+32055.html
+Zacatecas - Villanueva
+
+  
+    
+ 
+
+    
+      Presidente Municipal
+    
+    
+      Periodo de 
+      Gobierno
+    
+    
+      Partido
+      Politico
+    
+    
+    
+    Cecilio Gonzalez Arellano
+    
+      1937-1938
+    
+    
+      PRM
+    
+    
+    
+    J. Merced Gonzalez Arellano
+    
+      1938-1939
+    
+    
+      PRM
+    
+    
+    
+    Pedro Barajas
+    
+      1940-1941
+    
+    
+      PRM
+    
+    
+    
+    Crispin Torres Ortega
+    
+      1941-1942
+    
+    
+      PRM
+    
+    
+    
+    Luis N. Garcia Flores
+    
+      1942-1943
+    
+    
+      PRM
+    
+    
+    
+    Jose Renteria Hernandez
+    
+      1944-1946
+    
+    
+      PRM
+    
+    
+    
+    Ignacio Maldonado Rodriguez
+    
+      1947-1949
+    
+    
+      PRI
+    
+    
+    
+    Rafael Rodriguez Hernandez 
+    
+      1950-1952
+    
+    
+      PRI
+    
+    
+    
+    Jose Maria Corvera Avila
+    
+      1953-1955
+    
+    
+      PRI
+    
+    
+    
+    J. Paz Enriquez Salazar 
+    
+      1956-1958
+    
+    
+      PRI
+    
+    
+    
+    Pedro Mendez Espinoza
+    
+      1959-1961
+    
+    
+      PRI
+    
+    
+    
+    Profr. Antonio Nuñez Flores
+    
+      1962-1964
+    
+    
+      PRI
+    
+    
+    
+    Fernando Garcia Gonzalez
+    
+      1965-1967
+    
+    
+      PRI
+    
+    
+    
+    Antonio Gonzalez Varela
+    
+      1968-1970
+    
+    
+      PRI
+    
+    
+    
+    Cecilio Morales Vazquez
+    
+      1971-1973
+    
+    
+      PRI
+    
+    
+    
+    Baldomero Hernandez Muro 
+    
+      1974-1976
+    
+    
+      PRI
+    
+    
+    
+    Humberto Gonzalez Mendez
+    
+      1977-1979
+    
+    
+      PRI
+    
+    
+    
+    Profr. Emigdio Gonzalez Soto
+    
+      1980-1982
+    
+    
+      PRI
+    
+    
+    
+    Lic. Jose Antonio Renteria Soto
+    
+      1983-1988
+    
+    
+      PRI
+    
+    
+    
+    Profr. Lorenzo Enriquez Rodarte
+    
+      1986-1988
+    
+    
+      PRI
+    
+    
+    
+    Profr. Vicente Mendez Espino 
+    
+      1988-1992
+    
+    
+      PRI
+    
+    
+    
+    M.V.Z. Santiago Javier Morales Davila
+    
+      1992-1995
+    
+    
+      PRI
+    
+    
+    
+    Ing. Jorge Landeros Carrillo
+    
+      1995-1998
+    
+    
+      PRI
+    
+    
+    
+    Profr. Mariano Ureño Gurrola
+    
+      1998-2001
+    
+    
+      PRI
+    
+    
+    
+    Profr. Arturo Marquez Salas
+    
+2001
+    
+    
+      PRI
+    
+    
+    
+    Profr. Miguel Angel Torres
+    2001-2004
+    PRI
+    
+    
+    Arturo Marquez Salas
+    
+      2004-2007
+    
+    
+      COAL.
+    
+    
+    
+    Antonio de la Torre del Rio 
+    2007-2010
+    PRI
+    
+    
+    Ivan De Santiago Beltran 
+    2010-2013
+    ZANUNE
+    
+    
+      Miguel Angel Torres Rosales
+      2013-2016
+      PAN-PRD
+    
+   
+    
+
+32056.html
+Zacatecas - Zacatecas
+
+  
+  
+    
+    
+      Presidente Municipal
+    
+    
+      Periodo de 
+      Gobierno
+    
+    
+      Partido 
+      Politico
+    
+    
+    
+    Cap. Pablo Robles Garcia
+    
+1940
+    
+    
+    PRM
+    
+    
+    
+    J. Santos Quiñonez
+    
+1940
+    
+    
+    PRM
+    
+    
+    
+    Rafael Lopez
+    
+1941
+    
+    
+    PRM
+    
+    
+    
+    Dr. Jose A. Machiavelo
+    
+1942
+    
+    
+    PRM
+    
+    
+    
+    Agustin Tovar Moreno
+    
+1943
+    
+    
+    PRM
+    
+    
+    
+    Higinio Natera Vital
+    
+1944
+    
+    
+    PRM
+    
+    
+    
+    Prof. Luis de la Fuente
+    
+    1945 -1946
+    
+    
+    PRM
+    
+    
+    
+    Dr. Jose Cabral Roman
+    
+    1947 -1948
+    
+    
+    PRI
+    
+    
+    
+    Belen Marquez
+    
+1950
+    
+    
+    PRI
+    
+    
+    
+    Roque Acevedo Diaz
+    
+    1950 -1952
+    
+    
+    PRI
+    
+    
+    
+    Francisco Borrego Delgado
+    
+    1953 -1955
+    
+    
+    PRI
+    
+    
+    
+    Roque Acevedo Diaz
+    
+    1956 -1958
+    
+    
+    PRI
+    
+    
+    
+    Francisco Borrego Delgado
+    
+    1959 -1961
+    
+    
+    PRI
+    
+    
+    
+    Manuel Rivapalacio
+    
+    1962 -1964
+    
+    
+    PRI
+    
+    
+    
+    Jose Lopez Cortes
+    
+    1965 -1967
+    
+    
+    PRI
+    
+    
+    
+    Lic. Raul Rodriguez 
+    Santoyo
+    
+    1968 -1970
+    
+    
+    PRI
+    
+    
+    
+    Lic. Guillermo Rubio Cervantes
+     
+    
+    PRI
+    
+    
+    
+    Lic. Roberto Valadez Garcia
+    
+    1971-1973
+    
+    
+    PRI
+    
+    
+    
+    Victorio de la Torre de la 
+    Torre
+    
+    1974-1976
+    
+    
+    PRI
+    
+    
+    
+    Francisco J. Alonso Bernal
+    
+    1977-1979
+    
+    
+    PRI
+    
+    
+    
+    Lic. J. Benito Lopez 
+    Dominguez
+    
+    1980-1981
+    
+    
+    PRI
+    
+    
+    
+    M.V.Z. Jose Escobedo 
+    Dominguez
+    
+    1981-1982
+    
+    
+    PRI
+    
+    
+    
+    Lic. Jesus Manuel Diaz 
+    Casas
+    
+    1983-1985
+    
+    
+    PRI
+    
+    
+    
+    Profr. J: Antonio Villa Fonseca
+    
+1985
+    
+    
+    PRI
+    
+    
+    
+    Lic. Raul Rodriguez 
+    Santoyo
+    
+    1986-1988
+    
+    
+    PRI
+    
+    
+    
+    Lic. Jesus Manuel Diaz 
+    Casas
+    
+    1989-1992
+    
+    
+    PRI
+    
+    
+    
+    Lic. Javier Suarez 
+    del Real Berumen
+    
+    1992-1995
+    
+    
+    PRI
+    
+    
+    
+    Lic. Jose Manuel Maldonado 
+    Romero
+    
+    1995-1997
+    
+    
+    PRI
+    
+    
+    
+    Ing. Julian Ibarguengoytia 
+    
+    1997-1998
+    
+    
+    PRI
+    
+    
+    
+    C.P. Magdalena Nuñez 
+    Monreal
+    
+    1998-2000
+    
+    
+    PRD
+    
+    
+    
+    Lic. Pedro Goytia Robles
+    
+    2000-2001
+    
+    
+    PRD
+    
+    
+    
+    Lic. Miguel Alonso Reyes
+    2001-2004
+    PRD
+    
+    
+    Gerardo de Jesus Felix 
+    Dominguez 
+    
+    2004-2007
+    
+    
+    PRD
+    
+    
+    
+    Cuauhtemoc Calderon Galvan 
+    2007-2010
+    PAN
+    
+    
+    Arnoldo Alfredo Rodriguez Reyes  
+    2010-2013
+    PRI
+    
+    
+      Carlos Aurelio Peña Badillo
+      2013-2016
+      PRI
+    
+  
+
+32057.html
+Zacatecas - Trancoso
+
+  
+  
+    
+    
+      Presidente Municipal
+    
+    
+      Periodo de 
+      Gobierno
+    
+    
+      Partido 
+      Politico
+    
+    
+    
+    Ricardo de la Rosa
+    2001-2004
+    PRD
+    
+    
+    Jorge 
+    Almanza Reyes
+    
+    2004-2007
+    
+    
+    PRI
+    
+    
+    
+    Daniel Hernandez Juarez 
+    2008-2010
+    PAN
+    
+    
+    Hugo De la Torre Garcia 
+    2010-2013
+    PT
+    
+    
+
+32058.html
+Zacatecas - Santa Maria de la Paz
+
+  
+  
+    
+    
+      Presidente Municipal
+    
+    
+      Periodo de 
+      Gobierno
+    
+    
+      Partido 
+      Politico
+    
+    
+    
+    Benjamin 
+    Robles Cervantes
+    
+    2004-2007
+    
+    
+    PRD
+    
+    
+    
+    J Angel Torres Rivas 
+    2007-2010
+    PRI
+    
+    
+    Mario Cervantes Gonzalez 
+    2013-2013
+    PAN
