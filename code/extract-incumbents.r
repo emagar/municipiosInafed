@@ -1,4 +1,4 @@
-# extract incumbent alcaldes from inafed data
+# merge incumbent alcaldes from inafed data
 edos <- c("ags", "bc", "bcs", "cam", "coa", "col", "cps", "cua", "df", "dgo", "gua", "gue", "hgo", "jal", "mex", "mic", "mor", "nay", "nl", "oax", "pue", "que", "qui", "san", "sin", "son", "tab", "tam", "tla", "ver", "yuc", "zac")
 
 # from https://stackoverflow.com/questions/17227294/removing-html-tags-from-a-string-in-r
