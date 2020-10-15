@@ -1,0 +1,13 @@
+#+TITLE: Clon de la encicopedia del Inafed
+#+AUTHOR: Eric Magar
+Last revision: 2020-10-15
+
+# Export to md: M-x org-md-export-to-markdown
+
+* Descripción
+Clon de la enciclopedia de municipios del INAFED, suele encontrarse en [[http://www.inafed.gob.mx]]. 
+
+Ante el temor de que, con la austeridad de la nueva administración, desparezca la excelente enciclopedia de municipios del INAFED, hemos hecho y guardado una copia. Incluye algo de información adicional. 
+
+* Agradecimientos
+Gracias a [[https://github.com/cblanesg][Camila Blanes]] por preparar el código y llevar a cabo el /scraping/. Eric Magar agradece el apoyo financiero de la Asociación Mexicana de Cultura A.C. para esta investigación. Los errores y omisiones son responsabilidad de Eric Magar. 
