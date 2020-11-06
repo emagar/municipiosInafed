@@ -1,170 +1,170 @@
 ord,Nombre,Partido,Municipio,Estado,Funcion,fch-defun,Causa-defuncion,Comentarios,nota,link
-1,Juan Manuel Rodríguez Rodríguez,,Tulcingo del Valle,Puebla,Alcalde,26oct2020,COVID-19,,Corte 5nov2020,https://heraldodemexico.com.mx/nacional/2020/10/26/muere-tercer-alcalde-de-covid-19-en-puebla-219079.html
-2,Héctor Felipe Hernández González,,San Agustín Tlaxiaxa,Hidalgo,Alcalde electo,25oct2020,COVID-19,,,https://hemeroteca.elsiglodedurango.com.mx/noticia/1258871.fallece-de-covid-19-felipe-hernandez-alcalde-electo-de-municipio-en-hidalgo.html
-3,Tomás García Cerón,,San Agustín Tlaxiaca,Hidalgo,Aspirante a alcalde,8oct2020,COVID-19,,,https://www.eluniversal.com.mx/estados/por-covid-muere-candidato-alcalde-en-hidalgo
-4,Carlos Mario Ortiz Sánchez,,Salvador Alvarado,Sinaloa,Alcalde,7oct2020,COVID-19,Sufrió de recontagio y no sobrevivió,,https://www.eluniversal.com.mx/estados/fallece-por-covid-19-alcalde-en-sinaloa-era-la-segunda-vez-que-se-infectaba
-5,Roberto Arriaga Colín,,Ocampo,Michoacán,Alcalde,5oct2020,COVID-19,,,https://www.adn40.mx/mexico/nota/notas/2020-10-05-21-18/muere-el-alcalde-de-ocampo-michoacan-por-covid-19
-6,Héctor Carrasco Márquez,,Venustiano Carranza,Puebla,Alcalde suplente,3oct2020,COVID-19,,,https://intoleranciadiario.com/articles/2020/10/03/967739-por-covid-19-muere-alcalde-de-venustiano-carranza.html
-7,Carlos Ignacio Beltrán Bencomo,,Temósachic,Chihuahua,Alcalde,30sep2020,Asesinado,Primero lo habían secuertado y lo encuentran con dos disparos en la cabez,,https://www.elfinanciero.com.mx/estados/asesinan-a-alcalde-de-temosachic-chihuahua
-8,Pedro Modesto Santos,,Santa Cruz Xitla,Oaxaca,Alcalde,24sep2020,COVID-19,,,https://www.sopitas.com/noticias/muere-covid-19-alcalde-santa-cruz-xitla-oaxaca/
-9,Tomás Primo Negrete,PRI,Tonanitla,EdoMex,Alcalde,30ago2020,COVID-19,Muere internado con infarto,,https://www.eluniversal.com.mx/metropoli/muere-alcalde-de-tonanitla-por-covid-19
-10,Marco Antonio Leal García,,Hidalgo,Tamaulipas,Alcalde,28ago2020,Asesinado,,,https://archivo.eluniversal.com.mx/primera/35464.html
-11,Simón Ursino Barzán,,San Simón Zahuatlán,Oaxaca,Alcalde,26ago2020,Accidente automovilístico,,,https://www.contrareplica.mx/nota-Muere-alcalde-de-San-Simon-Zahuatlan-Oaxaca-en-accidente-automovilistico-20202680
-12,Victorino Gómez Martínez,,San Bartolomé Quialana,Oaxaca,Alcalde,25ago2020,COVID-19,,,https://www.milenio.com/estados/coronavirus-oaxaca-muere-septimo-presidente-municipal
-13,Miguel Ángel Antonio Vázquez,,General Felipe Ángeles,Puebla,Alcalde,24ago2020,COVID-19,,,https://www.milenio.com/politica/gobierno/edil-felipe-angeles-puebla-fallecio-coronavirus
-14,Pedro Escárcega Pérez,,Santiago Jocotepec,Oaxaca,Alcalde,21ago2020,COVID-19,Muere en IMSS al estar intubado.,,https://www.infobae.com/america/mexico/2020/08/22/pedro-escarcega-perez-alcalde-de-santiago-jocotepec-oaxaca-murio-por-covid-19/
-15,Alfredo Juárez Díaz,,Matías Romero,Oaxaca,Alcalde,18ago2020,COVID-19,Entró al hospital y lo habían dado de alta. Muere en su casa.,,https://www.excelsior.com.mx/nacional/muere-alcalde-de-matias-romero-por-covid-19/1400595
-16,Victoria Rasgado Pérez,,Moloacán,Veracruz,Alcaldesa,9ago2020,COVID-19,,,
-17,Artemio Ortiz Ricárdez,,Tamazulapan del Espíritu Santo,Oaxaca,Alcalde,5ago2020,COVID-19,Presidente por usos y costumbres,,
-18,Juan Manuel Valencia López,,Santiago Alseseca,Puebla,Alcalde auxiliar,24jul2020,Problemas de salud,Del municipio de Tecamachalco. Presunto COVID-19,,https://contraparte.mx/municipios/39646-muere-edil-auxiliar-de-santiago-alseseca-por-complicaciones-respiratorias.html
-19,Rigoberto Javier Tun Salas,,Samahil,Yucatán,Alcalde,19jul2020,COVID-19, ,,
-20,Fernando Bautista Dávila ,,San Juan Bautista Tuxtepec,Oaxaca,Alcalde,16jul2020,COVID-19, ,,
-21,Irma Delia Bárcena Villa ,,Miahuatlán,Veracruz,Alcaldesa,16jul2020,COVID-19, ,,
-22,Faustino Carín Molina Castillo,,Amaxac de Guerrero,Tlaxcala,Alcalde,12jul2020,COVID-19, ,,
-23,Reyna Marlene de los Ángeles Catzín Cih,,Maxcanú,Yucatán,Alcaldesa,9jul2020,COVID-19,Le dio un infarto,,https://www.yucatan.com.mx/merida/fallece-la-alcaldesa-de-maxcanu-de-infarto-al-parecer-padecia-covid-19
-24,Josué Antonio García Rodríguez,,Vanegas,San Luís Potosí,Alcalde,8jul2020,COVID-19,,,
-25,Florencio San Germán Santiago ,,San Baltazar Chichicapam,Oaxaca,Alcalde,28jun2020,COVID-19,,,
-26,Gerardo Tirso Acahua Apale,,Coetzala,Veracruz,Alcalde,28jun2020,COVID-19,,,https://eldemocrata.com/fallece-alcalde-de-coetzala-por-complicaciones-de-covid-19/
-27,José Humberto Arellano,,Acaponeta,Nayarit,Alcalde,17jun2020,COVID-19,,,
-28,Rigoberto González Pacheco,,Bacoachi,Sonora,Alcalde,16jun2020,COVID-19,,,
-29,Gonzalo Muñoz Cruz,PRD,Zacatelo,Tlaxcala,Aspirante a alcalde,15jun2020,COVID-19,,,https://tlaxcala.quadratin.com.mx/principal/muere-de-posible-covid-19-gonzalo-munoz-aspirante-a-la-alcaldia-de-zacatelco/
-30,Javier Santiago Ruiz ,,Reyes Etla,Oaxaca,Alcalde,15jun2020,COVID-19,,,https://oaxaca.eluniversal.com.mx/municipios/15-06-2020/muere-edil-de-reyes-etla-con-sintomas-de-covid-19-familia-niega-contagio
-31,Marcos de la Cruz Hernández,,Xochiatipan,Puebla,Aspirante a alcalde,14jun2020,Asesinado,,,https://hidalgo.quadratin.com.mx/sucesos/muere-aspirante-a-alcalde-de-xochiatipan-tras-ser-baleado-en-puebla/
-32,Sergio Anguiano Meléndez,,Coyotepec,EdoMex,Alcalde,8jun2020,COVID-19,,,https://www.elsoldetoluca.com.mx/local/fallece-alcalde-de-coyotepec-por-covid-19-5335736.html
-33,Armando Portuguez Fuentes,PRD,Tultepec,EdoMex,Alcalde,23may2020,Problemas de salud,Posible infarto,,https://www.elfinanciero.com.mx/estados/muere-armando-armando-portuguez-alcalde-de-tultepec
-34,José Esteban Cortés Torres,,San Cosme Mazatecochco,Tlaxcala,Alcalde,15may2020,COVID-19,,,https://www.milenio.com/politica/comunidad/coronavirus-en-tlaxcala-muere-alcalde-de-mazatecochco
-35,Javier Maravilla Morales,,San Baltazar Tetela,Puebla,Alcalde auxiliar con licencia,9abr2020,Problemas de salud,Derrame cerebral,,https://mtpnoticias.com/municipios/muere-edil-auxiliar-de-san-baltazar-tetela-habia-pedido-licencia-al-cargo-en-marzo/
-36,Obed Duron Gómez,,Mahahual,Quintana Roo,Alcalde,6abr2020,Asesinado,,,https://www.razon.com.mx/estados/muere-alcalde-de-mahahual-tras-atentado/
-37,Óscar Gurría Penagos,,Tapachula,Chiapas,Alcalde,20feb2020,Problemas de salud,Infarto,,https://www.milenio.com/estados/chiapas-muere-alcalde-tapachula-oscar-gurria-penagos
-38,Félix Alberto Linares,,Ocuilan,EdoMex,Alcalde,4ene2020,Accidente vehicular,Se estrelló en una aeronave,,https://politica.expansion.mx/estados/2020/01/04/alcalde-de-ocuilan-edomex-muere-en-el-desplome-de-avioneta
-39,Arturo García Velázquez,,Jalapa de Díaz,Oaxaca,Alcalde,23dic2019,Asesinado,,,https://www.animalpolitico.com/2019/12/asesinan-alcalde-jalapa-diaz-oaxaca/
-40,Trinidad Flores Altamirano,,Tochimilco,Puebla,Auxiliar,23dic2019,Accidental propia,Presidente auxiliar de la Magdalena Yancuitlalpan. Se cae y da un golpe en la cabeza,,https://www.zocalo.com.mx/new_site/articulo/muere-alcalde-auxiliar-al-intentar-colocar-una-pinata-en-puebla
-41,Francisco Tenorio Contreras,,Valle de Chalco,EdoMex,Alcalde,29oct2019,Asesinado,"No se pudo recuperar del disparo en la cabeza, muerte cerebral",,https://www.elsoldetoluca.com.mx/local/muere-francisco-tenorio-contreras-alcalde-de-valle-de-chalco-4401311.html
-42,Raymunda Che Pech,,Kantunil,Yucatán,Alcaldesa,6oct2019,Problemas de salud,Muere en el hospital después de desvanecerse en casa,,https://www.elfinanciero.com.mx/nacional/muere-raymunda-che-pech-alcaldesa-de-kantunil-yucatan
-43,Carmela Parral Santos,,San José Estancia Grande,Oaxaca,Alcaldesa,16ago2019,Asesinado,,,https://www.elsoldemexico.com.mx/republica/justicia/asesinan-a-carmela-parral-santos-alcaldesa-de-san-jose-estancia-grande-en-oaxaca-4052436.html
-44,Ignacio Pérez Girón,,Aldama,Chiapas,Alcalde,6may2019,Asesinado,Desaparecido desde el 4 de mayo.,,https://www.elsoldemexico.com.mx/republica/sociedad/encuentran-muerto-a-ignacio-perez-giron-alcalde-de-aldama-chiapas-3580189.html
-45,Maricela Vallejo Orea,MORENA,Mixtla de Altamirano,Veracruz,Alcaldesa,25abr2019,Asesinado,"Ya había expuesto amenazas, se salió de MORENA, la asesianan con su esposo.",,https://www.excelsior.com.mx/nacional/matan-a-alcaldesa-en-veracruz-gobernaba-mixtla-de-altamirano/1309345
-46,David Eduardo Otlica Avilés,,Nahuatzen,Michoacán,Alcalde,23abr2019,Asesinado,Secuestro y torturado,,https://primerplanoweb.com.mx/?p=19350
-47,Oscar Pimentel Ugarte,,Atoyac,Veracruz,Suplente,16abr2019,Asesinado,Secuestro y asesinado a balazos,,https://www.sinembargo.mx/16-04-2019/3567324
-48,Alejandro Aparicio Santiago,MORENA,Tlaxiaco,Oaxaca,Alcalde,1ene2019,Asesinado,Acababa de tomar protesta hace menos de 2 horas.,,https://www.excelsior.com.mx/nacional/asesinan-a-otro-alcalde-de-morena-suman-dos-electos-el-1-de-julio/1287956
-49,Olga Gabriela Kobel Lara ,,Juárez,Coahuila,Alcaldesa,17dic2018,Asesinado,,,https://www.alcaldesdemexico.com/notas-principales/localizan-a-gabriela-kobel-alcaldesa-de-juarez-coahuila/
-50,Jesús Bernardo Torres García,PRD,Santiago Suchiquitongo,Oaxaca,Alcalde,30oct2018,Problemas de salud,Neumonía severa,,https://imparcialoaxaca.mx/los-municipios/237975/muere-edil-de-suchilquitongo-oaxaca-de-neumonia-severa/
-51,Zótico Gómez Bautista,,Santiago Tetepec,Oaxaca,Alcalde,20sep2018,Accidente automovilístico,,,https://www.excelsior.com.mx/nacional/zotico-gomez-alcalde-de-tetepec-muere-en-accidente-de-auto/1266350
-52,Daniel Esteban González,,Cochoapa El Grande,Guerrero,Alcalde electo,10sep2018,Asesinado,Desaparecido y encontrado muerto el 8 de enero de 2020.,,https://www.elsoldemexico.com.mx/republica/justicia/identifican-restos-humanos-de-alcalde-electo-de-cochoapa-guerrero-violencia-inseguridad-estado-policiada-nacional-4675051.html
-53,Félix Aguilar Caballero,PVEM,Nopalucan de la Granja,Puebla,Alcalde electo,4sep2018,Asesinado,Presunta relacón con el huachicol,,https://www.unotv.com/noticias/estados/puebla/detalle/asesinan-a-alcalde-electo-en-puebla-fue-vinculado-con-huachicoleros-486029/
-54,Jorge Luis García Vera,PNA,Villanueva,Zacatecas,Alcalde,11ago2018,Accidente automovilístico,Cae a un barranco de 20 mt.,,https://www.eluniversal.com.mx/estados/alcalde-de-villanueva-zacatecas-muere-en-accidente-automovilistico
-55,Eliseo Delgado Sánchez,MORENA,Buenavista Tomatlán,Michoacán,Alcalde electo,20jul2018,Asesinado,Lo matan en un restaurante. Su sustituta renunció también.,,https://www.alcaldesdemexico.com/notas-principales/asesinan-a-alcalde-electo-de-buenavista-tomatlan-michoacan/
-56,Roberto Gustavo González Hinojosa,PAN,Ciudad Mier,Tamaulipas,Alcalde reelecto,13jul2018,Asesinado,Lo secuetran un día antes de su muerte.,,https://criteriohidalgo.com/destacado/localizan-a-alcalde-de-ciudad-mier
-57,Genaro Negrete Urbano,,Naupan,Puebla,Alcalde,5jul2018,Asesinado,Secuestrado y encontrado muerto el 7 de agosto de 2018.,,https://lasillarota.com/asesinan-alcalde-secuestrado-naupan-puebla/239748
-58,Víctor José Guadalupe Díaz Contreras,PRI,Tecalitlán,Jalisco,Alcalde,2jul2018,Asesinado,,,https://www.animalpolitico.com/2018/07/asesinan-alcalde-tecalitlan-jalisco/
-59,Javier Ureña González,,Buenavista Tomatlán,Michoacán,Alcalde provisional,27jun2018,Asesinado,,,https://www.publimetro.com.mx/mx/noticias/2018/06/27/asesinan-alcalde-buenavista-michoacan.html
-60,Fernando Ángeles Juárez,PRD,Ocampo,Michoacán,Aspirante a alcalde,21jun2018,Asesinado,,,https://www.eluniversal.com.mx/elecciones-2018/asesinan-candidato-del-prd-en-michoacan-el-tercero-en-una-semana
-61,Omar Gómez Lucatero,Ind.,Aguililla,Michoacán,Aspirante a alcalde,20jun2018,Asesinado,,,https://www.elfinanciero.com.mx/elecciones-2018/asesinan-a-candidato-a-alcalde-de-aguililla-michoacan
-62,Alejandro Chávez Zavala,PAN-PRD-MC,Taretan,Michoacán,Aspirante a reelegirse,14jun2018,Asesinado,Muere llegando al hospital.,,https://www.excelsior.com.mx/nacional/asesinan-a-candidato-a-la-alcaldia-de-taretan-en-michoacan/1245464
-63,José Remedios Aguirre Sánchez,MORENA,Apaseo el Alto,Guanajuato,Aspirante a alcalde,11may2018,Asesinado,Asesinado en pleno acto de campaña.,,https://www.unotv.com/noticias/estados/guanajuato/detalle/asesinan-candidato-morena-en-guanajuato-560447/
-64,Abel Montufar Mendoza,PRI,Coyuca de Catalán,Guerrero,Alcalde con licencia,8may2018,Asesinado,Encontrado en una camioneta. Candidato a dip. Local,,https://www.elsoldeacapulco.com.mx/policiaca/asesinan-a-candidato-del-pri-en-tierra-caliente-guerrero-1671644.html
-65,Alejandro González Ramos,PAN,Pacula,Hidalgo,Alcalde,3may2018,Asesinado,,,https://aristeguinoticias.com/0305/mexico/asesinan-a-alcalde-de-pacula-hidalgo/
-66,Adiel Zermann Miguel,MORENA-PT-PES,Tenango del Aire,EdoMex,Aspirante a alcalde,3may2018,Asesinado,Desaparecido y hallado su cuerpo al día siguiente.,,https://www.eluniversal.com.mx/metropoli/edomex/asesinan-al-candidato-de-morena-alcaldia-en-edomex
-67,Juan Carlos Andrade Magaña,MC,Jilotlán de los Dolores,Michoacán,Aspirante a reelegirse,15abr2018,Asesinado,,,https://www.elsoldemexico.com.mx/republica/politica/asesinan-a-edil-con-licencia-de-jilotlan-de-los-dolores-buscaba-la-reeleccion-1615578.html
-68,José Efraín García García,PT,Tlanepantla,Puebla,Alcalde,12abr2018,Asesinado,,,https://www.eluniversal.com.mx/estados/asesinan-alcalde-de-tlanepantla-puebla
-69,Gustavo Martín Gómez Álvarez,PRI,Francisco Z. Mena,Puebla,Aspirante a alcalde,16mar2018,Asesinado,Ejecutado en un restaurante.,,https://www.excelsior.com.mx/nacional/2018/03/16/1226743
-70,Homero Bravo Espino,PRD,Zihuatanejo,Guerrero,Preaspirante a alcalde,3mar2018,Asesinado,,,https://www.eluniversal.com.mx/estados/asesinan-precandidato-del-prd-para-alcaldia-de-zihuatanejo
-71,Aarón Varela Martínez,MORENA,Santa Clara Ocoyucan,Puebla,Preaspirante a alcalde,1mar2018,Asesinado,,,https://www.diariodemexico.com/asesinan-candidato-de-morena-en-puebla
-72,Antonia Jaimes Moctezuma,PRD,Chilapa,Guerrero,Preaspirante a alcalde,21feb2018,Asesinado,,,https://www.eluniversal.com.mx/estados/asesinan-precandidata-del-prd-en-guerrero
-73,Francisco Rojas,PRI,Cuautitlán Izcalli,EdoMex,Preaspirante a alcalde,6feb2018,Asesinado,Dip. Federal con licencia,,https://www.eluniversal.com.mx/metropoli/fallece-francisco-rojas-precandidato-del-pri-en-cuautitlan-izcalli
-74,Salvador Aguilar García,PRI,Cohetzala,Puebla,Alcalde,29ene2018,Accidente automovilístico,Muere en hospital por falla orgánica múltiple,,https://tribunanoticias.mx/muere-el-edil-de-cohetzala-tras-sufrir-accidente/
-75,Arturo Gómez Pérez,,Petatlán,Guerrero,Alcalde,29dic2017,Asesinado,Ejecutado en un restaurante.,,https://regeneracion.mx/asesinan-a-alcalde-perredista-de-petatlan-guerrero/
-76,Sergio Antonio Zenteno Albores,,Bochil,Chiapas,Alcalde,18dic2017,Asesinado,,,https://noticieros.televisa.com/ultimas-noticias/asesinan-alcalde-bochil-tuxtla-gutierrez-chiapas/
-77,José Santos Hernández,,San Pedro El Alto,Oaxaca,Alcalde,8dic2017,Asesinado,,,https://www.eluniversal.com.mx/estados/asesinan-presidente-municipal-de-san-pedro-el-alto-oaxaca
-78,Víctor Manuel Espinoza Tolentino,,Ixhuatlán de Madero,Veracruz,Alcalde,25nov2017,Asesinado,Ejecutan a su esposa y tres colaboradores más.,,https://www.excelsior.com.mx/nacional/2017/11/25/1203458
-79,Santana Cruz Bahena,,Hidalgotitlán,Veracruz,Alcalde electo,20nov2017,Asesinado,Ejecutado afuera de su domicilio.,,https://www.eluniversal.com.mx/estados/asesinan-alcalde-electo-de-hidalgotitlan-veracruz
-80,Crispín Gutiérrez Moreno,,Ixtlahuacán,Colima,Alcalde,20oct2017,Asesinado,Ejecutado en su vehículo,,https://www.proceso.com.mx/508206/asesinan-al-presidente-municipal-ixtlahuacan-colima
-81,Manuel Hernández Pasión,,Huitzilan de Serdán,Puebla,Alcalde,10oct2017,Asesinado,Ejecutado en su vehículo,,https://www.animalpolitico.com/2017/10/asesinan-alcalde-huitzilan-puebla/
-82,Stalin Sánchez González,PRD,Paracho,Michoacán,Alcalde,6oct2017,Asesinado,Ejecutado afuera de su domicilio.,,https://www.eluniversal.com.mx/estados/asesinan-alcalde-de-paracho-michoacan
-83,Juan Santos Vásquez,,San Esteban Amatlán,Oaxaca,Alcalde,4sep2017,Accidente vehicular,"Auto le chocó en su moto, no seobrebivió a las lesiones en el hospital. Estuvo desde el 27 de agosto hospitalizado.",,https://www.nvinoticias.com/nota/69395/muere-atropellado-alcalde-de-san-esteban-amatlan-oaxaca
-84,Edgar Gil Yoguez,,Venustiano Carranza,Michoacán,Alcalde,26ago2017,Problemas de salud,,,https://www.quadratin.com.mx/principal/fallece-edil-venustiano-carranza/
-85,Hugo Castro Rosado,PAN-PRD,La Antigua,Veracruz,Alcalde electo,20ago2017,Problemas de salud,"Padecia del higado y sufrió trombosis, muere en hospital",,https://www.alcalorpolitico.com/informacion/tras-problemas-de-salud-fallece-alcalde-electo-de-la-antigua-242639.html#.X1J1eGdKgzU
-86,Irma Camacho García ,,Temixco,Morelos,Alcaldesa suplente,18jul2017,Problemas de salud,Entró en funciones debido a que asesinador a la alcaldesa tiutlar al día de haber tomado protesta.,,https://www.proceso.com.mx/495439/fallece-la-alcaldesa-suplente-temixco-irma-camacho-garcia
-87,Demetrio Jaime Martínez Benítez,,San Mateo Sindihui,Oaxaca,Alcalde,29jun2017,Asesinado,Enfrentamiento con vecinos por conflicto agrario.,,https://www.debate.com.mx/ahora/Asesinan-a-alcalde-de-Oaxaca-por-conflicto-agrario-20170630-0263.html
-88,Aurelio Cortez Aguirre,,Santa María la Asunción,Oaxaca,Alcalde,17may2017,Problemas de salud,Hemorragia por úlcera gástrica,,http://www.tvbus.tv/web/2017/05/17/fallece-aurelio-cortes-presidente-municipal-santa-maria-la-asuncion/
-89,Alejandro Hernández Santos,,San Bartolomé Loxicha,Oaxaca,Alcalde,28abr2017,Asesinado,,,https://www.eluniversal.com.mx/articulo/estados/2017/04/28/asesinan-edil-de-san-bartolome-loxicha-oaxaca
-90,Fernando Álvaro Gómez,PAN,Santiago Tianguistenco,EdoMex,Alcalde,25mar2017,Problemas de salud,Infarto,,https://www.milenio.com/politica/muere-de-un-infarto-alcalde-de-santiago-tianguistenco
-91,Martha Elvia Fernández Sánchez,PRI,Cuautitlán,EdoMex,Alcaldesa con licencia,5mar2017,Problemas de salud,Cáncer,,https://www.eluniversal.com.mx/articulo/metropoli/edomex/2017/03/6/lamentan-muerte-de-alcaldesa-con-licencia-de-cuautitlan
-92,Antolín Vital Martínez,,Tepexco,Puebla,Alcalde,24ene2017,Asesinado,,,https://www.animalpolitico.com/2017/01/asesinan-edil-tepexco-puebla/
-93,José Villanueva Rodríguez,PRD,Ocotlán de Morelos,Oaxaca,Alcalde,17dic2016,Asesinado,,,https://www.excelsior.com.mx/nacional/2016/12/17/1134964
-94,José Gudalupe Romero Chanes,,"Santa Lucía Cosamaloapan, Atlixco",Puebla,Alcalde auxiliar,16oct2016,Asesinado,,,https://www.unotv.com/noticias/estados/puebla/detalle/asesinan-a-edil-auxiliar-de-santa-lucia-cosamaloapan-860822/
-95,Alfredo Vizcarra Díaz,,Concordia,Sinaloa,Alcalde,20sep2016,Problemas de salud,Derrame cerebral,,https://www.debate.com.mx/mazatlan/Fallece-Alfredo-Vizcarra-alcalde-de-Concordia-20160920-0103.html
-96,José Santa María Zavala,,Huehuetlán El Grande,Puebla,Alcalde,2ago2016,Asesinado,Sobre la carretera lo ejecutaron.,,https://www.eluniversal.com.mx/articulo/estados/2016/08/2/asesinan-alcalde-de-huehuetlan-el-grande-puebla
-97,Ambrosio Soto Duarte,PRD,Pungarabato,Guerrero,Alcalde,25jul2016,Asesinado,Emboscada para asesinarlo.,,https://www.eluniversal.com.mx/articulo/estados/2016/07/25/asesinan-alcalde-de-pungarabato
-98,Domingo López González,,San Juan Chamula,Chiapas,Alcalde,23jul2016,Asesinado,Lo disparan en presidencia y lo arrastra un grupo de pobladores de distintas comunidades por la plaza principal del municipio.,,https://www.elfinanciero.com.mx/nacional/asesinan-a-alcalde-de-san-juan-chamula
-99,Juan Antonio Mayén Saucedo,,Santa Ana Jilotzingo,EdoMex,Alcalde,22abr2016,Asesinado,,,https://www.eluniversal.com.mx/articulo/metropoli/edomex/2016/04/22/asesinan-alcalde-de-jilotzingo-en-edomex
-100,Gisela Mota Ocampo,PRD,Temixco,Morelos,Alcaldesa,2ene2016,Asesinado,,,http://ntrzacatecas.com/2016/01/03/asesinan-a-alcaldesa-de-temixco-morelos/
-101,Jesús Alvarado Hernández, ,San Pedro Sochiapam,Oaxaca,Alcalde,3nov2015,Accidente automovilístico,Muere junto a sus padres,,https://www.excelsior.com.mx/nacional/2015/11/03/1054907
-102,Javier Morales Prieto,,Tlapa,Guerrero,Alcalde electo,9jul2015,Problemas de salud,Paro cardiorrespitarotio,,https://www.eluniversal.com.mx/articulo/estados/2015/07/9/fallece-alcalde-electo-de-tlapa-guerrero
-103,Rogelio Sánchez Galán,PVEM,Jerécuaro,Guanajuato,Alcalde electo,24jun2015,Asesinado,Afuera de uno de sus negocios.,,https://www.excelsior.com.mx/nacional/2015/06/24/1031063
-104,Sadot Bello García,PRI,Copala,Guerrero,Alcalde,19jun2015,Problemas de salud,Muere por brincoaspiración,,https://www.20minutos.com.mx/noticia/26900/0/alcalde-copala/muere-en-acapulco/broncoaspiracion/
-105,Eduardo Morfin Contreras,PNA,Tizapan el Alto,Jalisco,Aspirante a alcalde,14jun2015,Asesinado,Creo que fue después de las elecciones.,,https://www.milenio.com/policia/asesinan-candidato-presidente-municipal-tizapan-alto
-106,Enrique Hernández Salcedo,MORENA,Yurécuaro,Michoacán,Aspirante a alcalde,14may2015,Asesinado,Durante pleno mitin político.,,https://www.animalpolitico.com/2015/05/antes-del-ataque-enrique-hernandez-habia-recibido-amenazas-acusa-morena/
-107,Ulises Fabián Quiroz,PRI-PVEM,Chilapa,Guerrero,Aspirante a alcalde,1may2015,Asesinado,En acto de campaña,,https://www.animalpolitico.com/2015/05/asesinan-a-candidato-del-pri-pvem-a-alcaldia-de-chilapa-guerrero/
-108,Manuel Gómez Torres,,Ayutla,Jalisco,Alcalde,3ago2014,Asesinado,,,https://www.animalpolitico.com/2014/08/asesinan-alcalde-de-ayutla-fiscalia-de-jalisco-liga-el-suceso-crimen-organizado/
-109,Gustavo Garibay García,PAN,Tanhuato,Michoacán,Alcalde,23mar2014,Asesinado,Ejecutado afuera de su domicilio.,,https://www.excelsior.com.mx/nacional/2014/03/23/949975
-110,Juan Ángel Castañeda Lizardo,,Sombrerete,Zacatecas,Alcalde,10feb2014,Accidente automovilístico,Fallece calcinado,,https://www.milenio.com/estados/muere-alcalde-de-sombrerete-zacatecas-en-accidente
-111,Epigmenio Rafael Aragón Luis,,San Pedro Totolapan,Oaxaca,Alcalde electo,5dic2013,Asesinado,,,https://www.jornada.com.mx/2013/12/06/estados/038n2est
-112,Ygnacio López Mendoza,,Santa Ana Maya,MIchoacán,Alcalde,9nov2013,Asesinado,Ya tenía amenazas del crimen organizado,,https://expansion.mx/nacional/2013/11/09/alcalde-asesinado-de-michoacan-queria-morir-como-murio-dice-su-hermano
-113,Filimón Carlos Robles Díaz,,Tepetongo,Zacatecas,Alcalde,30sep2013,Suicidio,Tenía 16 días de haber asumido el puesto.,,https://www.info7.mx/nacional/a-16-dias-de-asumir-el-cargo-se-suicida-alcalde-de-tepetongo-zacatecas/686927
-114,Everardo Hugo Hernández,,San Andrés Cabecera Nueva,Oaxaca,Alcalde electo,11sep2013,Asesinado,,,https://revistadebate.com.mx/?p=667
-115,Ernesto Rodríguez Rodríguez,,Juchipila,Zacatecas,Alcalde,16ago2013,Problemas de salud,Fallece por cáncer de riñón ,,http://ntrzacatecas.com/2013/08/16/muere-alcalde-de-juchipila/
-116,Gerónimo Manuel García Rosas,,Aquila,Veracruz,Alcalde,22jul2013,Asesinado,Ejecutado por comandante de policia preventiva,,https://zonafranca.mx/radar/comandante-de-policia-preventiva-asesina-a-alcalde-de-aquila-veracruz-geronimo-manuel-garcia-rosas/
-117,Ricardo Reyes Zamudio,,San Dimas,Durango,Aspirante a alcalde,1jul2013,Asesinado,Fue secuestrado y despues hallado muerto,,https://www.20minutos.com.mx/noticia/5812/0/asesinan/candidato-alcalde/durango/
-118,Jaime Orozco Madrigal,,Guadalupe y Calvo,Chihuahua,Aspirante a alcalde,13jun2013,Asesinado,,,https://www.cronica.com.mx/notas/2013/760754.html
-119,Celestino Felix Vásquez Luis,,San Miguel Tilquiapam,Oaxaca,Alcalde,4jun2013,Asesinado,Afuera de su casa lo ejecutan.,,https://planoinformativo.com/261284/asesinan-a-alcalde-de-san-miguel-tilquiapam-oaxaca-nacionales
-120,José René Garrido Rocha,,San Salvador el Verde,Puebla,Alcalde,19abr2013,Asesinado,Entran a su casa a asaltar y lo ejecutan con balazo en la cabeza,,https://intoleranciadiario.com/articles/2013/04/20/108180-matan-a-presidente-municipal-de-san-salvador-el-verde.html
-121,Joel Cebada Bernal,,Nogales,Veracruz,Alcalde con licencia,14abr2013,Problemas de salud,"Insuficiencia renal aguda secundaria a una sepsis abdominal, neumonía bilateral.",,http://www.orizabaenred.com.mx/cgi-bin/web?b=VERNOTICIA&amp;%7Bnum%7D=104877
-122,Feliciano Martínez Bautista,,San Juan Mixtepec,Oaxaca,Alcalde,25mar2013,Asesinado,Lo emboscaron en una carretera.,,https://www.elsiglodetorreon.com.mx/noticia/852878.emboscan-y-asesinan-a-edil.html
-123,Eliud Cervantes Ramírez,,Catemaco,Veracruz,Alcalde,11feb2013,Problemas de salud,Falla cardiaca,,https://www.eleconomista.com.mx/politica/Muere-presidente-municipal-de-Catemaco-20130211-0055.html
-124,Leobardo Díaz Estrada,,Urique,Chihuahua,Alcalde,7feb2013,Accidente automovilístico,"Cae a un barranco de 200 mts. Existen versiones de que fue asesinado y decapitado en su vehículo, la versión oficila fue un accidente.",,https://mvsnoticias.com/noticias/estados/muere-alcalde-de-chihuahua-al-caer-su-vehiculo-en-un-barranco-130/
-125,Wilfrido Flores Villa,,Nahuatzen,Michoacán,Alcalde provisional,5feb2013,Asesinado,Atacado por grupo armado,,https://diarioimagenqroo.mx/noticias/?p=39458
-126,Félix San Juan Rebollar,,San Baltazar Chichicapam,Oaxaca,Alcalde,6ene2013,*,"No se cuenta con mayor información, no pude validar de otra fuente la muerte.",,https://oaxaca.quadratin.com.mx/Condolencias-del-PRD-por-fallecimiento-del-Edil-de-Chichicapam/
-127,Salomón Domínguez Jiménez,,San Juan Lajarcia,Oaxaca,Alcalde,19nov2012,Accidente automovilístico,,,https://oaxaca.quadratin.com.mx/Edil-de-San-Juan-Lajarcia-fallece-en-accidente-automovilistico/
-128,Ignacio Rodríguez Villa,,Nahuatzen,Michoacán,Alcalde,29sep2012,Problemas de salud,Leucemia gástrica,,https://www.quadratin.com.mx/sucesos/Fallecio-el-alcalde-de-Nahuatzen-Ignacio-Rodriguez-Villa/
-129,Édgar Morales Pérez,,Matehuala,San Luís Potosí,Alcalde electo,12ago2012,Asesinado,,,https://www.animalpolitico.com/2012/08/asesinan-a-alcalde-electo-del-pri-en-san-luis-potosi/
-130,Pedro Filemón Luis Hernández,,Tilquiapam,Oaxaca,Alcalde suplente,2ago2012,Asesinado,,,https://www.razon.com.mx/mexico/asesinan-a-alcalde-suplente-de-tilquiapam-oaxaca/
-131,Teodoro Castillo Durán,,General Heliodoro Castillo,Guerrero,Aspirante a alcalde,3jul2012,Problemas de salud,Hizo campaña después de operación y murió,,https://www.elmanana.com/fallece-candidato-del-pan-alcaldia-guerrero/1678965
-132,Ricardo Guzmán Romero,,La Piedad,Michoacán,Alcalde,2nov2011,Asesinado,,,https://www.excelsior.com.mx/2011/11/03/nacional/779596
-133,Fortino Cortés Sandoval,,Florencia,Zacatecas,Alcalde,28jul2011,Asesinado,Había sido secuestrado y se encontró al día siguiente.,,https://www.animalpolitico.com/2011/07/secuestran-a-alcalde-en-zacatecas/
-134,Rafael Gómez García,,Guadalupe,Zacatecas,Alcalde,17mar2011,Accidente automovilístico,,,https://www.eleconomista.com.mx/estados/Muere-edil-de-Zacatecas-en-accidente-automovilistico-20110317-0131.html
-135,Luis Jiménez Mata,,Santiago Amoltepec,Oaxaca,Alcalde,13ene2011,Asesinado,,,https://www.animalpolitico.com/2011/01/asesinan-a-edil-en-oaxaca/
-136,Abraham Ortiz Rosales,,Temoac,Morelos,Alcalde,10ene2011,Asesinado,,,https://www.jornada.com.mx/2011/01/14/estados/031n1est
-137,Saúl Vara Rivera,,Zaragoza,Coahuila,Alcalde,8ene2011,Asesinado,,,https://archivo.eluniversal.com.mx/primera/36157.html
-138,Gregorio Barradas Miravete,,Juan Rodríguez Clara,Veracruz,Alcalde electo,8nov2010,Asesinado,Lo levantaron y asesinaron.,,https://www.jornada.com.mx/2010/11/09/politica/014n3pol
-139,Jaime Lozoya Ávila,,San Bernanrdo,Durango,Alcalde,6nov2010,Asesinado,Fue golpeado al robarle sus pertenencias y llega al hospital a morir por las heridas.,,https://www.jornada.com.mx/2010/11/07/estados/032n1est
-140,Gustavo Sánchez Cervantes,,Tancítaro,Michoacán,Alcalde interino,27sep2010,Asesinado,,,https://rpp.pe/mundo/actualidad/violencia-en-mexico-asesinan-a-alcalde-gustavo-sanchez-noticia-298361
-141,Prisciliano Rodríguez Salinas,,Dr. González,Nuevo León,Alcalde,23sep2010,Asesinado,,,https://www.info7.mx/locales/asesinan-a-alcalde-de-dr-gonzalez/494275
-142,Alexánder García López,,El Naranjo,San Luís Potosí,Alcalde,8sep2010,Asesinado,,,https://www.jornada.com.mx/2010/09/09/politica/014n1pol
-143,Edelmiro Cavazos Leal,,Santiago,Nuevo León,Alcalde,18ago2010,Asesinado,Secuestrado y asesinado. Se le adjudicó a Los Zetas el atentado,,https://www.jornada.com.mx/2010/08/19/politica/010n1pol
-144,Rogelio Pérez Arrambide,,Pesquería,Nuevo León,Alcalde,25jul2010,Problemas de salud,Infarto,,https://www.horacero.com.mx/nacional/muere-de-un-infarto-el-presidente-municipal-de-pesqueria-nuevo-leon/
-145,José Manuel Maldonado,,Piedras Negras,Coahuila,Alcalde,7jul2010,Accidente vehicular,Avionazo,,https://www.eleconomista.com.mx/politica/Muere-alcalde-de-Piedras-Negras-en-avionazo--20100707-0090.html
-146,Nicolás García Ambrosio,,Santo Domingo de Morelos,Oaxaca,Alcalde,1jul2010,Asesinado,Presunto asalto,,http://www.panoramadelpacifico.com/asesinan-al-presidente-municipal-y-sindico-en-santo-domingo-de-morelos/
-147,Óscar Venancio Martínez Rivera ,,San José del Progreso,Oaxaca,Alcalde,21jun2010,Asesinado,Atacado por defensores del territorio según la PGR,,https://www.informador.mx/Mexico/Alcalde-oaxaqueno-muere-en-emboscada-20100621-0226.html
-148,Jesús Manuel Lara Rodríguez,,Guadalupe Distrito Bravos,Chihuahua,Alcalde,20jun2010,Asesinado,,,http://www.cronica.com.mx/notas/2010/513772.html
-149,Mario Guajardo Varela,,Valle Hermoso,Tamaulipas,Aspirante a alcalde,13may2010,Asesinado,,,http://www.laprensa.mx/notas.asp?id=13230
-150,José Santiago Agustín,,Zapotitlán Tablas,Guerrero,Alcalde,28abr2010,Asesinado,,,https://www.eleconomista.com.mx/noticia/Ejecutan-a-alcalde-del-PRI-en-Guerrero--20100428-0046.html
-151,Manuel Estrada Escalante,,El Mezquital,Durango,Alcalde,23feb2010,Asesinado,,,https://www.elsiglodetorreon.com.mx/noticia/502840.matan-al-alcalde-de-el-mezquital.html
-152,Ramón Mendívil Sotelo,,Guadalupe y Calvo,Chihuahua,Alcalde,18feb2010,Asesinado,,,https://www.jornada.com.mx/2010/02/18/politica/008n1pol
-153,Miguel Ángel Nicolás Mata,,San Pedro Totolapan,Oaxaca,Alcalde,6ago2009,Accidente automovilístico,Muere calcinado,,http://www.panoramadelpacifico.com/presidente-municipal-muere-calcinado-en-puerto-escondido/
-154,Ariel Meixueiro Muñoz,,Namiquipa,Chihuahua,Alcalde,15jul2009,Asesinado,,,https://planoinformativo.com/50963/ejecutan-a-presidente-municipal-de-namiquipa-chihuahua-nacionales
-155,Octavio Manuel Carrillo,,Vista Hermosa,Michoacán,Alcalde,25feb2009,Asesinado,,,https://www.informador.mx/Mexico/Sicarios-matan-al-alcalde-de-Vista-Hermosa-Michoacan-20090225-0201.html
-156,Salvador Vergara Cruz,,Ixtapan de la Sal,EdoMex,Alcalde,6oct2008,Asesinado,15 disparos sobre el presidente,,https://www.proceso.com.mx/nacional/2008/10/6/asesinan-al-alcalde-de-ixtapan-de-la-sal-28388.html
-157,Homero Lorenzo Ríos,,Ayutla de los Libres,Guerrero,Alcalde con licencia,26sep2008,Asesinado,"Buscaba una diputación local, por lo que pidió licencia",,https://www.elsiglodetorreon.com.mx/noticia/381606.asesinan-a-candidato-del-prd-en-guerrero.html
-158,Marcelo Ibarra Villa,,Villa Madero,Michoacán,Alcalde,3jun2008,Asesinado,,,https://www.jornada.com.mx/2008/06/03/index.php?section=estados&amp;article=033n1est
-159,Delia Garza Gutiérrez,,San Fernando,Tamaulipas,Alcaldesa,20jul2007,Problemas de salud,Cáncer,,https://www.cronica.com.mx/notas/2007/312931.html
-160,Walter Herrera Ramírez,,Huimanguillo,Tabasco,Alcalde,16nov2006,Asesinado,Presuntamente implicado en el narco,,https://www.jornada.com.mx/2006/11/16/index.php?section=estados&amp;article=038n1est
-161,Raúl Delgado Benavides,,Cuautitlán de García Barragán,Jalisco,Alcalde,16jul2006,Asesinado,Acribillado,,https://www.cronica.com.mx/notas/2006/251407.html
-162,Neguib Tadeo Manríquez Madariaga,,Ixteoec,Oaxaca,Alcalde,14ene2006,Asesinado,,,https://www.jornada.com.mx/2006/01/14/index.php?section=sociedad&amp;article=039n1soc
-163,Fernando Chávez López,,Buena Vista Tomatlán,Michoacán,Alcalde,9jul2005,Asesinado,,,https://wradio.com.mx/radio/2005/07/09/nacional/1120929480_186153.html
-164,Guadalupe Ávila Salinas,,San José Estancia Grande,Oaxaca,Aspirante a alcaldesa,27sep2004,Asesinado,,,https://cimacnoticias.com.mx/noticia/asesinan-a-candidata-perredista-en-oaxaca/
-165,Mario Sostenes Lozano Camacho,,San Sebastián Tecomaxtlahuaca,Oaxaca,Alcalde,13jul2004,Asesinado,Muere en trifulca,,https://www.proceso.com.mx/nacional/2004/7/14/muere-un-alcalde-oaxaqueno-en-una-trifulca-59626.html
-166,Cecilio Amador Cuauhtle,,Contla de Juan Cuamatzi,Tlaxcala,Alcalde,14feb2004,Accidente automovilístico,Mueren los dos alcaldes de Tlxcala juntos.,,https://www.proceso.com.mx/nacional/2004/2/14/fallecen-dos-alcaldes-de-tlaxcala-en-accidente-vial-56476.html
-167,Pedro Rojas Pérez,,Santa Cruz Quilehtla,Tlaxcala,Alcalde,14feb2004,Accidente automovilístico,Mueren los dos alcaldes de Tlxcala juntos.,,https://www.proceso.com.mx/nacional/2004/2/14/fallecen-dos-alcaldes-de-tlaxcala-en-accidente-vial-56476.html
-168,Carlos Filemón Kuk y Can,,Motul,Yucatán,Alcalde,28jul2003,Accidente automovilístico,"Chocó el 12 de junio, y estuvo en coma hasta su muerte.",,https://www.proceso.com.mx/nacional/2003/7/29/yucatan-fallece-el-alcalde-que-impuso-toque-de-queda-78020.html
-169,Oscar Zúñiga Quiroz,,Mier y Noriega,Nuevo León,Alcalde,15mar2002,Accidente automovilístico,Cae a un barranco de 50 mt.,,https://www.proceso.com.mx/nacional/estados/2002/3/15/muere-en-circunstancias-extranas-el-edil-de-nuevo-leon-65159.html
+1,JUAN MANUEL RODRIGUEZ RODRIGUEZ,,Tulcingo del Valle,Puebla,Alcalde,26oct2020,COVID-19,,Corte 5nov2020,https://heraldodemexico.com.mx/nacional/2020/10/26/muere-tercer-alcalde-de-covid-19-en-puebla-219079.html
+2,HECTOR FELIPE HERNANDEZ GONZALEZ,,San Agustín Tlaxiaxa,Hidalgo,Alcalde electo,25oct2020,COVID-19,,,https://hemeroteca.elsiglodedurango.com.mx/noticia/1258871.fallece-de-covid-19-felipe-hernandez-alcalde-electo-de-municipio-en-hidalgo.html
+3,TOMAS GARCIA CERON,,San Agustín Tlaxiaca,Hidalgo,Aspirante a alcalde,8oct2020,COVID-19,,,https://www.eluniversal.com.mx/estados/por-covid-muere-candidato-alcalde-en-hidalgo
+4,CARLOS MARIO ORTIZ SANCHEZ,,Salvador Alvarado,Sinaloa,Alcalde,7oct2020,COVID-19,Sufrió de recontagio y no sobrevivió,,https://www.eluniversal.com.mx/estados/fallece-por-covid-19-alcalde-en-sinaloa-era-la-segunda-vez-que-se-infectaba
+5,ROBERTO ARRIAGA COLIN,,Ocampo,Michoacán,Alcalde,5oct2020,COVID-19,,,https://www.adn40.mx/mexico/nota/notas/2020-10-05-21-18/muere-el-alcalde-de-ocampo-michoacan-por-covid-19
+6,HECTOR CARRASCO MARQUEZ,,Venustiano Carranza,Puebla,Alcalde suplente,3oct2020,COVID-19,,,https://intoleranciadiario.com/articles/2020/10/03/967739-por-covid-19-muere-alcalde-de-venustiano-carranza.html
+7,CARLOS IGNACIO BELTRAN BENCOMO,,Temósachic,Chihuahua,Alcalde,30sep2020,Asesinado,Primero lo habían secuertado y lo encuentran con dos disparos en la cabez,,https://www.elfinanciero.com.mx/estados/asesinan-a-alcalde-de-temosachic-chihuahua
+8,PEDRO MODESTO SANTOS,,Santa Cruz Xitla,Oaxaca,Alcalde,24sep2020,COVID-19,,,https://www.sopitas.com/noticias/muere-covid-19-alcalde-santa-cruz-xitla-oaxaca/
+9,TOMAS PRIMO NEGRETE,PRI,Tonanitla,México,Alcalde,30ago2020,COVID-19,Muere internado con infarto,,https://www.eluniversal.com.mx/metropoli/muere-alcalde-de-tonanitla-por-covid-19
+10,MARCO ANTONIO LEAL GARCIA,,Hidalgo,Tamaulipas,Alcalde,28ago2020,Asesinado,,,https://archivo.eluniversal.com.mx/primera/35464.html
+11,SIMON URSINO BARZAN,,San Simón Zahuatlán,Oaxaca,Alcalde,26ago2020,Accidente automovilístico,,,https://www.contrareplica.mx/nota-Muere-alcalde-de-San-Simon-Zahuatlan-Oaxaca-en-accidente-automovilistico-20202680
+12,VICTORINO GOMEZ MARTINEZ,,San Bartolomé Quialana,Oaxaca,Alcalde,25ago2020,COVID-19,,,https://www.milenio.com/estados/coronavirus-oaxaca-muere-septimo-presidente-municipal
+13,MIGUEL ANGEL ANTONIO VAZQUEZ,,General Felipe Ángeles,Puebla,Alcalde,24ago2020,COVID-19,,,https://www.milenio.com/politica/gobierno/edil-felipe-angeles-puebla-fallecio-coronavirus
+14,PEDRO ESCARCEGA PEREZ,,Santiago Jocotepec,Oaxaca,Alcalde,21ago2020,COVID-19,Muere en IMSS al estar intubado.,,https://www.infobae.com/america/mexico/2020/08/22/pedro-escarcega-perez-alcalde-de-santiago-jocotepec-oaxaca-murio-por-covid-19/
+15,ALFREDO JUAREZ DIAZ,,Matías Romero,Oaxaca,Alcalde,18ago2020,COVID-19,Entró al hospital y lo habían dado de alta. Muere en su casa.,,https://www.excelsior.com.mx/nacional/muere-alcalde-de-matias-romero-por-covid-19/1400595
+16,VICTORIA RASGADO PEREZ,,Moloacán,Veracruz,Alcaldesa,9ago2020,COVID-19,,,
+17,ARTEMIO ORTIZ RICARDEZ,,Tamazulapan del Espíritu Santo,Oaxaca,Alcalde,5ago2020,COVID-19,Presidente por usos y costumbres,,
+18,JUAN MANUEL VALENCIA LOPEZ,,Santiago Alseseca,Puebla,Alcalde auxiliar,24jul2020,Problemas de salud,Del municipio de Tecamachalco. Presunto COVID-19,,https://contraparte.mx/municipios/39646-muere-edil-auxiliar-de-santiago-alseseca-por-complicaciones-respiratorias.html
+19,RIGOBERTO JAVIER TUN SALAS,,Samahil,Yucatán,Alcalde,19jul2020,COVID-19, ,,
+20,FERNANDO BAUTISTA DAVILA,,San Juan Bautista Tuxtepec,Oaxaca,Alcalde,16jul2020,COVID-19, ,,
+21,IRMA DELIA BARCENA VILLA,,Miahuatlán,Veracruz,Alcaldesa,16jul2020,COVID-19, ,,
+22,FAUSTINO CARIN MOLINA CASTILLO,,Amaxac de Guerrero,Tlaxcala,Alcalde,12jul2020,COVID-19, ,,
+23,REYNA MARLENE DE LOS ANGELES CATZIN CIH,,Maxcanú,Yucatán,Alcaldesa,9jul2020,COVID-19,Le dio un infarto,,https://www.yucatan.com.mx/merida/fallece-la-alcaldesa-de-maxcanu-de-infarto-al-parecer-padecia-covid-19
+24,JOSUE ANTONIO GARCIA RODRIGUEZ,,Vanegas,San Luís Potosí,Alcalde,8jul2020,COVID-19,,,
+25,FLORENCIO SAN GERMAN SANTIAGO ,,San Baltazar Chichicapam,Oaxaca,Alcalde,28jun2020,COVID-19,,,
+26,GERARDO TIRSO ACAHUA APALE,,Coetzala,Veracruz,Alcalde,28jun2020,COVID-19,,,https://eldemocrata.com/fallece-alcalde-de-coetzala-por-complicaciones-de-covid-19/
+27,JOSE HUMBERTO ARELLANO,,Acaponeta,Nayarit,Alcalde,17jun2020,COVID-19,,,
+28,RIGOBERTO GONZALEZ PACHECO,,Bacoachi,Sonora,Alcalde,16jun2020,COVID-19,,,
+29,GONZALO MUÑOZ CRUZ,PRD,Zacatelo,Tlaxcala,Aspirante a alcalde,15jun2020,COVID-19,,,https://tlaxcala.quadratin.com.mx/principal/muere-de-posible-covid-19-gonzalo-munoz-aspirante-a-la-alcaldia-de-zacatelco/
+30,JAVIER SANTIAGO RUIZ ,,Reyes Etla,Oaxaca,Alcalde,15jun2020,COVID-19,,,https://oaxaca.eluniversal.com.mx/municipios/15-06-2020/muere-edil-de-reyes-etla-con-sintomas-de-covid-19-familia-niega-contagio
+31,MARCOS DE LA CRUZ HERNANDEZ,,Xochiatipan,Puebla,Aspirante a alcalde,14jun2020,Asesinado,,,https://hidalgo.quadratin.com.mx/sucesos/muere-aspirante-a-alcalde-de-xochiatipan-tras-ser-baleado-en-puebla/
+32,SERGIO ANGUIANO MELENDEZ,,Coyotepec,México,Alcalde,8jun2020,COVID-19,,,https://www.elsoldetoluca.com.mx/local/fallece-alcalde-de-coyotepec-por-covid-19-5335736.html
+33,ARMANDO PORTUGUEZ FUENTES,PRD,Tultepec,México,Alcalde,23may2020,Problemas de salud,Posible infarto,,https://www.elfinanciero.com.mx/estados/muere-armando-armando-portuguez-alcalde-de-tultepec
+34,JOSE ESTEBAN CORTES TORRES,,San Cosme Mazatecochco,Tlaxcala,Alcalde,15may2020,COVID-19,,,https://www.milenio.com/politica/comunidad/coronavirus-en-tlaxcala-muere-alcalde-de-mazatecochco
+35,JAVIER MARAVILLA MORALES,,San Baltazar Tetela,Puebla,Alcalde auxiliar con licencia,9abr2020,Problemas de salud,Derrame cerebral,,https://mtpnoticias.com/municipios/muere-edil-auxiliar-de-san-baltazar-tetela-habia-pedido-licencia-al-cargo-en-marzo/
+36,OBED DURON GOMEZ,,Mahahual,Quintana Roo,Alcalde,6abr2020,Asesinado,,,https://www.razon.com.mx/estados/muere-alcalde-de-mahahual-tras-atentado/
+37,OSCAR GURRIA PENAGOS,,Tapachula,Chiapas,Alcalde,20feb2020,Problemas de salud,Infarto,,https://www.milenio.com/estados/chiapas-muere-alcalde-tapachula-oscar-gurria-penagos
+38,FELIX ALBERTO LINARES,,Ocuilan,México,Alcalde,4ene2020,Accidente vehicular,Se estrelló en una aeronave,,https://politica.expansion.mx/estados/2020/01/04/alcalde-de-ocuilan-edomex-muere-en-el-desplome-de-avioneta
+39,ARTURO GARCIA VELAZQUEZ,,Jalapa de Díaz,Oaxaca,Alcalde,23dic2019,Asesinado,,,https://www.animalpolitico.com/2019/12/asesinan-alcalde-jalapa-diaz-oaxaca/
+40,TRINIDAD FLORES ALTAMIRANO,,Tochimilco,Puebla,Auxiliar,23dic2019,Accidental propia,Presidente auxiliar de la Magdalena Yancuitlalpan. Se cae y da un golpe en la cabeza,,https://www.zocalo.com.mx/new_site/articulo/muere-alcalde-auxiliar-al-intentar-colocar-una-pinata-en-puebla
+41,FRANCISCO TENORIO CONTRERAS,,Valle de Chalco,México,Alcalde,29oct2019,Asesinado,"No se pudo recuperar del disparo en la cabeza, muerte cerebral",,https://www.elsoldetoluca.com.mx/local/muere-francisco-tenorio-contreras-alcalde-de-valle-de-chalco-4401311.html
+42,RAYMUNDA CHE PECH,,Kantunil,Yucatán,Alcaldesa,6oct2019,Problemas de salud,Muere en el hospital después de desvanecerse en casa,,https://www.elfinanciero.com.mx/nacional/muere-raymunda-che-pech-alcaldesa-de-kantunil-yucatan
+43,CARMELA PARRAL SANTOS,,San José Estancia Grande,Oaxaca,Alcaldesa,16ago2019,Asesinado,,,https://www.elsoldemexico.com.mx/republica/justicia/asesinan-a-carmela-parral-santos-alcaldesa-de-san-jose-estancia-grande-en-oaxaca-4052436.html
+44,IGNACIO PEREZ GIRON,,Aldama,Chiapas,Alcalde,6may2019,Asesinado,Desaparecido desde el 4 de mayo.,,https://www.elsoldemexico.com.mx/republica/sociedad/encuentran-muerto-a-ignacio-perez-giron-alcalde-de-aldama-chiapas-3580189.html
+45,MARICELA VALLEJO OREA,MORENA,Mixtla de Altamirano,Veracruz,Alcaldesa,25abr2019,Asesinado,"Ya había expuesto amenazas, se salió de MORENA, la asesianan con su esposo.",,https://www.excelsior.com.mx/nacional/matan-a-alcaldesa-en-veracruz-gobernaba-mixtla-de-altamirano/1309345
+46,DAVID EDUARDO OTLICA AVILES,,Nahuatzen,Michoacán,Alcalde,23abr2019,Asesinado,Secuestro y torturado,,https://primerplanoweb.com.mx/?p=19350
+47,OSCAR PIMENTEL UGARTE,,Atoyac,Veracruz,Suplente,16abr2019,Asesinado,Secuestro y asesinado a balazos,,https://www.sinembargo.mx/16-04-2019/3567324
+48,ALEJANDRO APARICIO SANTIAGO,MORENA,Tlaxiaco,Oaxaca,Alcalde,1ene2019,Asesinado,Acababa de tomar protesta hace menos de 2 horas.,,https://www.excelsior.com.mx/nacional/asesinan-a-otro-alcalde-de-morena-suman-dos-electos-el-1-de-julio/1287956
+49,OLGA GABRIELA KOBEL LARA ,,Juárez,Coahuila,Alcaldesa,17dic2018,Asesinado,,,https://www.alcaldesdemexico.com/notas-principales/localizan-a-gabriela-kobel-alcaldesa-de-juarez-coahuila/
+50,JESUS BERNARDO TORRES GARCIA,PRD,Santiago Suchiquitongo,Oaxaca,Alcalde,30oct2018,Problemas de salud,Neumonía severa,,https://imparcialoaxaca.mx/los-municipios/237975/muere-edil-de-suchilquitongo-oaxaca-de-neumonia-severa/
+51,ZOTICO GOMEZ BAUTISTA,,Santiago Tetepec,Oaxaca,Alcalde,20sep2018,Accidente automovilístico,,,https://www.excelsior.com.mx/nacional/zotico-gomez-alcalde-de-tetepec-muere-en-accidente-de-auto/1266350
+52,DANIEL ESTEBAN GONZALEZ,,Cochoapa El Grande,Guerrero,Alcalde electo,10sep2018,Asesinado,Desaparecido y encontrado muerto el 8 de enero de 2020.,,https://www.elsoldemexico.com.mx/republica/justicia/identifican-restos-humanos-de-alcalde-electo-de-cochoapa-guerrero-violencia-inseguridad-estado-policiada-nacional-4675051.html
+53,FELIX AGUILAR CABALLERO,PVEM,Nopalucan de la Granja,Puebla,Alcalde electo,4sep2018,Asesinado,Presunta relación con el huachicol,,https://www.unotv.com/noticias/estados/puebla/detalle/asesinan-a-alcalde-electo-en-puebla-fue-vinculado-con-huachicoleros-486029/
+54,JORGE LUIS GARCIA VERA,PNA,Villanueva,Zacatecas,Alcalde,11ago2018,Accidente automovilístico,Cae a un barranco de 20 mt.,,https://www.eluniversal.com.mx/estados/alcalde-de-villanueva-zacatecas-muere-en-accidente-automovilistico
+55,ELISEO DELGADO SANCHEZ,MORENA,Buenavista Tomatlán,Michoacán,Alcalde electo,20jul2018,Asesinado,Lo matan en un restaurante. Su sustituta renunció también.,,https://www.alcaldesdemexico.com/notas-principales/asesinan-a-alcalde-electo-de-buenavista-tomatlan-michoacan/
+56,ROBERTO GUSTAVO GONZALEZ HINOJOSA,PAN,Ciudad Mier,Tamaulipas,Alcalde reelecto,13jul2018,Asesinado,Lo secuetran un día antes de su muerte.,,https://criteriohidalgo.com/destacado/localizan-a-alcalde-de-ciudad-mier
+57,GENARO NEGRETE URBANO,,Naupan,Puebla,Alcalde,5jul2018,Asesinado,Secuestrado y encontrado muerto el 7 de agosto de 2018.,,https://lasillarota.com/asesinan-alcalde-secuestrado-naupan-puebla/239748
+58,VICTOR JOSE GUADALUPE DIAZ CONTRERAS,PRI,Tecalitlán,Jalisco,Alcalde,2jul2018,Asesinado,,,https://www.animalpolitico.com/2018/07/asesinan-alcalde-tecalitlan-jalisco/
+59,JAVIER UREÑA GONZALEZ,,Buenavista Tomatlán,Michoacán,Alcalde provisional,27jun2018,Asesinado,,,https://www.publimetro.com.mx/mx/noticias/2018/06/27/asesinan-alcalde-buenavista-michoacan.html
+60,FERNANDO ANGELES JUAREZ,PRD,Ocampo,Michoacán,Aspirante a alcalde,21jun2018,Asesinado,,,https://www.eluniversal.com.mx/elecciones-2018/asesinan-candidato-del-prd-en-michoacan-el-tercero-en-una-semana
+61,OMAR GOMEZ LUCATERO,Ind.,Aguililla,Michoacán,Aspirante a alcalde,20jun2018,Asesinado,,,https://www.elfinanciero.com.mx/elecciones-2018/asesinan-a-candidato-a-alcalde-de-aguililla-michoacan
+62,ALEJANDRO CHAVEZ ZAVALA,PAN-PRD-MC,Taretan,Michoacán,Aspirante a reelegirse,14jun2018,Asesinado,Muere llegando al hospital.,,https://www.excelsior.com.mx/nacional/asesinan-a-candidato-a-la-alcaldia-de-taretan-en-michoacan/1245464
+63,JOSE REMEDIOS AGUIRRE SANCHEZ,MORENA,Apaseo el Alto,Guanajuato,Aspirante a alcalde,11may2018,Asesinado,Asesinado en pleno acto de campaña.,,https://www.unotv.com/noticias/estados/guanajuato/detalle/asesinan-candidato-morena-en-guanajuato-560447/
+64,ABEL MONTUFAR MENDOZA,PRI,Coyuca de Catalán,Guerrero,Alcalde con licencia,8may2018,Asesinado,Encontrado en una camioneta. Candidato a dip. Local,,https://www.elsoldeacapulco.com.mx/policiaca/asesinan-a-candidato-del-pri-en-tierra-caliente-guerrero-1671644.html
+65,ALEJANDRO GONZALEZ RAMOS,PAN,Pacula,Hidalgo,Alcalde,3may2018,Asesinado,,,https://aristeguinoticias.com/0305/mexico/asesinan-a-alcalde-de-pacula-hidalgo/
+66,ADIEL ZERMANN MIGUEL,MORENA-PT-PES,Tenango del Aire,México,Aspirante a alcalde,3may2018,Asesinado,Desaparecido y hallado su cuerpo al día siguiente.,,https://www.eluniversal.com.mx/metropoli/edomex/asesinan-al-candidato-de-morena-alcaldia-en-edomex
+67,JUAN CARLOS ANDRADE MAGAÑA,MC,Jilotlán de los Dolores,Michoacán,Aspirante a reelegirse,15abr2018,Asesinado,,,https://www.elsoldemexico.com.mx/republica/politica/asesinan-a-edil-con-licencia-de-jilotlan-de-los-dolores-buscaba-la-reeleccion-1615578.html
+68,JOSE EFRAIN GARCIA GARCIA,PT,Tlanepantla,Puebla,Alcalde,12abr2018,Asesinado,,,https://www.eluniversal.com.mx/estados/asesinan-alcalde-de-tlanepantla-puebla
+69,GUSTAVO MARTIN GOMEZ ALVAREZ,PRI,Francisco Z. Mena,Puebla,Aspirante a alcalde,16mar2018,Asesinado,Ejecutado en un restaurante.,,https://www.excelsior.com.mx/nacional/2018/03/16/1226743
+70,HOMERO BRAVO ESPINO,PRD,Zihuatanejo,Guerrero,Preaspirante a alcalde,3mar2018,Asesinado,,,https://www.eluniversal.com.mx/estados/asesinan-precandidato-del-prd-para-alcaldia-de-zihuatanejo
+71,AARON VARELA MARTINEZ,MORENA,Santa Clara Ocoyucan,Puebla,Preaspirante a alcalde,1mar2018,Asesinado,,,https://www.diariodemexico.com/asesinan-candidato-de-morena-en-puebla
+72,ANTONIA JAIMES MOCTEZUMA,PRD,Chilapa,Guerrero,Preaspirante a alcalde,21feb2018,Asesinado,,,https://www.eluniversal.com.mx/estados/asesinan-precandidata-del-prd-en-guerrero
+73,FRANCISCO ROJAS,PRI,Cuautitlán Izcalli,México,Preaspirante a alcalde,6feb2018,Asesinado,Dip. Federal con licencia,,https://www.eluniversal.com.mx/metropoli/fallece-francisco-rojas-precandidato-del-pri-en-cuautitlan-izcalli
+74,SALVADOR AGUILAR GARCIA,PRI,Cohetzala,Puebla,Alcalde,29ene2018,Accidente automovilístico,Muere en hospital por falla orgánica múltiple,,https://tribunanoticias.mx/muere-el-edil-de-cohetzala-tras-sufrir-accidente/
+75,ARTURO GOMEZ PEREZ,,Petatlán,Guerrero,Alcalde,29dic2017,Asesinado,Ejecutado en un restaurante.,,https://regeneracion.mx/asesinan-a-alcalde-perredista-de-petatlan-guerrero/
+76,SERGIO ANTONIO ZENTENO ALBORES,,Bochil,Chiapas,Alcalde,18dic2017,Asesinado,,,https://noticieros.televisa.com/ultimas-noticias/asesinan-alcalde-bochil-tuxtla-gutierrez-chiapas/
+77,JOSE SANTOS HERNANDEZ,,San Pedro El Alto,Oaxaca,Alcalde,8dic2017,Asesinado,,,https://www.eluniversal.com.mx/estados/asesinan-presidente-municipal-de-san-pedro-el-alto-oaxaca
+78,VICTOR MANUEL ESPINOZA TOLENTINO,,Ixhuatlán de Madero,Veracruz,Alcalde,25nov2017,Asesinado,Ejecutan a su esposa y tres colaboradores más.,,https://www.excelsior.com.mx/nacional/2017/11/25/1203458
+79,SANTANA CRUZ BAHENA,,Hidalgotitlán,Veracruz,Alcalde electo,20nov2017,Asesinado,Ejecutado afuera de su domicilio.,,https://www.eluniversal.com.mx/estados/asesinan-alcalde-electo-de-hidalgotitlan-veracruz
+80,CRISPIN GUTIERREZ MORENO,,Ixtlahuacán,Colima,Alcalde,20oct2017,Asesinado,Ejecutado en su vehículo,,https://www.proceso.com.mx/508206/asesinan-al-presidente-municipal-ixtlahuacan-colima
+81,MANUEL HERNANDEZ PASION,,Huitzilan de Serdán,Puebla,Alcalde,10oct2017,Asesinado,Ejecutado en su vehículo,,https://www.animalpolitico.com/2017/10/asesinan-alcalde-huitzilan-puebla/
+82,STALIN SANCHEZ GONZALEZ,PRD,Paracho,Michoacán,Alcalde,6oct2017,Asesinado,Ejecutado afuera de su domicilio.,,https://www.eluniversal.com.mx/estados/asesinan-alcalde-de-paracho-michoacan
+83,JUAN SANTOS VASQUEZ,,San Esteban Amatlán,Oaxaca,Alcalde,4sep2017,Accidente vehicular,"Auto le chocó en su moto, no seobrebivió a las lesiones en el hospital. Estuvo desde el 27 de agosto hospitalizado.",,https://www.nvinoticias.com/nota/69395/muere-atropellado-alcalde-de-san-esteban-amatlan-oaxaca
+84,EDGAR GIL YOGUEZ,,Venustiano Carranza,Michoacán,Alcalde,26ago2017,Problemas de salud,,,https://www.quadratin.com.mx/principal/fallece-edil-venustiano-carranza/
+85,HUGO CASTRO ROSADO,PAN-PRD,La Antigua,Veracruz,Alcalde electo,20ago2017,Problemas de salud,"Padecia del higado y sufrió trombosis, muere en hospital",,https://www.alcalorpolitico.com/informacion/tras-problemas-de-salud-fallece-alcalde-electo-de-la-antigua-242639.html#.X1J1eGdKgzU
+86,IRMA CAMACHO GARCIA ,,Temixco,Morelos,Alcaldesa suplente,18jul2017,Problemas de salud,Entró en funciones debido a que asesinador a la alcaldesa tiutlar al día de haber tomado protesta.,,https://www.proceso.com.mx/495439/fallece-la-alcaldesa-suplente-temixco-irma-camacho-garcia
+87,DEMETRIO JAIME MARTINEZ BENITEZ,,San Mateo Sindihui,Oaxaca,Alcalde,29jun2017,Asesinado,Enfrentamiento con vecinos por conflicto agrario.,,https://www.debate.com.mx/ahora/Asesinan-a-alcalde-de-Oaxaca-por-conflicto-agrario-20170630-0263.html
+88,AURELIO CORTEZ AGUIRRE,,Santa María la Asunción,Oaxaca,Alcalde,17may2017,Problemas de salud,Hemorragia por úlcera gástrica,,http://www.tvbus.tv/web/2017/05/17/fallece-aurelio-cortes-presidente-municipal-santa-maria-la-asuncion/
+89,ALEJANDRO HERNANDEZ SANTOS,,San Bartolomé Loxicha,Oaxaca,Alcalde,28abr2017,Asesinado,,,https://www.eluniversal.com.mx/articulo/estados/2017/04/28/asesinan-edil-de-san-bartolome-loxicha-oaxaca
+90,FERNANDO ALVARO GOMEZ,PAN,Santiago Tianguistenco,México,Alcalde,25mar2017,Problemas de salud,Infarto,,https://www.milenio.com/politica/muere-de-un-infarto-alcalde-de-santiago-tianguistenco
+91,MARTHA ELVIA FERNANDEZ SANCHEZ,PRI,Cuautitlán,México,Alcaldesa con licencia,5mar2017,Problemas de salud,Cáncer,,https://www.eluniversal.com.mx/articulo/metropoli/edomex/2017/03/6/lamentan-muerte-de-alcaldesa-con-licencia-de-cuautitlan
+92,ANTOLIN VITAL MARTINEZ,,Tepexco,Puebla,Alcalde,24ene2017,Asesinado,,,https://www.animalpolitico.com/2017/01/asesinan-edil-tepexco-puebla/
+93,JOSE VILLANUEVA RODRIGUEZ,PRD,Ocotlán de Morelos,Oaxaca,Alcalde,17dic2016,Asesinado,,,https://www.excelsior.com.mx/nacional/2016/12/17/1134964
+94,JOSE GUDALUPE ROMERO CHANES,,"Santa Lucía Cosamaloapan, Atlixco",Puebla,Alcalde auxiliar,16oct2016,Asesinado,,,https://www.unotv.com/noticias/estados/puebla/detalle/asesinan-a-edil-auxiliar-de-santa-lucia-cosamaloapan-860822/
+95,ALFREDO VIZCARRA DIAZ,,Concordia,Sinaloa,Alcalde,20sep2016,Problemas de salud,Derrame cerebral,,https://www.debate.com.mx/mazatlan/Fallece-Alfredo-Vizcarra-alcalde-de-Concordia-20160920-0103.html
+96,JOSE SANTA MARIA ZAVALA,,Huehuetlán El Grande,Puebla,Alcalde,2ago2016,Asesinado,Sobre la carretera lo ejecutaron.,,https://www.eluniversal.com.mx/articulo/estados/2016/08/2/asesinan-alcalde-de-huehuetlan-el-grande-puebla
+97,AMBROSIO SOTO DUARTE,PRD,Pungarabato,Guerrero,Alcalde,25jul2016,Asesinado,Emboscada para asesinarlo.,,https://www.eluniversal.com.mx/articulo/estados/2016/07/25/asesinan-alcalde-de-pungarabato
+98,DOMINGO LOPEZ GONZALEZ,,San Juan Chamula,Chiapas,Alcalde,23jul2016,Asesinado,Lo disparan en presidencia y lo arrastra un grupo de pobladores de distintas comunidades por la plaza principal del municipio.,,https://www.elfinanciero.com.mx/nacional/asesinan-a-alcalde-de-san-juan-chamula
+99,JUAN ANTONIO MAYEN SAUCEDO,,Santa Ana Jilotzingo,México,Alcalde,22abr2016,Asesinado,,,https://www.eluniversal.com.mx/articulo/metropoli/edomex/2016/04/22/asesinan-alcalde-de-jilotzingo-en-edomex
+100,GISELA MOTA OCAMPO,PRD,Temixco,Morelos,Alcaldesa,2ene2016,Asesinado,,,http://ntrzacatecas.com/2016/01/03/asesinan-a-alcaldesa-de-temixco-morelos/
+101,JESUS ALVARADO HERNANDEZ, ,San Pedro Sochiapam,Oaxaca,Alcalde,3nov2015,Accidente automovilístico,Muere junto a sus padres,,https://www.excelsior.com.mx/nacional/2015/11/03/1054907
+102,JAVIER MORALES PRIETO,,Tlapa,Guerrero,Alcalde electo,9jul2015,Problemas de salud,Paro cardiorrespitarotio,,https://www.eluniversal.com.mx/articulo/estados/2015/07/9/fallece-alcalde-electo-de-tlapa-guerrero
+103,ROGELIO SANCHEZ GALAN,PVEM,Jerécuaro,Guanajuato,Alcalde electo,24jun2015,Asesinado,Afuera de uno de sus negocios.,,https://www.excelsior.com.mx/nacional/2015/06/24/1031063
+104,SADOT BELLO GARCIA,PRI,Copala,Guerrero,Alcalde,19jun2015,Problemas de salud,Muere por brincoaspiración,,https://www.20minutos.com.mx/noticia/26900/0/alcalde-copala/muere-en-acapulco/broncoaspiracion/
+105,EDUARDO MORFIN CONTRERAS,PNA,Tizapan el Alto,Jalisco,Aspirante a alcalde,14jun2015,Asesinado,Creo que fue después de las elecciones.,,https://www.milenio.com/policia/asesinan-candidato-presidente-municipal-tizapan-alto
+106,ENRIQUE HERNANDEZ SALCEDO,MORENA,Yurécuaro,Michoacán,Aspirante a alcalde,14may2015,Asesinado,Durante pleno mitin político.,,https://www.animalpolitico.com/2015/05/antes-del-ataque-enrique-hernandez-habia-recibido-amenazas-acusa-morena/
+107,ULISES FABIAN QUIROZ,PRI-PVEM,Chilapa,Guerrero,Aspirante a alcalde,1may2015,Asesinado,En acto de campaña,,https://www.animalpolitico.com/2015/05/asesinan-a-candidato-del-pri-pvem-a-alcaldia-de-chilapa-guerrero/
+108,MANUEL GOMEZ TORRES,,Ayutla,Jalisco,Alcalde,3ago2014,Asesinado,,,https://www.animalpolitico.com/2014/08/asesinan-alcalde-de-ayutla-fiscalia-de-jalisco-liga-el-suceso-crimen-organizado/
+109,GUSTAVO GARIBAY GARCIA,PAN,Tanhuato,Michoacán,Alcalde,23mar2014,Asesinado,Ejecutado afuera de su domicilio.,,https://www.excelsior.com.mx/nacional/2014/03/23/949975
+110,JUAN ANGEL CASTAÑEDA LIZARDO,,Sombrerete,Zacatecas,Alcalde,10feb2014,Accidente automovilístico,Fallece calcinado,,https://www.milenio.com/estados/muere-alcalde-de-sombrerete-zacatecas-en-accidente
+111,EPIGMENIO RAFAEL ARAGON LUIS,,San Pedro Totolapan,Oaxaca,Alcalde electo,5dic2013,Asesinado,,,https://www.jornada.com.mx/2013/12/06/estados/038n2est
+112,YGNACIO LOPEZ MENDOZA,,Santa Ana Maya,MIchoacán,Alcalde,9nov2013,Asesinado,Ya tenía amenazas del crimen organizado,,https://expansion.mx/nacional/2013/11/09/alcalde-asesinado-de-michoacan-queria-morir-como-murio-dice-su-hermano
+113,FILIMON CARLOS ROBLES DIAZ,,Tepetongo,Zacatecas,Alcalde,30sep2013,Suicidio,Tenía 16 días de haber asumido el puesto.,,https://www.info7.mx/nacional/a-16-dias-de-asumir-el-cargo-se-suicida-alcalde-de-tepetongo-zacatecas/686927
+114,EVERARDO HUGO HERNANDEZ,,San Andrés Cabecera Nueva,Oaxaca,Alcalde electo,11sep2013,Asesinado,,,https://revistadebate.com.mx/?p=667
+115,ERNESTO RODRIGUEZ RODRIGUEZ,,Juchipila,Zacatecas,Alcalde,16ago2013,Problemas de salud,Fallece por cáncer de riñón ,,http://ntrzacatecas.com/2013/08/16/muere-alcalde-de-juchipila/
+116,GERONIMO MANUEL GARCIA ROSAS,,Aquila,Veracruz,Alcalde,22jul2013,Asesinado,Ejecutado por comandante de policia preventiva,,https://zonafranca.mx/radar/comandante-de-policia-preventiva-asesina-a-alcalde-de-aquila-veracruz-geronimo-manuel-garcia-rosas/
+117,RICARDO REYES ZAMUDIO,,San Dimas,Durango,Aspirante a alcalde,1jul2013,Asesinado,Fue secuestrado y despues hallado muerto,,https://www.20minutos.com.mx/noticia/5812/0/asesinan/candidato-alcalde/durango/
+118,JAIME OROZCO MADRIGAL,,Guadalupe y Calvo,Chihuahua,Aspirante a alcalde,13jun2013,Asesinado,,,https://www.cronica.com.mx/notas/2013/760754.html
+119,CELESTINO FELIX VASQUEZ LUIS,,San Miguel Tilquiapam,Oaxaca,Alcalde,4jun2013,Asesinado,Afuera de su casa lo ejecutan.,,https://planoinformativo.com/261284/asesinan-a-alcalde-de-san-miguel-tilquiapam-oaxaca-nacionales
+120,JOSE RENE GARRIDO ROCHA,,San Salvador el Verde,Puebla,Alcalde,19abr2013,Asesinado,Entran a su casa a asaltar y lo ejecutan con balazo en la cabeza,,https://intoleranciadiario.com/articles/2013/04/20/108180-matan-a-presidente-municipal-de-san-salvador-el-verde.html
+121,JOEL CEBADA BERNAL,,Nogales,Veracruz,Alcalde con licencia,14abr2013,Problemas de salud,"Insuficiencia renal aguda secundaria a una sepsis abdominal, neumonía bilateral.",,http://www.orizabaenred.com.mx/cgi-bin/web?b=VERNOTICIA&amp;%7Bnum%7D=104877
+122,FELICIANO MARTINEZ BAUTISTA,,San Juan Mixtepec,Oaxaca,Alcalde,25mar2013,Asesinado,Lo emboscaron en una carretera.,,https://www.elsiglodetorreon.com.mx/noticia/852878.emboscan-y-asesinan-a-edil.html
+123,ELIUD CERVANTES RAMIREZ,,Catemaco,Veracruz,Alcalde,11feb2013,Problemas de salud,Falla cardiaca,,https://www.eleconomista.com.mx/politica/Muere-presidente-municipal-de-Catemaco-20130211-0055.html
+124,LEOBARDO DIAZ ESTRADA,,Urique,Chihuahua,Alcalde,7feb2013,Accidente automovilístico,"Cae a un barranco de 200 mts. Existen versiones de que fue asesinado y decapitado en su vehículo, la versión oficila fue un accidente.",,https://mvsnoticias.com/noticias/estados/muere-alcalde-de-chihuahua-al-caer-su-vehiculo-en-un-barranco-130/
+125,WILFRIDO FLORES VILLA,,Nahuatzen,Michoacán,Alcalde provisional,5feb2013,Asesinado,Atacado por grupo armado,,https://diarioimagenqroo.mx/noticias/?p=39458
+126,FELIX SAN JUAN REBOLLAR,,San Baltazar Chichicapam,Oaxaca,Alcalde,6ene2013,*,"No se cuenta con mayor información, no pude validar de otra fuente la muerte.",,https://oaxaca.quadratin.com.mx/Condolencias-del-PRD-por-fallecimiento-del-Edil-de-Chichicapam/
+127,SALOMON DOMINGUEZ JIMENEZ,,San Juan Lajarcia,Oaxaca,Alcalde,19nov2012,Accidente automovilístico,,,https://oaxaca.quadratin.com.mx/Edil-de-San-Juan-Lajarcia-fallece-en-accidente-automovilistico/
+128,IGNACIO RODRIGUEZ VILLA,,Nahuatzen,Michoacán,Alcalde,29sep2012,Problemas de salud,Leucemia gástrica,,https://www.quadratin.com.mx/sucesos/Fallecio-el-alcalde-de-Nahuatzen-Ignacio-Rodriguez-Villa/
+129,EDGAR MORALES PEREZ,,Matehuala,San Luís Potosí,Alcalde electo,12ago2012,Asesinado,,,https://www.animalpolitico.com/2012/08/asesinan-a-alcalde-electo-del-pri-en-san-luis-potosi/
+130,PEDRO FILEMON LUIS HERNANDEZ,,Tilquiapam,Oaxaca,Alcalde suplente,2ago2012,Asesinado,,,https://www.razon.com.mx/mexico/asesinan-a-alcalde-suplente-de-tilquiapam-oaxaca/
+131,TEODORO CASTILLO DURAN,,General Heliodoro Castillo,Guerrero,Aspirante a alcalde,3jul2012,Problemas de salud,Hizo campaña después de operación y murió,,https://www.elmanana.com/fallece-candidato-del-pan-alcaldia-guerrero/1678965
+132,RICARDO GUZMAN ROMERO,,La Piedad,Michoacán,Alcalde,2nov2011,Asesinado,,,https://www.excelsior.com.mx/2011/11/03/nacional/779596
+133,FORTINO CORTES SANDOVAL,,Florencia,Zacatecas,Alcalde,28jul2011,Asesinado,Había sido secuestrado y se encontró al día siguiente.,,https://www.animalpolitico.com/2011/07/secuestran-a-alcalde-en-zacatecas/
+134,RAFAEL GOMEZ GARCIA,,Guadalupe,Zacatecas,Alcalde,17mar2011,Accidente automovilístico,,,https://www.eleconomista.com.mx/estados/Muere-edil-de-Zacatecas-en-accidente-automovilistico-20110317-0131.html
+135,LUIS JIMENEZ MATA,,Santiago Amoltepec,Oaxaca,Alcalde,13ene2011,Asesinado,,,https://www.animalpolitico.com/2011/01/asesinan-a-edil-en-oaxaca/
+136,ABRAHAM ORTIZ ROSALES,,Temoac,Morelos,Alcalde,10ene2011,Asesinado,,,https://www.jornada.com.mx/2011/01/14/estados/031n1est
+137,SAUL VARA RIVERA,,Zaragoza,Coahuila,Alcalde,8ene2011,Asesinado,,,https://archivo.eluniversal.com.mx/primera/36157.html
+138,GREGORIO BARRADAS MIRAVETE,,Juan Rodríguez Clara,Veracruz,Alcalde electo,8nov2010,Asesinado,Lo levantaron y asesinaron.,,https://www.jornada.com.mx/2010/11/09/politica/014n3pol
+139,JAIME LOZOYA AVILA,,San Bernanrdo,Durango,Alcalde,6nov2010,Asesinado,Fue golpeado al robarle sus pertenencias y llega al hospital a morir por las heridas.,,https://www.jornada.com.mx/2010/11/07/estados/032n1est
+140,GUSTAVO SANCHEZ CERVANTES,,Tancítaro,Michoacán,Alcalde interino,27sep2010,Asesinado,,,https://rpp.pe/mundo/actualidad/violencia-en-mexico-asesinan-a-alcalde-gustavo-sanchez-noticia-298361
+141,PRISCILIANO RODRIGUEZ SALINAS,,Dr. González,Nuevo León,Alcalde,23sep2010,Asesinado,,,https://www.info7.mx/locales/asesinan-a-alcalde-de-dr-gonzalez/494275
+142,ALEXANDER GARCIA LOPEZ,,El Naranjo,San Luís Potosí,Alcalde,8sep2010,Asesinado,,,https://www.jornada.com.mx/2010/09/09/politica/014n1pol
+143,EDELMIRO CAVAZOS LEAL,,Santiago,Nuevo León,Alcalde,18ago2010,Asesinado,Secuestrado y asesinado. Se le adjudicó a Los Zetas el atentado,,https://www.jornada.com.mx/2010/08/19/politica/010n1pol
+144,ROGELIO PEREZ ARRAMBIDE,,Pesquería,Nuevo León,Alcalde,25jul2010,Problemas de salud,Infarto,,https://www.horacero.com.mx/nacional/muere-de-un-infarto-el-presidente-municipal-de-pesqueria-nuevo-leon/
+145,JOSE MANUEL MALDONADO,,Piedras Negras,Coahuila,Alcalde,7jul2010,Accidente vehicular,Avionazo,,https://www.eleconomista.com.mx/politica/Muere-alcalde-de-Piedras-Negras-en-avionazo--20100707-0090.html
+146,NICOLAS GARCIA AMBROSIO,,Santo Domingo de Morelos,Oaxaca,Alcalde,1jul2010,Asesinado,Presunto asalto,,http://www.panoramadelpacifico.com/asesinan-al-presidente-municipal-y-sindico-en-santo-domingo-de-morelos/
+147,OSCAR VENANCIO MARTINEZ RIVERA ,,San José del Progreso,Oaxaca,Alcalde,21jun2010,Asesinado,Atacado por defensores del territorio según la PGR,,https://www.informador.mx/Mexico/Alcalde-oaxaqueno-muere-en-emboscada-20100621-0226.html
+148,JESUS MANUEL LARA RODRIGUEZ,,Guadalupe Distrito Bravos,Chihuahua,Alcalde,20jun2010,Asesinado,,,http://www.cronica.com.mx/notas/2010/513772.html
+149,MARIO GUAJARDO VARELA,,Valle Hermoso,Tamaulipas,Aspirante a alcalde,13may2010,Asesinado,,,http://www.laprensa.mx/notas.asp?id=13230
+150,JOSE SANTIAGO AGUSTIN,,Zapotitlán Tablas,Guerrero,Alcalde,28abr2010,Asesinado,,,https://www.eleconomista.com.mx/noticia/Ejecutan-a-alcalde-del-PRI-en-Guerrero--20100428-0046.html
+151,MANUEL ESTRADA ESCALANTE,,El Mezquital,Durango,Alcalde,23feb2010,Asesinado,,,https://www.elsiglodetorreon.com.mx/noticia/502840.matan-al-alcalde-de-el-mezquital.html
+152,RAMON MENDIVIL SOTELO,,Guadalupe y Calvo,Chihuahua,Alcalde,18feb2010,Asesinado,,,https://www.jornada.com.mx/2010/02/18/politica/008n1pol
+153,MIGUEL ANGEL NICOLAS MATA,,San Pedro Totolapan,Oaxaca,Alcalde,6ago2009,Accidente automovilístico,Muere calcinado,,http://www.panoramadelpacifico.com/presidente-municipal-muere-calcinado-en-puerto-escondido/
+154,ARIEL MEIXUEIRO MUÑOZ,,Namiquipa,Chihuahua,Alcalde,15jul2009,Asesinado,,,https://planoinformativo.com/50963/ejecutan-a-presidente-municipal-de-namiquipa-chihuahua-nacionales
+155,OCTAVIO MANUEL CARRILLO,,Vista Hermosa,Michoacán,Alcalde,25feb2009,Asesinado,,,https://www.informador.mx/Mexico/Sicarios-matan-al-alcalde-de-Vista-Hermosa-Michoacan-20090225-0201.html
+156,SALVADOR VERGARA CRUZ,,Ixtapan de la Sal,México,Alcalde,6oct2008,Asesinado,15 disparos sobre el presidente,,https://www.proceso.com.mx/nacional/2008/10/6/asesinan-al-alcalde-de-ixtapan-de-la-sal-28388.html
+157,HOMERO LORENZO RIOS,,Ayutla de los Libres,Guerrero,Alcalde con licencia,26sep2008,Asesinado,"Buscaba una diputación local, por lo que pidió licencia",,https://www.elsiglodetorreon.com.mx/noticia/381606.asesinan-a-candidato-del-prd-en-guerrero.html
+158,MARCELO IBARRA VILLA,,Villa Madero,Michoacán,Alcalde,3jun2008,Asesinado,,,https://www.jornada.com.mx/2008/06/03/index.php?section=estados&amp;article=033n1est
+159,DELIA GARZA GUTIERREZ,,San Fernando,Tamaulipas,Alcaldesa,20jul2007,Problemas de salud,Cáncer,,https://www.cronica.com.mx/notas/2007/312931.html
+160,WALTER HERRERA RAMIREZ,,Huimanguillo,Tabasco,Alcalde,16nov2006,Asesinado,Presuntamente implicado en el narco,,https://www.jornada.com.mx/2006/11/16/index.php?section=estados&amp;article=038n1est
+161,RAUL DELGADO BENAVIDES,,Cuautitlán de García Barragán,Jalisco,Alcalde,16jul2006,Asesinado,Acribillado,,https://www.cronica.com.mx/notas/2006/251407.html
+162,NEGUIB TADEO MANRIQUEZ MADARIAGA,,Ixteoec,Oaxaca,Alcalde,14ene2006,Asesinado,,,https://www.jornada.com.mx/2006/01/14/index.php?section=sociedad&amp;article=039n1soc
+163,FERNANDO CHAVEZ LOPEZ,,Buena Vista Tomatlán,Michoacán,Alcalde,9jul2005,Asesinado,,,https://wradio.com.mx/radio/2005/07/09/nacional/1120929480_186153.html
+164,GUADALUPE AVILA SALINAS,,San José Estancia Grande,Oaxaca,Aspirante a alcaldesa,27sep2004,Asesinado,,,https://cimacnoticias.com.mx/noticia/asesinan-a-candidata-perredista-en-oaxaca/
+165,MARIO SOSTENES LOZANO CAMACHO,,San Sebastián Tecomaxtlahuaca,Oaxaca,Alcalde,13jul2004,Asesinado,Muere en trifulca,,https://www.proceso.com.mx/nacional/2004/7/14/muere-un-alcalde-oaxaqueno-en-una-trifulca-59626.html
+166,CECILIO AMADOR CUAUHTLE,,Contla de Juan Cuamatzi,Tlaxcala,Alcalde,14feb2004,Accidente automovilístico,Mueren los dos alcaldes de Tlaxcala juntos.,,https://www.proceso.com.mx/nacional/2004/2/14/fallecen-dos-alcaldes-de-tlaxcala-en-accidente-vial-56476.html
+167,PEDRO ROJAS PEREZ,,Santa Cruz Quilehtla,Tlaxcala,Alcalde,14feb2004,Accidente automovilístico,Mueren los dos alcaldes de Tlaxcala juntos.,,https://www.proceso.com.mx/nacional/2004/2/14/fallecen-dos-alcaldes-de-tlaxcala-en-accidente-vial-56476.html
+168,CARLOS FILEMON KUK Y CAN,,Motul,Yucatán,Alcalde,28jul2003,Accidente automovilístico,"Chocó el 12 de junio, y estuvo en coma hasta su muerte.",,https://www.proceso.com.mx/nacional/2003/7/29/yucatan-fallece-el-alcalde-que-impuso-toque-de-queda-78020.html
+169,OSCAR ZUÑIGA QUIROZ,,Mier y Noriega,Nuevo León,Alcalde,15mar2002,Accidente automovilístico,Cae a un barranco de 50 mt.,,https://www.proceso.com.mx/nacional/estados/2002/3/15/muere-en-circunstancias-extranas-el-edil-de-nuevo-leon-65159.html
